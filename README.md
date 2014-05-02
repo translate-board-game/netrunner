@@ -1,4 +1,5 @@
 netrunner
 =========
 
-Translation of Android Netrunner cards
+Android:Netrunner cards translation
+
