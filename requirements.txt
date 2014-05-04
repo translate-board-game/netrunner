@@ -1,2 +1,4 @@
+# Python 3 modules for parse_cards.py script
+
 PyYAML
 awesome-slugify
