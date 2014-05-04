@@ -1,18 +1,13 @@
 
-
 import os
 import json
 from collections import OrderedDict
 
-from slugify import slugify_url as slugify
 import yaml
+from slugify import slugify_url as slugify
 
 
 CARDS_FILE_PATH = 'cards.json'
-
-SET_CODES = [
-    'core'
-]
 
 SET_ORDER = {
     'What Lies Ahead': 1,
@@ -34,19 +29,16 @@ SET_ORDER = {
     'First Contact': 3,
 }
 
-PROPERTIES = [
-    # 'number',
-    # 'cyclenumber',
-    # 'code',
-    'title',
-    'text',
-    'flavor',
-    # 'setname',
-    # 'set_code',
-    # 'faction',
-    'faction_code',
-    'uniqueness',
-]
+
+class folded(str):
+    pass
+
+
+def represent_folded_string(dumper, data):
+    return dumper.represent_scalar(u'tag:yaml.org,2002:str', data, style='>')
+
+
+yaml.add_representer(folded, represent_folded_string)
 
 
 def represent_ordered_dict(dumper, ordered_dict):
@@ -85,20 +77,30 @@ def main():
             if not os.path.isdir(dir_path):
                 os.mkdir(dir_path)
 
-            # if not os.path.isfile(file_path):
-            if True:
+            # Add absent cards only
+            if not os.path.isfile(file_path):
+
                 card_file = open(file_path, 'w')
+
                 card_yaml = OrderedDict()
+
                 card_yaml['faction_code'] = card['faction_code']
+                card_yaml['type_code'] = card['type_code']
                 card_yaml['uniqueness'] = card['uniqueness']
+
                 card_yaml['title'] = card['title']
-                card_yaml['title_ru'] = 'net'
-                card_yaml['text'] = card['text']
-                card_yaml['text_ru'] = 'net'
+                card_yaml['title_ru'] = 'нет'
+
+                text = card['text'].replace('\r', '')
+                card_yaml['text'] = folded(text)
+                card_yaml['text_ru'] = folded(text)
+
                 if 'flavor' in card:
-                    card_yaml['flavor'] = card.get('flavor', '')
-                    card_yaml['flavor_ru'] = 'net'
-                yaml.dump(card_yaml, card_file, default_flow_style=False, allow_unicode=True, line_break=False)
+                    flavor = card['flavor']
+                    card_yaml['flavor'] = folded(flavor)
+                    card_yaml['flavor_ru'] = folded(flavor)
+
+                yaml.dump(card_yaml, card_file, default_flow_style=False, allow_unicode=True, indent=4, width=70)
 
 
 if __name__ == '__main__':
