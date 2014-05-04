@@ -1,10 +1,17 @@
+#!/usr/bin/python3
 
 import os
+import sys
 import json
 from collections import OrderedDict
 
-import yaml
-from slugify import slugify_url as slugify
+try:
+    import yaml
+    from slugify import slugify_url as slugify
+except ImportError as import_error:
+    print("No module 'PyYAML' and/or 'awesome-slugify' installed")
+    print("Please use Python 3 with installed modules from requirements.txt")
+    sys.exit()
 
 
 CARDS_FILE_PATH = 'cards.json'
@@ -60,6 +67,9 @@ def main():
     cards = json.load(open(CARDS_FILE_PATH))
 
     print("From '{}' loaded {} cards".format(CARDS_FILE_PATH, len(cards)))
+
+    if not os.path.isdir('cards'):
+        os.mkdir('cards')
 
     for card in cards:
         cycle_number = card['cyclenumber']
