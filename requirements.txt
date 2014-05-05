@@ -1,4 +1,8 @@
-# Python 3 modules for parse_cards.py script
-
+# Common dependencies:
 PyYAML
+
+# parse_cards.py depends on:
 awesome-slugify
+
+# make_html.py depends on:
+Jinja2
