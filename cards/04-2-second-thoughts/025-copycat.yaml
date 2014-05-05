@@ -1,0 +1,24 @@
+side: Runner
+faction: Criminal
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Copycat
+title_ru: нет
+text: >-
+    Whenever you pass a piece of ice, you may trash Copycat. If you do,
+    choose another rezzed copy of that piece of ice protecting any server.
+    The run continues as if you had just passed the chosen piece of ice
+    (you are now running from the new position).
+text_ru: >-
+    Whenever you pass a piece of ice, you may trash Copycat. If you do,
+    choose another rezzed copy of that piece of ice protecting any server.
+    The run continues as if you had just passed the chosen piece of ice
+    (you are now running from the new position).
+flavor: >-
+    The copycat function should be used with extreme caution, or you might
+    end up in the wrong side of cyberspace.
+flavor_ru: >-
+    The copycat function should be used with extreme caution, or you might
+    end up in the wrong side of cyberspace.

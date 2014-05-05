@@ -1,0 +1,20 @@
+side: Corp
+faction: Jinteki
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Bullfrog
+title_ru: нет
+text: >-
+    [Subroutine] You and the Runner secretly spend 0[Credits], 1[Credits]
+    or 2[Credits]. Reveal spent credits. If you and the Runner spent a different
+    number of credits, move Bullfrog so that it is the outermost piece of
+    ice protecting another server (the Runner continues the run from this
+    new position and is now running on this new server).
+text_ru: >-
+    [Subroutine] You and the Runner secretly spend 0[Credits], 1[Credits]
+    or 2[Credits]. Reveal spent credits. If you and the Runner spent a different
+    number of credits, move Bullfrog so that it is the outermost piece of
+    ice protecting another server (the Runner continues the run from this
+    new position and is now running on this new server).

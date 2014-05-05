@@ -1,0 +1,24 @@
+side: Runner
+faction: Criminal
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Leviathan
+title_ru: нет
+text: >-
+    3[Credits]: Break up to 3 <strong>code gate</strong> subroutines.
+
+    3[Credits]: +5 strength.
+text_ru: >-
+    3[Credits]: Break up to 3 <strong>code gate</strong> subroutines.
+
+    3[Credits]: +5 strength.
+flavor: >-
+    It's efficient as hell, for certain very large values of "efficient".
+    The whale avatar is either a nice touch or a tragic misapplication of
+    programmer man-hour, depending on who you ask. -BT's Guide to Icebreaking
+flavor_ru: >-
+    It's efficient as hell, for certain very large values of "efficient".
+    The whale avatar is either a nice touch or a tragic misapplication of
+    programmer man-hour, depending on who you ask. -BT's Guide to Icebreaking

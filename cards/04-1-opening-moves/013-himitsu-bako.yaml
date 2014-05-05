@@ -1,0 +1,26 @@
+side: Corp
+faction: Jinteki
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Himitsu-Bako
+title_ru: нет
+text: >-
+    1[Credits]: Add Himitsu-Bako to HQ.
+
+    [Subroutine] End the run.
+text_ru: >-
+    1[Credits]: Add Himitsu-Bako to HQ.
+
+    [Subroutine] End the run.
+flavor: >-
+    Himitsu-Bako is a simple ice barrier that appears as a digital puzzle
+    box. What makes it special is the ease with which it can be uninstalled
+    and installed in a different server, throwing up barriers in unexpected
+    places and giving any intruder a curious feeling of déjà vu.
+flavor_ru: >-
+    Himitsu-Bako is a simple ice barrier that appears as a digital puzzle
+    box. What makes it special is the ease with which it can be uninstalled
+    and installed in a different server, throwing up barriers in unexpected
+    places and giving any intruder a curious feeling of déjà vu.

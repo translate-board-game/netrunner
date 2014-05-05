@@ -1,0 +1,20 @@
+side: Corp
+faction: Jinteki
+type: Agenda
+uniqueness: false
+obvious: false
+progress: 0.0
+title: The Future Perfect
+title_ru: нет
+text: >-
+    When the Runner accesses The Future Perfect, you and the Runner secretly
+    spend 0[Credits], 1[Credits], or 2[Credits]. Reveal spent credits. If
+    you and the Runner spent a different number of credits, prevent The
+    Future Perfect from being stolen. Ignore this ability if the Runner
+    accesses The Future Perfect while it is installed.
+text_ru: >-
+    When the Runner accesses The Future Perfect, you and the Runner secretly
+    spend 0[Credits], 1[Credits], or 2[Credits]. Reveal spent credits. If
+    you and the Runner spent a different number of credits, prevent The
+    Future Perfect from being stolen. Ignore this ability if the Runner
+    accesses The Future Perfect while it is installed.

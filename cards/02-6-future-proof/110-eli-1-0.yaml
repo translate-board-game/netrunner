@@ -1,0 +1,24 @@
+side: Corp
+faction: Haas-Bioroid
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Eli 1.0
+title_ru: нет
+text: >-
+    The Runner may spend [Click] to break any subroutine on Eli 1.0.
+
+    [Subroutine] End the run.
+
+    [Subroutine] End the run.
+text_ru: >-
+    The Runner may spend [Click] to break any subroutine on Eli 1.0.
+
+    [Subroutine] End the run.
+
+    [Subroutine] End the run.
+flavor: >-
+    "That's against the rules. The Creators will be angry."
+flavor_ru: >-
+    "That's against the rules. The Creators will be angry."

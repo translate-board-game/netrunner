@@ -1,0 +1,24 @@
+side: Runner
+faction: Shaper
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Alpha
+title_ru: нет
+text: >-
+    1[Credits]: Break ice subroutine.
+
+    1[Credits]: +1 strength.
+
+    Use Alpha only on the outermost piece of ice protecting a server.
+text_ru: >-
+    1[Credits]: Break ice subroutine.
+
+    1[Credits]: +1 strength.
+
+    Use Alpha only on the outermost piece of ice protecting a server.
+flavor: >-
+    The beginning...
+flavor_ru: >-
+    The beginning...

@@ -1,0 +1,26 @@
+side: Corp
+faction: NBN
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Tollbooth
+title_ru: нет
+text: >-
+    When the Runner encounters Tollbooth, he or she must pay 3[Credits],
+    if able. If the Runner cannot pay 3[Credits], end the run.
+
+    [Subroutine] End the run.
+text_ru: >-
+    When the Runner encounters Tollbooth, he or she must pay 3[Credits],
+    if able. If the Runner cannot pay 3[Credits], end the run.
+
+    [Subroutine] End the run.
+flavor: >-
+    "Ever heard of a catch-22?"
+
+    "Remind me to forget it."
+flavor_ru: >-
+    "Ever heard of a catch-22?"
+
+    "Remind me to forget it."

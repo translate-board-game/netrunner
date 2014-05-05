@@ -1,0 +1,20 @@
+side: Runner
+faction: Anarch
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Scrubbed
+title_ru: нет
+text: >-
+    This card is not trashed until another <strong>current</strong> is played
+    or an agenda is scored.
+
+    The first piece of ice encountered each turn has -2 strength for the
+    remainder of the run.
+text_ru: >-
+    This card is not trashed until another <strong>current</strong> is played
+    or an agenda is scored.
+
+    The first piece of ice encountered each turn has -2 strength for the
+    remainder of the run.

@@ -1,0 +1,18 @@
+side: Corp
+faction: Jinteki
+type: Agenda
+uniqueness: false
+obvious: false
+progress: 0.0
+title: House of Knives
+title_ru: нет
+text: >-
+    Place 3 agenda counters on House of Knives when you score it.
+
+    <strong>Hosted agenda counter</strong>: Do 1 net damage. Use this ability
+    only during a run and only once per run.
+text_ru: >-
+    Place 3 agenda counters on House of Knives when you score it.
+
+    <strong>Hosted agenda counter</strong>: Do 1 net damage. Use this ability
+    only during a run and only once per run.

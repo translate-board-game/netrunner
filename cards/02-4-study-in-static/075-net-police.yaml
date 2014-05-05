@@ -1,0 +1,22 @@
+side: Corp
+faction: NBN
+type: Asset
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Net Police
+title_ru: нет
+text: >-
+    X[Recurring Credits]
+
+    Use these credits during traces. X is the number of links the Runner
+    has.
+text_ru: >-
+    X[Recurring Credits]
+
+    Use these credits during traces. X is the number of links the Runner
+    has.
+flavor: >-
+    This is the net. We work here. We're cops.
+flavor_ru: >-
+    This is the net. We work here. We're cops.

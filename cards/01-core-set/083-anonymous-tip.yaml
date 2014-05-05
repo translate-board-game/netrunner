@@ -1,0 +1,18 @@
+side: Corp
+faction: NBN
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Anonymous Tip
+title_ru: нет
+text: >-
+    Draw 3 cards.
+text_ru: >-
+    Draw 3 cards.
+flavor: >-
+    "Please stay connected. Priority transfer in progress. An operator will
+    shortly verif-"
+flavor_ru: >-
+    "Please stay connected. Priority transfer in progress. An operator will
+    shortly verif-"

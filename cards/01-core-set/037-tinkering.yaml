@@ -1,0 +1,20 @@
+side: Runner
+faction: Shaper
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Tinkering
+title_ru: нет
+text: >-
+    Choose a piece of ice. That ice gains <strong>sentry</strong>, <strong>code
+    gate</strong>, and <strong>barrier</strong> until the end of the turn.
+text_ru: >-
+    Choose a piece of ice. That ice gains <strong>sentry</strong>, <strong>code
+    gate</strong>, and <strong>barrier</strong> until the end of the turn.
+flavor: >-
+    "There's that moment, you know, when the whole world seems to fall away
+    and it is only you and your mod, and the mod is the world."
+flavor_ru: >-
+    "There's that moment, you know, when the whole world seems to fall away
+    and it is only you and your mod, and the mod is the world."

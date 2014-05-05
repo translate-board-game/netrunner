@@ -1,0 +1,24 @@
+side: Corp
+faction: Jinteki
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Inazuma
+title_ru: нет
+text: >-
+    [Subroutine] The Runner cannot break any subroutines on the next piece
+    of ice he or she encounters during this run.
+
+    [Subroutine] The Runner cannot jack out until after encountering the
+    next piece of ice during this run.
+text_ru: >-
+    [Subroutine] The Runner cannot break any subroutines on the next piece
+    of ice he or she encounters during this run.
+
+    [Subroutine] The Runner cannot jack out until after encountering the
+    next piece of ice during this run.
+flavor: >-
+    Trapped in her own reality, a paralyzed runner cannot even jack out.
+flavor_ru: >-
+    Trapped in her own reality, a paralyzed runner cannot even jack out.

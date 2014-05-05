@@ -1,0 +1,26 @@
+side: Runner
+faction: Neutral
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Crypsis
+title_ru: нет
+text: >-
+    1[Credits]: Break ice subroutine.
+
+    1[Credits]: +1 strength.
+
+    [Click]: Place 1 virus counter on Crypsis.
+
+    When an encounter with a piece of ice in which you used Crypsis to break
+    a subroutine ends, remove 1 hosted virus counter or trash Crypsis.
+text_ru: >-
+    1[Credits]: Break ice subroutine.
+
+    1[Credits]: +1 strength.
+
+    [Click]: Place 1 virus counter on Crypsis.
+
+    When an encounter with a piece of ice in which you used Crypsis to break
+    a subroutine ends, remove 1 hosted virus counter or trash Crypsis.

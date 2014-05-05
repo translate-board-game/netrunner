@@ -1,0 +1,18 @@
+side: Runner
+faction: Criminal
+type: Hardware
+uniqueness: false
+obvious: false
+progress: 0.0
+title: HQ Interface
+title_ru: нет
+text: >-
+    Whenever you access cards from HQ, access 1 additional card from HQ.
+text_ru: >-
+    Whenever you access cards from HQ, access 1 additional card from HQ.
+flavor: >-
+    If you don't have someone on the inside, find someone on the inside
+    who's fond of desk ornaments.
+flavor_ru: >-
+    If you don't have someone on the inside, find someone on the inside
+    who's fond of desk ornaments.

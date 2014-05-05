@@ -1,0 +1,16 @@
+side: Corp
+faction: Weyland Consortium
+type: Identity
+uniqueness: false
+obvious: false
+progress: 0.0
+title: 'Weyland Consortium: Building a Better World'
+title_ru: нет
+text: >-
+    Gain 1[Credits] whenever you play a <strong>transaction</strong> operation.
+text_ru: >-
+    Gain 1[Credits] whenever you play a <strong>transaction</strong> operation.
+flavor: >-
+    Moving Upwards.
+flavor_ru: >-
+    Moving Upwards.

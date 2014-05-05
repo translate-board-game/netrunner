@@ -1,0 +1,18 @@
+side: Runner
+faction: Criminal
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Recon
+title_ru: нет
+text: >-
+    Make a run. You may jack out when you encounter the first piece of ice.
+text_ru: >-
+    Make a run. You may jack out when you encounter the first piece of ice.
+flavor: >-
+    Just like in the real world, sometimes it is best to send in the clone
+    to do the dirty work.
+flavor_ru: >-
+    Just like in the real world, sometimes it is best to send in the clone
+    to do the dirty work.

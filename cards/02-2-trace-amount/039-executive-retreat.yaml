@@ -1,0 +1,18 @@
+side: Corp
+faction: Neutral
+type: Agenda
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Executive Retreat
+title_ru: нет
+text: >-
+    When you score Executive Retreat, place 1 agenda counter on it and shuffle
+    HQ into R&D.
+
+    [Click], <strong>hosted agenda counter:</strong> Draw 5 cards.
+text_ru: >-
+    When you score Executive Retreat, place 1 agenda counter on it and shuffle
+    HQ into R&D.
+
+    [Click], <strong>hosted agenda counter:</strong> Draw 5 cards.

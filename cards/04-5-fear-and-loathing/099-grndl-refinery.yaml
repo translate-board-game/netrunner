@@ -1,0 +1,24 @@
+side: Corp
+faction: Weyland Consortium
+type: Asset
+uniqueness: false
+obvious: false
+progress: 0.0
+title: GRNDL Refinery
+title_ru: нет
+text: >-
+    GRNDL Refinery can be advanced.
+
+    [Click], [Trash]: Gain 4[Credits] for each advancement token on GRNDL
+    Refinery.
+text_ru: >-
+    GRNDL Refinery can be advanced.
+
+    [Click], [Trash]: Gain 4[Credits] for each advancement token on GRNDL
+    Refinery.
+flavor: >-
+    GRNDL refineries process many different rare elements unearthed during
+    the fracking process.
+flavor_ru: >-
+    GRNDL refineries process many different rare elements unearthed during
+    the fracking process.

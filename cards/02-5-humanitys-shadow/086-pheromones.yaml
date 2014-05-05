@@ -1,0 +1,22 @@
+side: Runner
+faction: Criminal
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Pheromones
+title_ru: нет
+text: >-
+    X[Recurring Credits]
+
+    Use these credits during runs on HQ. X is the number of virus counters
+    on Pheromones.
+
+    Whenever you make a successful run on HQ, place 1 virus counter on Pheromones.
+text_ru: >-
+    X[Recurring Credits]
+
+    Use these credits during runs on HQ. X is the number of virus counters
+    on Pheromones.
+
+    Whenever you make a successful run on HQ, place 1 virus counter on Pheromones.

@@ -1,0 +1,24 @@
+side: Runner
+faction: Anarch
+type: Resource
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Tallie Perrault
+title_ru: нет
+text: >-
+    Whenever a <strong>gray ops</strong> or <strong>black ops</strong> operation
+    is trashed after resolving, you may give the Corp 1 bad publicity and
+    take 1 tag.
+
+    [Trash]: Draw 1 card for each bad publicity the Corp has.
+text_ru: >-
+    Whenever a <strong>gray ops</strong> or <strong>black ops</strong> operation
+    is trashed after resolving, you may give the Corp 1 bad publicity and
+    take 1 tag.
+
+    [Trash]: Draw 1 card for each bad publicity the Corp has.
+flavor: >-
+    Stick with your plan and you'll be fine. Stick with the plan.
+flavor_ru: >-
+    Stick with your plan and you'll be fine. Stick with the plan.

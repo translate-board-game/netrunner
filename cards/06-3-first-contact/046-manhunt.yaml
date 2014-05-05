@@ -1,0 +1,20 @@
+side: Corp
+faction: NBN
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Manhunt
+title_ru: нет
+text: >-
+    This card is not trashed until another <strong>current</strong> is played
+    or an agenda is stolen.
+
+    The first time the Runner makes a successful run each turn, <strong>trace<sup>2</sup></strong>&ndash;
+    if successful, give the Runner 1 tag.
+text_ru: >-
+    This card is not trashed until another <strong>current</strong> is played
+    or an agenda is stolen.
+
+    The first time the Runner makes a successful run each turn, <strong>trace<sup>2</sup></strong>&ndash;
+    if successful, give the Runner 1 tag.

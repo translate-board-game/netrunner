@@ -1,0 +1,20 @@
+side: Runner
+faction: Criminal
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Ninja
+title_ru: нет
+text: >-
+    1[Credits]: Break <strong>sentry</strong> subroutine.
+
+    3[Credits]: +5 strength.
+text_ru: >-
+    1[Credits]: Break <strong>sentry</strong> subroutine.
+
+    3[Credits]: +5 strength.
+flavor: >-
+    You feel Ninja before you see Ninja, if you see Ninja at all.
+flavor_ru: >-
+    You feel Ninja before you see Ninja, if you see Ninja at all.

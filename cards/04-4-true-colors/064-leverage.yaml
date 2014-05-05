@@ -1,0 +1,22 @@
+side: Runner
+faction: Criminal
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Leverage
+title_ru: нет
+text: >-
+    Play only if you made a successful run on HQ this turn.
+
+    Prevent all damage until the beginning of your next turn unless the
+    Corp takes 2 bad publicity.
+text_ru: >-
+    Play only if you made a successful run on HQ this turn.
+
+    Prevent all damage until the beginning of your next turn unless the
+    Corp takes 2 bad publicity.
+flavor: >-
+    "Care to have a look?"
+flavor_ru: >-
+    "Care to have a look?"

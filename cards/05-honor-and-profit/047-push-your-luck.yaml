@@ -1,0 +1,16 @@
+side: Runner
+faction: Criminal
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Push Your Luck
+title_ru: нет
+text: >-
+    Secretly spend any amount of credits. The Corp guesses if you spent
+    an even or odd amount. Reveal spent credits. If the Corp guessed incorrectly,
+    gain credits equal to twice the amount spent.
+text_ru: >-
+    Secretly spend any amount of credits. The Corp guesses if you spent
+    an even or odd amount. Reveal spent credits. If the Corp guessed incorrectly,
+    gain credits equal to twice the amount spent.

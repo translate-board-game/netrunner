@@ -1,0 +1,22 @@
+side: Runner
+faction: Anarch
+type: Resource
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Scrubber
+title_ru: нет
+text: >-
+    2[Recurring Credits]
+
+    Use these credits to trash cards.
+text_ru: >-
+    2[Recurring Credits]
+
+    Use these credits to trash cards.
+flavor: >-
+    "They're mindless tools of destruction, good for little else. Nice guys,
+    though. Some of my best friends are scrubbers." - Ji "Noise" Reilly
+flavor_ru: >-
+    "They're mindless tools of destruction, good for little else. Nice guys,
+    though. Some of my best friends are scrubbers." - Ji "Noise" Reilly

@@ -1,0 +1,20 @@
+side: Runner
+faction: Neutral
+type: Resource
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Public Sympathy
+title_ru: нет
+text: >-
+    Your maximum hand size is increased by 2.
+text_ru: >-
+    Your maximum hand size is increased by 2.
+flavor: >-
+    "I'm just thankful that the brain damage is reversible. With the support
+    of the city of New Angeles, I hope to be on my feet and back to practicing
+    my art very soon." - Kate "Mac" McCaffrey
+flavor_ru: >-
+    "I'm just thankful that the brain damage is reversible. With the support
+    of the city of New Angeles, I hope to be on my feet and back to practicing
+    my art very soon." - Kate "Mac" McCaffrey

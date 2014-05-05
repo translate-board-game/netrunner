@@ -1,0 +1,16 @@
+side: Runner
+faction: Neutral
+type: Hardware
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Dyson Mem Chip
+title_ru: нет
+text: >-
+    +1[Memory Unit], +1[Link]
+text_ru: >-
+    +1[Memory Unit], +1[Link]
+flavor: >-
+    Archaic but reliable.
+flavor_ru: >-
+    Archaic but reliable.

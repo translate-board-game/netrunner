@@ -1,0 +1,28 @@
+side: Corp
+faction: Jinteki
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Tsurugi
+title_ru: нет
+text: >-
+    [Subroutine] End the run unless the Corp pays 1[Credits].
+
+    [Subroutine] Do 1 net damage.
+
+    [Subroutine] Do 1 net damage.
+
+    [Subroutine] Do 1 net damage.
+text_ru: >-
+    [Subroutine] End the run unless the Corp pays 1[Credits].
+
+    [Subroutine] Do 1 net damage.
+
+    [Subroutine] Do 1 net damage.
+
+    [Subroutine] Do 1 net damage.
+flavor: >-
+    "It's ice so dangerous it has safety protocols. Think about that." -g00ru
+flavor_ru: >-
+    "It's ice so dangerous it has safety protocols. Think about that." -g00ru

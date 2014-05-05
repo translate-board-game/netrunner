@@ -1,0 +1,26 @@
+side: Runner
+faction: Shaper
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: ZU.13 Key Master
+title_ru: нет
+text: >-
+    If you have at least 2[Link], the memory cost of ZU.13 Key Master is
+    0, even if it is not installed.
+
+    1[Credits]: Break <strong>code gate</strong> subroutine.
+
+    1[Credits]: +1 strength.
+text_ru: >-
+    If you have at least 2[Link], the memory cost of ZU.13 Key Master is
+    0, even if it is not installed.
+
+    1[Credits]: Break <strong>code gate</strong> subroutine.
+
+    1[Credits]: +1 strength.
+flavor: >-
+    He always uses the same key.
+flavor_ru: >-
+    He always uses the same key.

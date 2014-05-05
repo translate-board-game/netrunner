@@ -1,0 +1,32 @@
+side: Runner
+faction: Criminal
+type: Resource
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Crash Space
+title_ru: нет
+text: >-
+    2[Recurring Credits]
+
+    Use these credits to pay for removing tags.
+
+    [Trash]: Prevent up to 3 meat damage.
+text_ru: >-
+    2[Recurring Credits]
+
+    Use these credits to pay for removing tags.
+
+    [Trash]: Prevent up to 3 meat damage.
+flavor: >-
+    "My roomie, he had a cousin with a college girlfriend whose brother's
+    best friend was an addict, and the addict's mother used to live here.
+    So yeah, there's a connection."
+
+    -Lez "Rockfist" S.
+flavor_ru: >-
+    "My roomie, he had a cousin with a college girlfriend whose brother's
+    best friend was an addict, and the addict's mother used to live here.
+    So yeah, there's a connection."
+
+    -Lez "Rockfist" S.

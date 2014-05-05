@@ -1,0 +1,16 @@
+side: Runner
+faction: Criminal
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Account Siphon
+title_ru: нет
+text: >-
+    Make a run on HQ. If successful, instead of accessing cards you may
+    force the Corp to lose up to 5[Credits], then you gain 2[Credits] for
+    each credit lost and take 2 tags.
+text_ru: >-
+    Make a run on HQ. If successful, instead of accessing cards you may
+    force the Corp to lose up to 5[Credits], then you gain 2[Credits] for
+    each credit lost and take 2 tags.

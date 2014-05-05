@@ -1,0 +1,26 @@
+side: Corp
+faction: Weyland Consortium
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Ice Wall
+title_ru: нет
+text: >-
+    Ice Wall can be advanced and has +1 strength for each advancement token
+    on it.
+
+    [Subroutine] End the run.
+text_ru: >-
+    Ice Wall can be advanced and has +1 strength for each advancement token
+    on it.
+
+    [Subroutine] End the run.
+flavor: >-
+    "I asked for ice as impenetrable as a wall. I can't decide if someone
+    down in R&D has a warped sense of humor or just a very literal mind."
+    - Liz Campbell, VP Project Security
+flavor_ru: >-
+    "I asked for ice as impenetrable as a wall. I can't decide if someone
+    down in R&D has a warped sense of humor or just a very literal mind."
+    - Liz Campbell, VP Project Security

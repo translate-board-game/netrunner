@@ -1,0 +1,18 @@
+side: Runner
+faction: Anarch
+type: Identity
+uniqueness: false
+obvious: false
+progress: 0.0
+title: 'Noise: Hacker Extraordinaire'
+title_ru: нет
+text: >-
+    Whenever you install a <strong>virus</strong> program, the Corp trashes
+    the top card of R&D.
+text_ru: >-
+    Whenever you install a <strong>virus</strong> program, the Corp trashes
+    the top card of R&D.
+flavor: >-
+    "Watch this. It'll be funny."
+flavor_ru: >-
+    "Watch this. It'll be funny."

@@ -1,0 +1,30 @@
+side: Runner
+faction: Shaper
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Creeper
+title_ru: нет
+text: >-
+    If you have at least 2[Link], the memory cost of Creeper is 0, even
+    if it is not installed.
+
+    2[Credits]: Break <strong>sentry</strong> subroutine.
+
+    1[Credits]: +1 strength.
+text_ru: >-
+    If you have at least 2[Link], the memory cost of Creeper is 0, even
+    if it is not installed.
+
+    2[Credits]: Break <strong>sentry</strong> subroutine.
+
+    1[Credits]: +1 strength.
+flavor: >-
+    "The itsy bitsy spider went up the data spout…"
+
+    -Chaos Theory
+flavor_ru: >-
+    "The itsy bitsy spider went up the data spout…"
+
+    -Chaos Theory

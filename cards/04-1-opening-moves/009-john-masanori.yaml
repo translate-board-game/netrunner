@@ -1,0 +1,22 @@
+side: Runner
+faction: Neutral
+type: Resource
+uniqueness: true
+obvious: false
+progress: 0.0
+title: John Masanori
+title_ru: нет
+text: >-
+    The first time you make a successful run each turn, draw 1 card.
+
+    The first time you make an unsuccessful run each turn, take 1 tag.
+text_ru: >-
+    The first time you make a successful run each turn, draw 1 card.
+
+    The first time you make an unsuccessful run each turn, take 1 tag.
+flavor: >-
+    "I've been logging online with babes all day. Don't worry, the connections
+    are clean. I guarantee it."
+flavor_ru: >-
+    "I've been logging online with babes all day. Don't worry, the connections
+    are clean. I guarantee it."

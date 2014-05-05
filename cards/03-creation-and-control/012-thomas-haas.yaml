@@ -1,0 +1,24 @@
+side: Corp
+faction: Haas-Bioroid
+type: Asset
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Thomas Haas
+title_ru: нет
+text: >-
+    Thomas Haas can be advanced.
+
+    [Trash]: Gain 2[Credits] for each advancement token on Thomas Haas.
+text_ru: >-
+    Thomas Haas can be advanced.
+
+    [Trash]: Gain 2[Credits] for each advancement token on Thomas Haas.
+flavor: >-
+    Thomas, the director's son, has been carefully groomed to inherit the
+    corporation since before he was born. His favorite pastime appears to
+    be disappointing his mother.
+flavor_ru: >-
+    Thomas, the director's son, has been carefully groomed to inherit the
+    corporation since before he was born. His favorite pastime appears to
+    be disappointing his mother.

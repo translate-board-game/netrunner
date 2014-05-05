@@ -1,0 +1,18 @@
+side: Runner
+faction: Criminal
+type: Identity
+uniqueness: false
+obvious: false
+progress: 0.0
+title: 'Ken "Express" Tenma: Disappeared Clone'
+title_ru: нет
+text: >-
+    The first time you play a <strong>run</strong> event each turn, gain
+    1[Credits].
+text_ru: >-
+    The first time you play a <strong>run</strong> event each turn, gain
+    1[Credits].
+flavor: >-
+    "Try to keep up."
+flavor_ru: >-
+    "Try to keep up."

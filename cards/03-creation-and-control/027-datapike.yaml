@@ -1,0 +1,24 @@
+side: Corp
+faction: Neutral
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Datapike
+title_ru: нет
+text: >-
+    [Subroutine] The Runner must pay 2[Credits], if able. If the Runner
+    cannot pay 2[Credits], end the run.
+
+    [Subroutine] End the run.
+text_ru: >-
+    [Subroutine] The Runner must pay 2[Credits], if able. If the Runner
+    cannot pay 2[Credits], end the run.
+
+    [Subroutine] End the run.
+flavor: >-
+    "Cheap, off-the-shelf data protection. Cheap for them, that is. Not
+    for us." -Ele "Smoke" Scovak
+flavor_ru: >-
+    "Cheap, off-the-shelf data protection. Cheap for them, that is. Not
+    for us." -Ele "Smoke" Scovak

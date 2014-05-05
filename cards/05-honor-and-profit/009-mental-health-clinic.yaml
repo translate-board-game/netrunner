@@ -1,0 +1,22 @@
+side: Corp
+faction: Jinteki
+type: Asset
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Mental Health Clinic
+title_ru: нет
+text: >-
+    Gain 1[Credits] when your turn begins.
+
+    The Runner's maximum hand size is increased by 1.
+text_ru: >-
+    Gain 1[Credits] when your turn begins.
+
+    The Runner's maximum hand size is increased by 1.
+flavor: >-
+    The whitewashed walls dropped away and a beautiful zen garden appeared.
+    It was all an illusion, but it was a comforting illusion.
+flavor_ru: >-
+    The whitewashed walls dropped away and a beautiful zen garden appeared.
+    It was all an illusion, but it was a comforting illusion.

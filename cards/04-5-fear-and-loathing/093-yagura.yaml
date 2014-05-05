@@ -1,0 +1,26 @@
+side: Corp
+faction: Jinteki
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Yagura
+title_ru: нет
+text: >-
+    [Subroutine] Look at the top card of R&D. You may add that card to the
+    bottom of R&D.
+
+    [Subroutine] Do 1 net damage.
+text_ru: >-
+    [Subroutine] Look at the top card of R&D. You may add that card to the
+    bottom of R&D.
+
+    [Subroutine] Do 1 net damage.
+flavor: >-
+    The 'cyber-war' is a war of information, and in a war of information,
+    advance warning can be as good as a killing blow. -Michael Muhama, Musings
+    on Cybercrime
+flavor_ru: >-
+    The 'cyber-war' is a war of information, and in a war of information,
+    advance warning can be as good as a killing blow. -Michael Muhama, Musings
+    on Cybercrime

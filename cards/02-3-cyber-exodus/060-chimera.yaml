@@ -1,0 +1,26 @@
+side: Corp
+faction: Neutral
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Chimera
+title_ru: нет
+text: >-
+    When you rez Chimera, choose <strong>sentry</strong>, <strong>code gate</strong>,
+    or <strong>barrier</strong>. Chimera gains that subtype until derezzed.
+
+    When a turn ends, derez Chimera.
+
+    [Subroutine] End the run.
+text_ru: >-
+    When you rez Chimera, choose <strong>sentry</strong>, <strong>code gate</strong>,
+    or <strong>barrier</strong>. Chimera gains that subtype until derezzed.
+
+    When a turn ends, derez Chimera.
+
+    [Subroutine] End the run.
+flavor: >-
+    Three heads. One big headache.
+flavor_ru: >-
+    Three heads. One big headache.

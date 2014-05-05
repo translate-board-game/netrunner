@@ -1,0 +1,22 @@
+side: Corp
+faction: NBN
+type: Asset
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Broadcast Square
+title_ru: нет
+text: >-
+    Whenever you are about to take at least 1 bad publicity, <strong>trace<sup>3</sup></strong>&ndash;
+    if successful, avoid taking the bad publicity.
+text_ru: >-
+    Whenever you are about to take at least 1 bad publicity, <strong>trace<sup>3</sup></strong>&ndash;
+    if successful, avoid taking the bad publicity.
+flavor: >-
+    Tourists have flocked to Broadcast Square in even greater numbers ever
+    since the notorious Ho-meh's crime spree ended there in a hail of flechettes.
+    Well, that's how it happened in the sensie.
+flavor_ru: >-
+    Tourists have flocked to Broadcast Square in even greater numbers ever
+    since the notorious Ho-meh's crime spree ended there in a hail of flechettes.
+    Well, that's how it happened in the sensie.

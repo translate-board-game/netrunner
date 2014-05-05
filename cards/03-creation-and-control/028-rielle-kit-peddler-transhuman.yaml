@@ -1,0 +1,18 @@
+side: Runner
+faction: Shaper
+type: Identity
+uniqueness: false
+obvious: false
+progress: 0.0
+title: 'Rielle "Kit" Peddler: Transhuman'
+title_ru: нет
+text: >-
+    The first piece of ice you encounter each turn gains <strong>code gate</strong>
+    until the end of the run.
+text_ru: >-
+    The first piece of ice you encounter each turn gains <strong>code gate</strong>
+    until the end of the run.
+flavor: >-
+    "I was not; I was; I am not; I am all."
+flavor_ru: >-
+    "I was not; I was; I am not; I am all."

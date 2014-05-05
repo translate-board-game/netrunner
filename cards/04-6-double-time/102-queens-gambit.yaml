@@ -1,0 +1,20 @@
+side: Runner
+faction: Anarch
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Queen's Gambit
+title_ru: нет
+text: >-
+    As an additional cost to play this event, spend [Click].
+
+    Place up to 3 advancement tokens on an unrezzed card in a remote server.
+    Gain 2[Credits] for each advancement token placed. You cannot access
+    that card this turn.
+text_ru: >-
+    As an additional cost to play this event, spend [Click].
+
+    Place up to 3 advancement tokens on an unrezzed card in a remote server.
+    Gain 2[Credits] for each advancement token placed. You cannot access
+    that card this turn.

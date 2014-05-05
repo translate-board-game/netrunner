@@ -1,0 +1,24 @@
+side: Corp
+faction: NBN
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Snoop
+title_ru: нет
+text: >-
+    When the Runner encounters Snoop, reveal all cards in the Runner's grip.
+
+    <strong>Hosted power counter:</strong> Reveal all cards in the Runner's
+    grip. Trash 1 of those cards.
+
+    [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
+    place 1 power counter on Snoop.
+text_ru: >-
+    When the Runner encounters Snoop, reveal all cards in the Runner's grip.
+
+    <strong>Hosted power counter:</strong> Reveal all cards in the Runner's
+    grip. Trash 1 of those cards.
+
+    [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
+    place 1 power counter on Snoop.

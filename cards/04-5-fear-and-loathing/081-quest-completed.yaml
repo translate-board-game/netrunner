@@ -1,0 +1,28 @@
+side: Runner
+faction: Anarch
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Quest Completed
+title_ru: нет
+text: >-
+    Play only if you made a successful run on R&D, HQ, and Archives this
+    turn.
+
+    Access 1 installed card (non-ice).
+text_ru: >-
+    Play only if you made a successful run on R&D, HQ, and Archives this
+    turn.
+
+    Access 1 installed card (non-ice).
+flavor: >-
+    That moment of bliss. That feeling of accomplishment. That certainty
+    of purpose.
+
+    What's next?
+flavor_ru: >-
+    That moment of bliss. That feeling of accomplishment. That certainty
+    of purpose.
+
+    What's next?

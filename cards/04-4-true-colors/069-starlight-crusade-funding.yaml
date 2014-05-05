@@ -1,0 +1,30 @@
+side: Runner
+faction: Neutral
+type: Resource
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Starlight Crusade Funding
+title_ru: нет
+text: >-
+    When your turn begins, lose [Click].
+
+    Ignore any additional costs on each <strong>double</strong> event you
+    play.
+text_ru: >-
+    When your turn begins, lose [Click].
+
+    Ignore any additional costs on each <strong>double</strong> event you
+    play.
+flavor: >-
+    "I like to say 'Traditional values for a modern time.' War in space
+    and life made by human hands, machines smart enough to ask if they have
+    souls... Religion is as important and relevent now as at any time in
+    human history. We must rise to meet the new challenges. And we must
+    have faith."
+flavor_ru: >-
+    "I like to say 'Traditional values for a modern time.' War in space
+    and life made by human hands, machines smart enough to ask if they have
+    souls... Religion is as important and relevent now as at any time in
+    human history. We must rise to meet the new challenges. And we must
+    have faith."

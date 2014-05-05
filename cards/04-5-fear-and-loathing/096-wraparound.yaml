@@ -1,0 +1,24 @@
+side: Corp
+faction: NBN
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Wraparound
+title_ru: нет
+text: >-
+    If there is no installed <strong>fracter</strong>, Wraparound has +7
+    strength.
+
+    [Subroutine] End the run.
+text_ru: >-
+    If there is no installed <strong>fracter</strong>, Wraparound has +7
+    strength.
+
+    [Subroutine] End the run.
+flavor: >-
+    "It can make a real fine roller coaster, provided you're properly stimmed
+    up." -Noise
+flavor_ru: >-
+    "It can make a real fine roller coaster, provided you're properly stimmed
+    up." -Noise

@@ -1,0 +1,26 @@
+side: Runner
+faction: Criminal
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Faerie
+title_ru: нет
+text: >-
+    0[Credits]: Break <strong>sentry</strong> subroutine.
+
+    1[Credits]: +1 strength.
+
+    When an encounter with a piece of ice in which you used Faerie to break
+    a subroutine ends, trash Faerie.
+text_ru: >-
+    0[Credits]: Break <strong>sentry</strong> subroutine.
+
+    1[Credits]: +1 strength.
+
+    When an encounter with a piece of ice in which you used Faerie to break
+    a subroutine ends, trash Faerie.
+flavor: >-
+    Do you believe in faeries?
+flavor_ru: >-
+    Do you believe in faeries?

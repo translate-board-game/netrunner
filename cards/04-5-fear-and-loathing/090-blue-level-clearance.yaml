@@ -1,0 +1,22 @@
+side: Corp
+faction: Haas-Bioroid
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Blue Level Clearance
+title_ru: нет
+text: >-
+    As an additional cost to play this operation, spend [Click].
+
+    Gain 5[Credits] and draw 2 cards.
+text_ru: >-
+    As an additional cost to play this operation, spend [Click].
+
+    Gain 5[Credits] and draw 2 cards.
+flavor: >-
+    Blue-one level clearance doesn't exist. And if it did exist, you wouldn't
+    be cleared to know about it.
+flavor_ru: >-
+    Blue-one level clearance doesn't exist. And if it did exist, you wouldn't
+    be cleared to know about it.

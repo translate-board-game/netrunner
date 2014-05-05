@@ -1,0 +1,18 @@
+side: Corp
+faction: Jinteki
+type: Asset
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Chairman Hiro
+title_ru: нет
+text: >-
+    The Runner's maximum hand size is reduced by 2.
+
+    If Chairman Hiro is trashed while being accessed, add him to the Runner's
+    score area as an agenda worth 2 agenda points.
+text_ru: >-
+    The Runner's maximum hand size is reduced by 2.
+
+    If Chairman Hiro is trashed while being accessed, add him to the Runner's
+    score area as an agenda worth 2 agenda points.

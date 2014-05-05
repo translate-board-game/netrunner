@@ -1,0 +1,20 @@
+side: Corp
+faction: Haas-Bioroid
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Rototurret
+title_ru: нет
+text: >-
+    [Subroutine] Trash 1 program.
+
+    [Subroutine] End the run.
+text_ru: >-
+    [Subroutine] Trash 1 program.
+
+    [Subroutine] End the run.
+flavor: >-
+    Whrrrrr!
+flavor_ru: >-
+    Whrrrrr!

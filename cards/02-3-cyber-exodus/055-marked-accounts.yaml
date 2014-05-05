@@ -1,0 +1,16 @@
+side: Corp
+faction: NBN
+type: Asset
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Marked Accounts
+title_ru: нет
+text: >-
+    When your turn begins, take 1[Credits] from Marked Accounts, if able.
+
+    [Click]: Place 3[Credits] from the bank on Marked Accounts.
+text_ru: >-
+    When your turn begins, take 1[Credits] from Marked Accounts, if able.
+
+    [Click]: Place 3[Credits] from the bank on Marked Accounts.

@@ -1,0 +1,30 @@
+side: Corp
+faction: Haas-Bioroid
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Fenris
+title_ru: нет
+text: >-
+    When you rez Fenris, take 1 bad publicity.
+
+    [Subroutine] Do 1 brain damage.
+
+    [Subroutine] End the run.
+text_ru: >-
+    When you rez Fenris, take 1 bad publicity.
+
+    [Subroutine] Do 1 brain damage.
+
+    [Subroutine] End the run.
+flavor: >-
+    As reported cases of brain damage in veterans rise, mind/machine interface
+    devices are subject to increased public scrutiny. That certain programs
+    can cause irreparable harm to users has gone from fringe theory to accepted
+    truth.
+flavor_ru: >-
+    As reported cases of brain damage in veterans rise, mind/machine interface
+    devices are subject to increased public scrutiny. That certain programs
+    can cause irreparable harm to users has gone from fringe theory to accepted
+    truth.

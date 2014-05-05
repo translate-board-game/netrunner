@@ -1,0 +1,22 @@
+side: Runner
+faction: Criminal
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Satellite Uplink
+title_ru: нет
+text: >-
+    Expose up to 2 cards.
+text_ru: >-
+    Expose up to 2 cards.
+flavor: >-
+    T-minus 13 seconds. Leela had to work fast. She jacked in the mesa wire
+    and activated the screen. 7 seconds. The internal SLD was still booting.
+    4 seconds. The interface flickered to life with an orange glow. 2 seconds.
+    With a tap of a finger she was in.
+flavor_ru: >-
+    T-minus 13 seconds. Leela had to work fast. She jacked in the mesa wire
+    and activated the screen. 7 seconds. The internal SLD was still booting.
+    4 seconds. The interface flickered to life with an orange glow. 2 seconds.
+    With a tap of a finger she was in.

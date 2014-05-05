@@ -1,0 +1,22 @@
+side: Corp
+faction: Jinteki
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Chum
+title_ru: нет
+text: >-
+    [Subroutine] The next piece of ice the Runner encounters during this
+    run has +2 strength. Do 3 net damage unless the Runner breaks all subroutines
+    on that piece of ice.
+text_ru: >-
+    [Subroutine] The next piece of ice the Runner encounters during this
+    run has +2 strength. Do 3 net damage unless the Runner breaks all subroutines
+    on that piece of ice.
+flavor: >-
+    "You ever get that feeling like you're shark food? Pay attention to
+    that feeling." - Ji "Noise" Reilly
+flavor_ru: >-
+    "You ever get that feeling like you're shark food? Pay attention to
+    that feeling." - Ji "Noise" Reilly

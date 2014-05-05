@@ -1,0 +1,24 @@
+side: Runner
+faction: Shaper
+type: Hardware
+uniqueness: true
+obvious: false
+progress: 0.0
+title: The Toolbox
+title_ru: нет
+text: >-
+    +2[Memory Unit] +2[Link]
+
+    2[Recurring Credits]
+
+    Use the credits to pay for using <strong>icebreakers.</strong>
+
+    Limit 1 <strong>console</strong> per player.
+text_ru: >-
+    +2[Memory Unit] +2[Link]
+
+    2[Recurring Credits]
+
+    Use the credits to pay for using <strong>icebreakers.</strong>
+
+    Limit 1 <strong>console</strong> per player.

@@ -1,0 +1,20 @@
+side: Corp
+faction: Jinteki
+type: Agenda
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Medical Breakthrough
+title_ru: нет
+text: >-
+    Lower the advancement requirement of each Medical Breakthrough by 1.
+    This ability is active even while Medical Breakthrough is in the Runner's
+    score area.
+text_ru: >-
+    Lower the advancement requirement of each Medical Breakthrough by 1.
+    This ability is active even while Medical Breakthrough is in the Runner's
+    score area.
+flavor: >-
+    "You won't feel it. Or anything else, for that matter."
+flavor_ru: >-
+    "You won't feel it. Or anything else, for that matter."

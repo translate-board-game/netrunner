@@ -1,0 +1,18 @@
+side: Corp
+faction: Neutral
+type: Agenda
+uniqueness: false
+obvious: false
+progress: 0.0
+title: NAPD Contract
+title_ru: нет
+text: >-
+    The advancement requirement of NAPD Contract is increased by 1 for each
+    bad publicity the Corp has.
+
+    As an additional cost to steal NAPD Contract, the Runner must pay 4[Credits].
+text_ru: >-
+    The advancement requirement of NAPD Contract is increased by 1 for each
+    bad publicity the Corp has.
+
+    As an additional cost to steal NAPD Contract, the Runner must pay 4[Credits].

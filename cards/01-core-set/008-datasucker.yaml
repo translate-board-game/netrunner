@@ -1,0 +1,20 @@
+side: Runner
+faction: Anarch
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Datasucker
+title_ru: нет
+text: >-
+    Whenever you make a successful run on a central server, place 1 virus
+    counter on Datasucker.
+
+    <strong>Hosted virus counter</strong>: Rezzed piece of ice currently
+    being encountered has -1 strength until the end of the encounter.
+text_ru: >-
+    Whenever you make a successful run on a central server, place 1 virus
+    counter on Datasucker.
+
+    <strong>Hosted virus counter</strong>: Rezzed piece of ice currently
+    being encountered has -1 strength until the end of the encounter.

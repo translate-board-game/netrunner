@@ -1,0 +1,18 @@
+side: Corp
+faction: Neutral
+type: Asset
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Private Contracts
+title_ru: нет
+text: >-
+    Place 14[Credits] from the bank on Private Contracts when it is rezzed.
+    When there are no credits left on Private Contracts, trash it.
+
+    [Click]: Take 2[Credits] from Private Contracts.
+text_ru: >-
+    Place 14[Credits] from the bank on Private Contracts when it is rezzed.
+    When there are no credits left on Private Contracts, trash it.
+
+    [Click]: Take 2[Credits] from Private Contracts.

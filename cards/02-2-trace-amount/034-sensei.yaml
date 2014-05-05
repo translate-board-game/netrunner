@@ -1,0 +1,18 @@
+side: Corp
+faction: Jinteki
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Sensei
+title_ru: нет
+text: >-
+    [Subroutine] For the remainder of this run, each piece of ice encountered
+    except Sensei gains "[Subroutine] End the run" after all its other subroutines.
+text_ru: >-
+    [Subroutine] For the remainder of this run, each piece of ice encountered
+    except Sensei gains "[Subroutine] End the run" after all its other subroutines.
+flavor: >-
+    Peace and violence. Both must lead to the same place.
+flavor_ru: >-
+    Peace and violence. Both must lead to the same place.

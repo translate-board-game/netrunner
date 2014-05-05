@@ -1,0 +1,16 @@
+side: Corp
+faction: Weyland Consortium
+type: Agenda
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Hostile Takeover
+title_ru: нет
+text: >-
+    When you score Hostile takeover, gain 7[Credits] and take 1 bad publicity.
+text_ru: >-
+    When you score Hostile takeover, gain 7[Credits] and take 1 bad publicity.
+flavor: >-
+    There are going to be some changes around here.
+flavor_ru: >-
+    There are going to be some changes around here.

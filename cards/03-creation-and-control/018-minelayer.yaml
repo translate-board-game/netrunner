@@ -1,0 +1,18 @@
+side: Corp
+faction: Haas-Bioroid
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Minelayer
+title_ru: нет
+text: >-
+    [Subroutine] You may install a piece of ice from HQ as the outermost
+    piece of ice protecting this server, ignoring all install costs.
+text_ru: >-
+    [Subroutine] You may install a piece of ice from HQ as the outermost
+    piece of ice protecting this server, ignoring all install costs.
+flavor: >-
+    Sometimes you just have to guess.
+flavor_ru: >-
+    Sometimes you just have to guess.

@@ -1,0 +1,20 @@
+side: Runner
+faction: Anarch
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Surge
+title_ru: нет
+text: >-
+    Play only if you placed at least 1 virus counter on a program this turn.
+
+    Place 2 virus counters on that program.
+text_ru: >-
+    Play only if you placed at least 1 virus counter on a program this turn.
+
+    Place 2 virus counters on that program.
+flavor: >-
+    You must yell "surge" to get the full effect.
+flavor_ru: >-
+    You must yell "surge" to get the full effect.

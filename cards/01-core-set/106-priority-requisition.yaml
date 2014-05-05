@@ -1,0 +1,18 @@
+side: Corp
+faction: Neutral
+type: Agenda
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Priority Requisition
+title_ru: нет
+text: >-
+    When you score Priority Requisition, you may rez a piece of ice ignoring
+    all costs.
+text_ru: >-
+    When you score Priority Requisition, you may rez a piece of ice ignoring
+    all costs.
+flavor: >-
+    "If it isn't in my terminal by six p.m., heads are going to roll!"
+flavor_ru: >-
+    "If it isn't in my terminal by six p.m., heads are going to roll!"

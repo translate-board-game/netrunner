@@ -1,0 +1,18 @@
+side: Corp
+faction: Haas-Bioroid
+type: Asset
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Eve Campaign
+title_ru: нет
+text: >-
+    Place 16[Credits] from the bank on Eve Campaign when it is rezzed. When
+    there are no credits left on Eve Campaign, trash it.
+
+    When your turn begins, take 2[Credits] from Eve Campaign.
+text_ru: >-
+    Place 16[Credits] from the bank on Eve Campaign when it is rezzed. When
+    there are no credits left on Eve Campaign, trash it.
+
+    When your turn begins, take 2[Credits] from Eve Campaign.

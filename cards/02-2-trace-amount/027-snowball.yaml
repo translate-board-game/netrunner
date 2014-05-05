@@ -1,0 +1,28 @@
+side: Runner
+faction: Shaper
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Snowball
+title_ru: нет
+text: >-
+    1[Credits]: Break <strong>barrier</strong> subroutine.
+
+    1[Credits]: +1 strength.
+
+    Whenever you use Snowball to break a subroutine, it has +1 strength
+    for the remainder of the run.
+text_ru: >-
+    1[Credits]: Break <strong>barrier</strong> subroutine.
+
+    1[Credits]: +1 strength.
+
+    Whenever you use Snowball to break a subroutine, it has +1 strength
+    for the remainder of the run.
+flavor: >-
+    "If your snowball gets big enough, you can make it into a snowman!"
+    - Chaos Theory
+flavor_ru: >-
+    "If your snowball gets big enough, you can make it into a snowman!"
+    - Chaos Theory

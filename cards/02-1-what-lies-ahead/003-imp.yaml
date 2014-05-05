@@ -1,0 +1,22 @@
+side: Runner
+faction: Anarch
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Imp
+title_ru: нет
+text: >-
+    Place 2 virus counters on Imp when it is installed.
+
+    Once per turn, you may remove 1 hosted virus counter to trash a card
+    you access at no cost (even if it cannot normally be trashed).
+text_ru: >-
+    Place 2 virus counters on Imp when it is installed.
+
+    Once per turn, you may remove 1 hosted virus counter to trash a card
+    you access at no cost (even if it cannot normally be trashed).
+flavor: >-
+    Something wicked this way comes.
+flavor_ru: >-
+    Something wicked this way comes.

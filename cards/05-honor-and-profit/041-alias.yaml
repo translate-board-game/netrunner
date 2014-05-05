@@ -1,0 +1,26 @@
+side: Runner
+faction: Criminal
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Alias
+title_ru: нет
+text: >-
+    1[Credits]: Break <strong>sentry</strong> subroutine.
+
+    2[Credits]: +3 strength.
+
+    Alias cannot be used on ice protecting a remote server.
+text_ru: >-
+    1[Credits]: Break <strong>sentry</strong> subroutine.
+
+    2[Credits]: +3 strength.
+
+    Alias cannot be used on ice protecting a remote server.
+flavor: >-
+    Appearances are easy to change in cyberspace, but a high-quality render
+    is not easy to mimic.
+flavor_ru: >-
+    Appearances are easy to change in cyberspace, but a high-quality render
+    is not easy to mimic.

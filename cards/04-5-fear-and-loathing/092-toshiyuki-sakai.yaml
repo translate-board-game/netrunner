@@ -1,0 +1,22 @@
+side: Corp
+faction: Jinteki
+type: Asset
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Toshiyuki Sakai
+title_ru: нет
+text: >-
+    Toshiyuki Sakai can be advanced.
+
+    If Toshiyuki Sakai is accessed while installed, you may swap him with
+    an agenda or asset from HQ. The new agenda or asset is installed unrezzed,
+    and keeps all advancement tokens on Toshiyuki Sakai. The Runner can
+    choose not to access the new card.
+text_ru: >-
+    Toshiyuki Sakai can be advanced.
+
+    If Toshiyuki Sakai is accessed while installed, you may swap him with
+    an agenda or asset from HQ. The new agenda or asset is installed unrezzed,
+    and keeps all advancement tokens on Toshiyuki Sakai. The Runner can
+    choose not to access the new card.

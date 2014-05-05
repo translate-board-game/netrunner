@@ -1,0 +1,18 @@
+side: Corp
+faction: Neutral
+type: Agenda
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Private Security Force
+title_ru: нет
+text: >-
+    If the Runner is tagged, Private Security Force gains: "[Click]: Do
+    1 meat damage."
+text_ru: >-
+    If the Runner is tagged, Private Security Force gains: "[Click]: Do
+    1 meat damage."
+flavor: >-
+    "Expensive? Not when you're protecting a fortune as large as ours."
+flavor_ru: >-
+    "Expensive? Not when you're protecting a fortune as large as ours."

@@ -1,0 +1,24 @@
+side: Corp
+faction: Weyland Consortium
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Caduceus
+title_ru: нет
+text: >-
+    [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
+    the Corp gains 3[Credits].
+
+    [Subroutine] <strong>Trace<sup>2</sup></strong>&ndash; If successful,
+    end the run.
+text_ru: >-
+    [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
+    the Corp gains 3[Credits].
+
+    [Subroutine] <strong>Trace<sup>2</sup></strong>&ndash; If successful,
+    end the run.
+flavor: >-
+    A symbol of commerce, but beware its bite.
+flavor_ru: >-
+    A symbol of commerce, but beware its bite.

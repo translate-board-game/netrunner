@@ -1,0 +1,26 @@
+side: Corp
+faction: Jinteki
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Shiro
+title_ru: нет
+text: >-
+    [Subroutine] Look at the top 3 cards of R&D and arrange them in any
+    order.
+
+    [Subroutine] The Runner accesses the top card of R&D unless the Corp
+    pays 1[Credits].
+text_ru: >-
+    [Subroutine] Look at the top 3 cards of R&D and arrange them in any
+    order.
+
+    [Subroutine] The Runner accesses the top card of R&D unless the Corp
+    pays 1[Credits].
+flavor: >-
+    When locked in a fortress in your own mind, be careful what door you
+    open.
+flavor_ru: >-
+    When locked in a fortress in your own mind, be careful what door you
+    open.

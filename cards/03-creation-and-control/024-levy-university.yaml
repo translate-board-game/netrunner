@@ -1,0 +1,20 @@
+side: Corp
+faction: Neutral
+type: Asset
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Levy University
+title_ru: нет
+text: >-
+    [Click], 1[Credits]: Search R&D for a piece of ice, reveal it, and add
+    it to HQ. Shuffle R&D.
+text_ru: >-
+    [Click], 1[Credits]: Search R&D for a piece of ice, reveal it, and add
+    it to HQ. Shuffle R&D.
+flavor: >-
+    "Just another factory, making good corporate drones for the machine.
+    Their CS department is the best in the world, though." -g00ru
+flavor_ru: >-
+    "Just another factory, making good corporate drones for the machine.
+    Their CS department is the best in the world, though." -g00ru

@@ -1,0 +1,24 @@
+side: Corp
+faction: Haas-Bioroid
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Successful Demonstration
+title_ru: нет
+text: >-
+    Play only if the Runner made an unsuccessful run during his or her last
+    turn.
+
+    Gain 7[Credits].
+text_ru: >-
+    Play only if the Runner made an unsuccessful run during his or her last
+    turn.
+
+    Gain 7[Credits].
+flavor: >-
+    Success is defined by the safety of data, not the safety of potential
+    intruders.
+flavor_ru: >-
+    Success is defined by the safety of data, not the safety of potential
+    intruders.

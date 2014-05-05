@@ -1,0 +1,18 @@
+side: Runner
+faction: Shaper
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: False Echo
+title_ru: нет
+text: >-
+    Whenever you pass a piece of unrezzed ice, you may trash False Echo.
+    If you do, the Corp must rez that ice or add it to HQ.
+text_ru: >-
+    Whenever you pass a piece of unrezzed ice, you may trash False Echo.
+    If you do, the Corp must rez that ice or add it to HQ.
+flavor: >-
+    "What if this ice wants to be free?" -Rielle "Kit" Peddler
+flavor_ru: >-
+    "What if this ice wants to be free?" -Rielle "Kit" Peddler

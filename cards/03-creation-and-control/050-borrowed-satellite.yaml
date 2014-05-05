@@ -1,0 +1,22 @@
+side: Runner
+faction: Shaper
+type: Resource
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Borrowed Satellite
+title_ru: нет
+text: >-
+    +1[Link]
+
+    Your maximum hand size is increased by 1.
+text_ru: >-
+    +1[Link]
+
+    Your maximum hand size is increased by 1.
+flavor: >-
+    Some people have their own satellite receiver. Others have their own
+    satellite.
+flavor_ru: >-
+    Some people have their own satellite receiver. Others have their own
+    satellite.

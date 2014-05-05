@@ -1,0 +1,26 @@
+side: Corp
+faction: Neutral
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Hunter
+title_ru: нет
+text: >-
+    [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
+    give the Runner 1 tag.
+text_ru: >-
+    [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
+    give the Runner 1 tag.
+flavor: >-
+    .//run/hunter-tr/return=true
+
+    client/sec256IPv7-&gt;confirm? /y
+
+    3926:0HB7:1001:2NB1:1601:7784:ERROR
+flavor_ru: >-
+    .//run/hunter-tr/return=true
+
+    client/sec256IPv7-&gt;confirm? /y
+
+    3926:0HB7:1001:2NB1:1601:7784:ERROR

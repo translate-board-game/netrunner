@@ -1,0 +1,24 @@
+side: Corp
+faction: Weyland Consortium
+type: Agenda
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Geothermal Fracking
+title_ru: нет
+text: >-
+    Place 2 agenda counters on Geothermal Fracking when you score it.
+
+    [Click], <strong>hosted agenda counter</strong>: Gain 7[Credits] and
+    take 1 bad publicity.
+text_ru: >-
+    Place 2 agenda counters on Geothermal Fracking when you score it.
+
+    [Click], <strong>hosted agenda counter</strong>: Gain 7[Credits] and
+    take 1 bad publicity.
+flavor: >-
+    Pumping water into deep sea thermal vents produced huge amounts of energy.
+    A profitable side effect.
+flavor_ru: >-
+    Pumping water into deep sea thermal vents produced huge amounts of energy.
+    A profitable side effect.

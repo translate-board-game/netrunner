@@ -1,0 +1,24 @@
+side: Corp
+faction: NBN
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Matrix Analyzer
+title_ru: нет
+text: >-
+    When the Runner encounters Matrix Analyzer, you may pay 1[Credits] to
+    place 1 advancement token on a card that can be advanced.
+
+    [Subroutine] <strong>Trace<sup>2</sup></strong>&ndash; If successful,
+    give the Runner 1 tag.
+text_ru: >-
+    When the Runner encounters Matrix Analyzer, you may pay 1[Credits] to
+    place 1 advancement token on a card that can be advanced.
+
+    [Subroutine] <strong>Trace<sup>2</sup></strong>&ndash; If successful,
+    give the Runner 1 tag.
+flavor: >-
+    Analyzing was great. Delegating commands turned out to be even better.
+flavor_ru: >-
+    Analyzing was great. Delegating commands turned out to be even better.

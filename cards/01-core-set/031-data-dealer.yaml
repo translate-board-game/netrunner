@@ -1,0 +1,18 @@
+side: Runner
+faction: Criminal
+type: Resource
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Data Dealer
+title_ru: нет
+text: >-
+    <strong>Forfeit an agenda,</strong> [Click]: Gain 9[Credits].
+text_ru: >-
+    <strong>Forfeit an agenda,</strong> [Click]: Gain 9[Credits].
+flavor: >-
+    Shadier the dealer, better the price. Unless the dealer's too shady.
+    Then there might be a hidden fee after they take your scrip.
+flavor_ru: >-
+    Shadier the dealer, better the price. Unless the dealer's too shady.
+    Then there might be a hidden fee after they take your scrip.

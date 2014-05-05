@@ -1,0 +1,20 @@
+side: Corp
+faction: Neutral
+type: Agenda
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Corporate War
+title_ru: нет
+text: >-
+    If you have at least 7[Credits] when you score Corporate War, gain 7[Credits];
+    otherwise, lose all credits in your credit pool.
+text_ru: >-
+    If you have at least 7[Credits] when you score Corporate War, gain 7[Credits];
+    otherwise, lose all credits in your credit pool.
+flavor: >-
+    There were several ways to win a corporate war. One of them was to bring
+    out the bazookas.
+flavor_ru: >-
+    There were several ways to win a corporate war. One of them was to bring
+    out the bazookas.

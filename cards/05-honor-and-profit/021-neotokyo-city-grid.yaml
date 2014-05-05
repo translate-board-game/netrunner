@@ -1,0 +1,22 @@
+side: Corp
+faction: Jinteki
+type: Upgrade
+uniqueness: false
+obvious: false
+progress: 0.0
+title: NeoTokyo City Grid
+title_ru: нет
+text: >-
+    The first time an advancement token is a placed on a card in this server
+    each turn, gain 1[Credits].
+
+    Limit 1 <strong>region</strong> per server.
+text_ru: >-
+    The first time an advancement token is a placed on a card in this server
+    each turn, gain 1[Credits].
+
+    Limit 1 <strong>region</strong> per server.
+flavor: >-
+    It is difficult to go to Japan without ending up in the sprawl of NeoTokyo.
+flavor_ru: >-
+    It is difficult to go to Japan without ending up in the sprawl of NeoTokyo.

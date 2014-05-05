@@ -1,0 +1,16 @@
+side: Runner
+faction: Shaper
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Diesel
+title_ru: нет
+text: >-
+    Draw 3 cards.
+text_ru: >-
+    Draw 3 cards.
+flavor: >-
+    Diesel gives you flames.
+flavor_ru: >-
+    Diesel gives you flames.

@@ -1,0 +1,20 @@
+side: Runner
+faction: Shaper
+type: Hardware
+uniqueness: false
+obvious: false
+progress: 0.0
+title: The Personal Touch
+title_ru: нет
+text: >-
+    Install The Personal Touch only on an <strong>icebreaker.</strong>
+
+    Host <strong>icebreaker</strong> has +1 strength.
+text_ru: >-
+    Install The Personal Touch only on an <strong>icebreaker.</strong>
+
+    Host <strong>icebreaker</strong> has +1 strength.
+flavor: >-
+    A z-loop here, a cortical wave there...
+flavor_ru: >-
+    A z-loop here, a cortical wave there...

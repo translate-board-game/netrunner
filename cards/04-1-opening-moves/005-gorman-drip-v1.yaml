@@ -1,0 +1,26 @@
+side: Runner
+faction: Criminal
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Gorman Drip v1
+title_ru: нет
+text: >-
+    Whenever the corp spends a [Click] to draw 1 card or gain 1[Credits]
+    (not through a card ability), place 1 virus counter on Gorman Drip v1.
+
+    [Click], [Trash]: Gain 1[Credits] for each virus counter on Gorman Drip
+    v1.
+text_ru: >-
+    Whenever the corp spends a [Click] to draw 1 card or gain 1[Credits]
+    (not through a card ability), place 1 virus counter on Gorman Drip v1.
+
+    [Click], [Trash]: Gain 1[Credits] for each virus counter on Gorman Drip
+    v1.
+flavor: >-
+    Simple in principle, a drip virus drains fractions of currency from
+    their accounts into yours.
+flavor_ru: >-
+    Simple in principle, a drip virus drains fractions of currency from
+    their accounts into yours.

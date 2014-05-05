@@ -1,0 +1,26 @@
+side: Runner
+faction: Anarch
+type: Hardware
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Deep Red
+title_ru: нет
+text: >-
+    +3[Memory Unit]
+
+    Use the MU on Deep Red only for <strong>Caïssa</strong> programs.
+
+    Whenever you install a <strong>Caïssa</strong> program, you may trigger
+    its [Click] ability without spending [Click].
+
+    Limit 1 <strong>console</strong> per player.
+text_ru: >-
+    +3[Memory Unit]
+
+    Use the MU on Deep Red only for <strong>Caïssa</strong> programs.
+
+    Whenever you install a <strong>Caïssa</strong> program, you may trigger
+    its [Click] ability without spending [Click].
+
+    Limit 1 <strong>console</strong> per player.

@@ -1,0 +1,22 @@
+side: Runner
+faction: Shaper
+type: Resource
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Ice Analyzer
+title_ru: нет
+text: >-
+    Whenever the Corp rezzes a piece of ice, place 1[Credits] on Ice Analyzer.
+
+    You may use credits on Ice Analyzer to install programs.
+text_ru: >-
+    Whenever the Corp rezzes a piece of ice, place 1[Credits] on Ice Analyzer.
+
+    You may use credits on Ice Analyzer to install programs.
+flavor: >-
+    "If you know the source code you can write to beat it, or just rejigger
+    it a little and make it yours. That works, too." -Exile
+flavor_ru: >-
+    "If you know the source code you can write to beat it, or just rejigger
+    it a little and make it yours. That works, too." -Exile

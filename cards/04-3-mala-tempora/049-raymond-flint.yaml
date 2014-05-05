@@ -1,0 +1,30 @@
+side: Runner
+faction: Neutral
+type: Resource
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Raymond Flint
+title_ru: нет
+text: >-
+    Whenever the Corp takes at least 1 bad publicity, access 1 card from
+    HQ.
+
+    [Trash]: Expose 1 card.
+text_ru: >-
+    Whenever the Corp takes at least 1 bad publicity, access 1 card from
+    HQ.
+
+    [Trash]: Expose 1 card.
+flavor: >-
+    "Flint? He's a burnout. A useless, alcoholic waste of Department time
+    and money." -Louis Blaine, NAPD Detective.
+
+    "One of the best detectives on my PI list." -Richard Harrison, NAPD
+    Captain.
+flavor_ru: >-
+    "Flint? He's a burnout. A useless, alcoholic waste of Department time
+    and money." -Louis Blaine, NAPD Detective.
+
+    "One of the best detectives on my PI list." -Richard Harrison, NAPD
+    Captain.

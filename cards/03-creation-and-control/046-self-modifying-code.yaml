@@ -1,0 +1,24 @@
+side: Runner
+faction: Shaper
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Self-modifying Code
+title_ru: нет
+text: >-
+    2[Credits], [Trash]: Search your stack for a program and install it
+    (paying the install cost). Shuffle your stack.
+text_ru: >-
+    2[Credits], [Trash]: Search your stack for a program and install it
+    (paying the install cost). Shuffle your stack.
+flavor: >-
+    "Make sure you tell the source code which executable you want it to
+    compile into. One time I left my rig for a couple of minutes, and when
+    I came back all of my files had been replaced with cat vids." - The
+    Professor
+flavor_ru: >-
+    "Make sure you tell the source code which executable you want it to
+    compile into. One time I left my rig for a couple of minutes, and when
+    I came back all of my files had been replaced with cat vids." - The
+    Professor

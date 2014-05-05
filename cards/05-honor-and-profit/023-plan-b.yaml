@@ -1,0 +1,20 @@
+side: Corp
+faction: Neutral
+type: Asset
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Plan B
+title_ru: нет
+text: >-
+    Plan B can be advanced.
+
+    If the Runner accesses Plan B, you may reveal and score an agenda from
+    HQ with an advancement requirement equal to or less than the number
+    of advancement tokens on Plan B.
+text_ru: >-
+    Plan B can be advanced.
+
+    If the Runner accesses Plan B, you may reveal and score an agenda from
+    HQ with an advancement requirement equal to or less than the number
+    of advancement tokens on Plan B.

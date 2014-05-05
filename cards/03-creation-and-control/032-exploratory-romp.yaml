@@ -1,0 +1,20 @@
+side: Runner
+faction: Shaper
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Exploratory Romp
+title_ru: нет
+text: >-
+    Make a run. If successful, instead of accessing cards, remove up to
+    3 advancement tokens from a single card in or protecting the attacked
+    server.
+text_ru: >-
+    Make a run. If successful, instead of accessing cards, remove up to
+    3 advancement tokens from a single card in or protecting the attacked
+    server.
+flavor: >-
+    Wheeeee!
+flavor_ru: >-
+    Wheeeee!

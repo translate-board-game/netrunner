@@ -1,0 +1,20 @@
+side: Corp
+faction: Neutral
+type: Agenda
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Profiteering
+title_ru: нет
+text: >-
+    When you score Profiteering, take up to 3 bad publicity. Gain 5[Credits]
+    for each bad publicity taken.
+text_ru: >-
+    When you score Profiteering, take up to 3 bad publicity. Gain 5[Credits]
+    for each bad publicity taken.
+flavor: >-
+    It was surprisingly easy to make creds... if you didn't care about how
+    you made them.
+flavor_ru: >-
+    It was surprisingly easy to make creds... if you didn't care about how
+    you made them.

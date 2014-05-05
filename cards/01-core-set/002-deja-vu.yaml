@@ -1,0 +1,18 @@
+side: Runner
+faction: Anarch
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Déjà Vu
+title_ru: нет
+text: >-
+    Add 1 card (or up to 2 <strong>virus</strong> cards) from your heap
+    to your grip.
+text_ru: >-
+    Add 1 card (or up to 2 <strong>virus</strong> cards) from your heap
+    to your grip.
+flavor: >-
+    Anything worth doing is worth doing twice.
+flavor_ru: >-
+    Anything worth doing is worth doing twice.

@@ -1,0 +1,24 @@
+side: Runner
+faction: Shaper
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Inti
+title_ru: нет
+text: >-
+    1[Credits]: Break <strong>barrier</strong> subroutine.
+
+    2[Credits]: +1 strength for the remainder of this run.
+text_ru: >-
+    1[Credits]: Break <strong>barrier</strong> subroutine.
+
+    2[Credits]: +1 strength for the remainder of this run.
+flavor: >-
+    "The Incans believed that the sun god resided in the Haman Pacha, the
+    upper realm of the cosmos. They just didn't know that the Haman Pacha
+    hadn't been discovered yet." -The Professor
+flavor_ru: >-
+    "The Incans believed that the sun god resided in the Haman Pacha, the
+    upper realm of the cosmos. They just didn't know that the Haman Pacha
+    hadn't been discovered yet." -The Professor

@@ -1,0 +1,22 @@
+side: Runner
+faction: Neutral
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Lucky Find
+title_ru: нет
+text: >-
+    As an additional cost to play this event, spend [Click].
+
+    Gain 9[Credits].
+text_ru: >-
+    As an additional cost to play this event, spend [Click].
+
+    Gain 9[Credits].
+flavor: >-
+    Data hunters always pay top dollar for old drives. The more useless
+    the data, the higher the payout.
+flavor_ru: >-
+    Data hunters always pay top dollar for old drives. The more useless
+    the data, the higher the payout.

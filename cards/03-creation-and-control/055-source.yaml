@@ -1,0 +1,24 @@
+side: Runner
+faction: Neutral
+type: Resource
+uniqueness: true
+obvious: false
+progress: 0.0
+title: The Source
+title_ru: нет
+text: >-
+    The advancement requirement of all agendas is increased by 1.
+
+    As an additional cost to steal an agenda, you must pay 3[Credits].
+
+    Trash The Source when an agenda is scored or stolen.
+text_ru: >-
+    The advancement requirement of all agendas is increased by 1.
+
+    As an additional cost to steal an agenda, you must pay 3[Credits].
+
+    Trash The Source when an agenda is scored or stolen.
+flavor: >-
+    A dangerous game, but well worth playing.
+flavor_ru: >-
+    A dangerous game, but well worth playing.

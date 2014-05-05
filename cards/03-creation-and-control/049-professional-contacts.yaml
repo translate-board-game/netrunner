@@ -1,0 +1,20 @@
+side: Runner
+faction: Shaper
+type: Resource
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Professional Contacts
+title_ru: нет
+text: >-
+    [Click]: Gain 1[Credits] and draw 1 card.
+text_ru: >-
+    [Click]: Gain 1[Credits] and draw 1 card.
+flavor: >-
+    Sometimes it doesn't matter how expensive your rig his, or how many
+    credits are in your account, or even your skill as a runner. Most of
+    the time, a simple handshake and a name are all you need.
+flavor_ru: >-
+    Sometimes it doesn't matter how expensive your rig his, or how many
+    credits are in your account, or even your skill as a runner. Most of
+    the time, a simple handshake and a name are all you need.

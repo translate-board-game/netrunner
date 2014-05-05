@@ -1,0 +1,18 @@
+side: Corp
+faction: Jinteki
+type: Agenda
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Braintrust
+title_ru: нет
+text: >-
+    When you score Braintrust, place 1 agenda counter on it for every 2
+    advancement tokens on it over 3.
+
+    The rez cost of all ice is lowered by 1 for each agenda counter on Braintrust.
+text_ru: >-
+    When you score Braintrust, place 1 agenda counter on it for every 2
+    advancement tokens on it over 3.
+
+    The rez cost of all ice is lowered by 1 for each agenda counter on Braintrust.

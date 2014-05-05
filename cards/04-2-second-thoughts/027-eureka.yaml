@@ -1,0 +1,22 @@
+side: Runner
+faction: Shaper
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Eureka!
+title_ru: нет
+text: >-
+    As an additional cost to play this event, spend [Click].
+
+    Reveal the top card of your stack. You may install that card, lowering
+    the install cost by 10[Credits], if able; otherwise, trash it.
+text_ru: >-
+    As an additional cost to play this event, spend [Click].
+
+    Reveal the top card of your stack. You may install that card, lowering
+    the install cost by 10[Credits], if able; otherwise, trash it.
+flavor: >-
+    "I've got a surprise for you."
+flavor_ru: >-
+    "I've got a surprise for you."

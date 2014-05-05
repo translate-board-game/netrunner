@@ -1,0 +1,22 @@
+side: Runner
+faction: Anarch
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Darwin
+title_ru: нет
+text: >-
+    2[Credits]: Break ice subroutine.
+
+    X is the number of virus counters on Darwin.
+
+    When your turn begins, you may pay 1[Credits] to place 1 virus counter
+    on Darwin.
+text_ru: >-
+    2[Credits]: Break ice subroutine.
+
+    X is the number of virus counters on Darwin.
+
+    When your turn begins, you may pay 1[Credits] to place 1 virus counter
+    on Darwin.

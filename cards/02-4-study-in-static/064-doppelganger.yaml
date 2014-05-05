@@ -1,0 +1,26 @@
+side: Runner
+faction: Criminal
+type: Hardware
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Doppelgänger
+title_ru: нет
+text: >-
+    +1[Memory Unit]
+
+    Once per turn, you may immediately make another run when a successful
+    run ends.
+
+    Limit 1 <strong>console</strong> per player.
+text_ru: >-
+    +1[Memory Unit]
+
+    Once per turn, you may immediately make another run when a successful
+    run ends.
+
+    Limit 1 <strong>console</strong> per player.
+flavor: >-
+    Twice the fun.
+flavor_ru: >-
+    Twice the fun.

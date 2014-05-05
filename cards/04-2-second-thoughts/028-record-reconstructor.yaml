@@ -1,0 +1,22 @@
+side: Runner
+faction: Shaper
+type: Hardware
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Record Reconstructor
+title_ru: нет
+text: >-
+    Whenever you make a successful run on Archives, instead of accessing
+    cards you may choose 1 faceup card from Archives and add it to the top
+    of R&D.
+text_ru: >-
+    Whenever you make a successful run on Archives, instead of accessing
+    cards you may choose 1 faceup card from Archives and add it to the top
+    of R&D.
+flavor: >-
+    "Why is data deleted? Maybe they don't want it to be found. Or maybe
+    it's just useless. The useless data is the kind you want." -The Professor
+flavor_ru: >-
+    "Why is data deleted? Maybe they don't want it to be found. Or maybe
+    it's just useless. The useless data is the kind you want." -The Professor

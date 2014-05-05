@@ -1,0 +1,28 @@
+side: Runner
+faction: Shaper
+type: Hardware
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Monolith
+title_ru: нет
+text: >-
+    +3[Memory Unit]
+
+    When you install Monolith, install up to 3 programs from your grip,
+    lowering the install cost of each by 4[Credits].
+
+    <strong>Trash a program from your grip</strong>: Prevent 1 brain or
+    net damage.
+
+    Limit 1 <strong>console</strong> per player.
+text_ru: >-
+    +3[Memory Unit]
+
+    When you install Monolith, install up to 3 programs from your grip,
+    lowering the install cost of each by 4[Credits].
+
+    <strong>Trash a program from your grip</strong>: Prevent 1 brain or
+    net damage.
+
+    Limit 1 <strong>console</strong> per player.

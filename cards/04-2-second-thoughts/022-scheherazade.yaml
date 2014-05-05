@@ -1,0 +1,22 @@
+side: Runner
+faction: Anarch
+type: Program
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Scheherazade
+title_ru: нет
+text: >-
+    Scheherazade can host any number of programs.
+
+    Whenever you install a program on Scheherazade, gain 1[Credits].
+text_ru: >-
+    Scheherazade can host any number of programs.
+
+    Whenever you install a program on Scheherazade, gain 1[Credits].
+flavor: >-
+    Installing 1001 programs puts you in the hacker hall of fame, or would
+    if such an institution actually existed.
+flavor_ru: >-
+    Installing 1001 programs puts you in the hacker hall of fame, or would
+    if such an institution actually existed.

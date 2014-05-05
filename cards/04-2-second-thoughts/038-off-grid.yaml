@@ -1,0 +1,14 @@
+side: Corp
+faction: Weyland Consortium
+type: Upgrade
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Off the Grid
+title_ru: нет
+text: "Install only in a remote server.\nThe Runner cannot initiate a run\
+    \ on this server. \nWhenever the Runner makes a successful run on HQ,\
+    \ trash Off the Grid."
+text_ru: "Install only in a remote server.\nThe Runner cannot initiate a\
+    \ run on this server. \nWhenever the Runner makes a successful run on\
+    \ HQ, trash Off the Grid."

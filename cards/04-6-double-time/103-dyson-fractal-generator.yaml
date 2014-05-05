@@ -1,0 +1,24 @@
+side: Runner
+faction: Anarch
+type: Hardware
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Dyson Fractal Generator
+title_ru: нет
+text: >-
+    1[Recurring Credits]
+
+    Use this credit to pay for using <strong>fracters</strong>.
+text_ru: >-
+    1[Recurring Credits]
+
+    Use this credit to pay for using <strong>fracters</strong>.
+flavor: >-
+    The Dyson Fractal Generator is a useless lump of silicon; all it does
+    is produce truly random results. What kind of madman slaps that in his
+    rig? What's the use of a totally random number? -John Masanori
+flavor_ru: >-
+    The Dyson Fractal Generator is a useless lump of silicon; all it does
+    is produce truly random results. What kind of madman slaps that in his
+    rig? What's the use of a totally random number? -John Masanori

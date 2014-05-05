@@ -1,0 +1,24 @@
+side: Runner
+faction: Neutral
+type: Resource
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Oracle May
+title_ru: нет
+text: >-
+    You cannot use Oracle May more than once per turn.
+
+    [Click]: Name a card type. Reveal the top card of your stack. If the
+    revealed card is of the named type, draw it and gain 2[Credits]. Otherwise,
+    trash it.
+text_ru: >-
+    You cannot use Oracle May more than once per turn.
+
+    [Click]: Name a card type. Reveal the top card of your stack. If the
+    revealed card is of the named type, draw it and gain 2[Credits]. Otherwise,
+    trash it.
+flavor: >-
+    "The best place to hide is in plain sight, don't you think?"
+flavor_ru: >-
+    "The best place to hide is in plain sight, don't you think?"

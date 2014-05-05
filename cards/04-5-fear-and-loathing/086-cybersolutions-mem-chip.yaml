@@ -1,0 +1,24 @@
+side: Runner
+faction: Shaper
+type: Hardware
+uniqueness: false
+obvious: false
+progress: 0.0
+title: CyberSolutions Mem Chip
+title_ru: нет
+text: >-
+    +2[Memory Unit]
+text_ru: >-
+    +2[Memory Unit]
+flavor: >-
+    "CyberSolutions is a boring name for a company that makes pretty exciting
+    products. Their memory chips have some pretty tricky stuff going on
+    inside and I keep hearing good things about their M/MI implants. I even
+    heard they were on the path to their own androids about a year ago.
+    I wonder whatever happened with that?" -Kate "Mac" McCaffrey
+flavor_ru: >-
+    "CyberSolutions is a boring name for a company that makes pretty exciting
+    products. Their memory chips have some pretty tricky stuff going on
+    inside and I keep hearing good things about their M/MI implants. I even
+    heard they were on the path to their own androids about a year ago.
+    I wonder whatever happened with that?" -Kate "Mac" McCaffrey

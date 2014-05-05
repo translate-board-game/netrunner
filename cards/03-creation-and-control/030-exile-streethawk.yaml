@@ -1,0 +1,16 @@
+side: Runner
+faction: Shaper
+type: Identity
+uniqueness: false
+obvious: false
+progress: 0.0
+title: 'Exile: Streethawk'
+title_ru: нет
+text: >-
+    Whenever you install a program from your heap, draw 1 card.
+text_ru: >-
+    Whenever you install a program from your heap, draw 1 card.
+flavor: >-
+    "I can make that work."
+flavor_ru: >-
+    "I can make that work."

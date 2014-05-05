@@ -1,0 +1,22 @@
+side: Runner
+faction: Shaper
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Notoriety
+title_ru: нет
+text: >-
+    Play only if you made a successful run on R&D, HQ, and Archives this
+    turn.
+
+    Add Notoriety to your score area as an agenda worth 1 agenda point.
+text_ru: >-
+    Play only if you made a successful run on R&D, HQ, and Archives this
+    turn.
+
+    Add Notoriety to your score area as an agenda worth 1 agenda point.
+flavor: >-
+    When you're this good, it's hard not to grow a fan base.
+flavor_ru: >-
+    When you're this good, it's hard not to grow a fan base.

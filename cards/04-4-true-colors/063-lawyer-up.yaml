@@ -1,0 +1,22 @@
+side: Runner
+faction: Criminal
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Lawyer Up
+title_ru: нет
+text: >-
+    As an additional cost to play this event, spend [Click].
+
+    Remove up to 2 tags and draw 3 cards.
+text_ru: >-
+    As an additional cost to play this event, spend [Click].
+
+    Remove up to 2 tags and draw 3 cards.
+flavor: >-
+    Pros don't need to call their lawyer. Pros have their secretary rigged
+    to do it for them if they ever go off-grid.
+flavor_ru: >-
+    Pros don't need to call their lawyer. Pros have their secretary rigged
+    to do it for them if they ever go off-grid.

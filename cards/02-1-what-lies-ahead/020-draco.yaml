@@ -1,0 +1,28 @@
+side: Corp
+faction: Neutral
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Dracō
+title_ru: нет
+text: >-
+    When you rez Dracō, you may pay X[Credits] to place X power counters
+    on it.
+
+    Dracō has +1 strength for each power counter on it.
+
+    [Subroutine] <strong>Trace<sup>2</sup> -</strong> If successful, give
+    the Runner 1 tag and end the run.
+text_ru: >-
+    When you rez Dracō, you may pay X[Credits] to place X power counters
+    on it.
+
+    Dracō has +1 strength for each power counter on it.
+
+    [Subroutine] <strong>Trace<sup>2</sup> -</strong> If successful, give
+    the Runner 1 tag and end the run.
+flavor: >-
+    Victos dracones numquam deride.
+flavor_ru: >-
+    Victos dracones numquam deride.

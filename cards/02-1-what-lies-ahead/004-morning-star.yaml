@@ -1,0 +1,16 @@
+side: Runner
+faction: Anarch
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Morning Star
+title_ru: нет
+text: >-
+    1[Credits]: Break any number of <strong>barrier</strong> subroutines.
+text_ru: >-
+    1[Credits]: Break any number of <strong>barrier</strong> subroutines.
+flavor: >-
+    Weaponizing the heavens, one star at a time.
+flavor_ru: >-
+    Weaponizing the heavens, one star at a time.

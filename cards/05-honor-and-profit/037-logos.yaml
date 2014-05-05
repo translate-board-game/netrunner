@@ -1,0 +1,26 @@
+side: Runner
+faction: Criminal
+type: Hardware
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Logos
+title_ru: нет
+text: >-
+    +1[Memory Unit]
+
+    Your maximum hand size is increased by 1.
+
+    Whenever the Corp scores an agenda, you may search your stack for a
+    card and add it to your grip. Shuffle your stack.
+
+    Limit 1 <strong>console</strong> per player.
+text_ru: >-
+    +1[Memory Unit]
+
+    Your maximum hand size is increased by 1.
+
+    Whenever the Corp scores an agenda, you may search your stack for a
+    card and add it to your grip. Shuffle your stack.
+
+    Limit 1 <strong>console</strong> per player.

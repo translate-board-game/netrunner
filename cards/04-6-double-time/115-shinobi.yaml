@@ -1,0 +1,30 @@
+side: Corp
+faction: Jinteki
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Shinobi
+title_ru: нет
+text: >-
+    When you rez Shinobi, take 1 bad publicity.
+
+    [Subroutine] <strong>Trace<sup>1</sup></strong>&ndash; If successful,
+    do 1 net damage.
+
+    [Subroutine] <strong>Trace<sup>2</sup></strong>&ndash; If successful,
+    do 2 net damage.
+
+    [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
+    do 3 net damage and end the run.
+text_ru: >-
+    When you rez Shinobi, take 1 bad publicity.
+
+    [Subroutine] <strong>Trace<sup>1</sup></strong>&ndash; If successful,
+    do 1 net damage.
+
+    [Subroutine] <strong>Trace<sup>2</sup></strong>&ndash; If successful,
+    do 2 net damage.
+
+    [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
+    do 3 net damage and end the run.

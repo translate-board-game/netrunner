@@ -1,0 +1,20 @@
+side: Runner
+faction: Neutral
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Dirty Laundry
+title_ru: нет
+text: >-
+    Make a run. After the run is completed, gain 5[Credits] if it was successful.
+text_ru: >-
+    Make a run. After the run is completed, gain 5[Credits] if it was successful.
+flavor: >-
+    The data was better than she could have ever imagined. This Santiago
+    fellow really knew what he was doing. She began to imagine the havoc
+    she could wreak at the upcoming charity dinner…
+flavor_ru: >-
+    The data was better than she could have ever imagined. This Santiago
+    fellow really knew what he was doing. She began to imagine the havoc
+    she could wreak at the upcoming charity dinner…

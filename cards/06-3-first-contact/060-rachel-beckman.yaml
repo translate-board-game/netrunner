@@ -1,0 +1,24 @@
+side: Runner
+faction: Neutral
+type: Resource
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Rachel Beckman
+title_ru: нет
+text: >-
+    You have 1 additional [Click] to spend each turn.
+
+    Trash Rachel Beckman if you are tagged.
+text_ru: >-
+    You have 1 additional [Click] to spend each turn.
+
+    Trash Rachel Beckman if you are tagged.
+flavor: >-
+    "This is Rachel Beckman. She's in the business of keeping people alive."
+
+    Rachel smiled. "Only when I'm not in the business of killing them."
+flavor_ru: >-
+    "This is Rachel Beckman. She's in the business of keeping people alive."
+
+    Rachel smiled. "Only when I'm not in the business of killing them."

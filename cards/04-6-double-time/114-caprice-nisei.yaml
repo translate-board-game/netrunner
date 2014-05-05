@@ -1,0 +1,22 @@
+side: Corp
+faction: Jinteki
+type: Upgrade
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Caprice Nisei
+title_ru: нет
+text: >-
+    Whenever the Runner passes all of the ice protecting this server, you
+    and the Runner secretly spend 0[Credits], 1[Credits], or 2[Credits].
+    Reveal spent credits. If you and the Runner spent a different number
+    of credits, end the run.
+text_ru: >-
+    Whenever the Runner passes all of the ice protecting this server, you
+    and the Runner secretly spend 0[Credits], 1[Credits], or 2[Credits].
+    Reveal spent credits. If you and the Runner spent a different number
+    of credits, end the run.
+flavor: >-
+    The first clone to serve as an NAPD detective.
+flavor_ru: >-
+    The first clone to serve as an NAPD detective.

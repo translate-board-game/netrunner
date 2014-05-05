@@ -1,0 +1,20 @@
+side: Corp
+faction: Jinteki
+type: Upgrade
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Midori
+title_ru: нет
+text: >-
+    Once per run, when the Runner approaches a piece of ice protecting this
+    server, you may swap that ice with a piece of ice from HQ. The new ice
+    is installed unrezzed.
+text_ru: >-
+    Once per run, when the Runner approaches a piece of ice protecting this
+    server, you may swap that ice with a piece of ice from HQ. The new ice
+    is installed unrezzed.
+flavor: >-
+    "Looks like someone is being naughty..."
+flavor_ru: >-
+    "Looks like someone is being naughty..."

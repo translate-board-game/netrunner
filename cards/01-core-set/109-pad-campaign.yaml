@@ -1,0 +1,16 @@
+side: Corp
+faction: Neutral
+type: Asset
+uniqueness: false
+obvious: false
+progress: 0.0
+title: PAD Campaign
+title_ru: нет
+text: >-
+    Gain 1[Credits] when your turn begins.
+text_ru: >-
+    Gain 1[Credits] when your turn begins.
+flavor: >-
+    It is like the one you just bought, only better.
+flavor_ru: >-
+    It is like the one you just bought, only better.

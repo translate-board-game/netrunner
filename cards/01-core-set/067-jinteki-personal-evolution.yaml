@@ -1,0 +1,16 @@
+side: Corp
+faction: Jinteki
+type: Identity
+uniqueness: false
+obvious: false
+progress: 0.0
+title: 'Jinteki: Personal Evolution'
+title_ru: нет
+text: >-
+    Whenever an agenda is scored or stolen, do 1 net damage.
+text_ru: >-
+    Whenever an agenda is scored or stolen, do 1 net damage.
+flavor: >-
+    When You Need the Human Touch.
+flavor_ru: >-
+    When You Need the Human Touch.

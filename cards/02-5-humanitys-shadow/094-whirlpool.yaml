@@ -1,0 +1,18 @@
+side: Corp
+faction: Jinteki
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Whirlpool
+title_ru: нет
+text: >-
+    [Subroutine] The Runner cannot jack out for the remainder of this run.
+    Trash Whirlpool.
+text_ru: >-
+    [Subroutine] The Runner cannot jack out for the remainder of this run.
+    Trash Whirlpool.
+flavor: >-
+    "This ice sucks." -g00ru
+flavor_ru: >-
+    "This ice sucks." -g00ru

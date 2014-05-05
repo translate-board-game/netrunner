@@ -1,0 +1,16 @@
+side: Corp
+faction: NBN
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Closed Accounts
+title_ru: нет
+text: >-
+    Play only if the Runner is tagged.
+
+    The Runner loses all credits in his or her credit pool.
+text_ru: >-
+    Play only if the Runner is tagged.
+
+    The Runner loses all credits in his or her credit pool.

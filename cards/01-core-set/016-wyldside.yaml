@@ -1,0 +1,18 @@
+side: Runner
+faction: Anarch
+type: Resource
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Wyldside
+title_ru: нет
+text: >-
+    When your turn begins, draw 2 cards and lose [Click].
+text_ru: >-
+    When your turn begins, draw 2 cards and lose [Click].
+flavor: >-
+    "Best place to go when you want to get your mind out of the gutter and
+    take it inside." - Ji "Noise" Reilly
+flavor_ru: >-
+    "Best place to go when you want to get your mind out of the gutter and
+    take it inside." - Ji "Noise" Reilly

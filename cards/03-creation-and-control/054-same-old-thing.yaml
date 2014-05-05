@@ -1,0 +1,20 @@
+side: Runner
+faction: Neutral
+type: Resource
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Same Old Thing
+title_ru: нет
+text: >-
+    [Click], [Click], [Trash]: Play an event from your heap (paying its
+    play cost).
+text_ru: >-
+    [Click], [Click], [Trash]: Play an event from your heap (paying its
+    play cost).
+flavor: >-
+    Just me, a cup of YucaBean, and last night's Hong Kong Trunk sniffed
+    packets. I call that a good morning.
+flavor_ru: >-
+    Just me, a cup of YucaBean, and last night's Hong Kong Trunk sniffed
+    packets. I call that a good morning.

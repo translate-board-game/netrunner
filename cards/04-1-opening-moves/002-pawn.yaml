@@ -1,0 +1,24 @@
+side: Runner
+faction: Anarch
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Pawn
+title_ru: нет
+text: >-
+    [Click]: Host Pawn on an outermost piece of ice protecting a central
+    server.
+
+    Whenever you make a successful run, move Pawn to the piece of ice directly
+    after the current ice hosting Pawn, if able; otherwise, trash Pawn instead
+    and install a <strong>Caïssa</strong> program from your grip or heap,
+    ignoring all costs.
+text_ru: >-
+    [Click]: Host Pawn on an outermost piece of ice protecting a central
+    server.
+
+    Whenever you make a successful run, move Pawn to the piece of ice directly
+    after the current ice hosting Pawn, if able; otherwise, trash Pawn instead
+    and install a <strong>Caïssa</strong> program from your grip or heap,
+    ignoring all costs.

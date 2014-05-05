@@ -1,0 +1,22 @@
+side: Corp
+faction: Haas-Bioroid
+type: Upgrade
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Ruhr Valley
+title_ru: нет
+text: >-
+    As an additional cost to make a run on this server, the Runner must
+    spend [Click].
+
+    Limit 1 <strong>region</strong> per server.
+text_ru: >-
+    As an additional cost to make a run on this server, the Runner must
+    spend [Click].
+
+    Limit 1 <strong>region</strong> per server.
+flavor: >-
+    Known for luxury hoppers and a delectable sauerkraut.
+flavor_ru: >-
+    Known for luxury hoppers and a delectable sauerkraut.

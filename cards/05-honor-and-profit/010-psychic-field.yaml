@@ -1,0 +1,18 @@
+side: Corp
+faction: Jinteki
+type: Asset
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Psychic Field
+title_ru: нет
+text: >-
+    If the Runner exposes or accesses Psychic Field while installed, you
+    and the Runner secretly spend 0[Credits], 1[Credits], or 2[Credits].
+    Reveal spent credits. If you and the Runner spent a different number
+    of credits, do 1 net damage for each card in the Runner's grip.
+text_ru: >-
+    If the Runner exposes or accesses Psychic Field while installed, you
+    and the Runner secretly spend 0[Credits], 1[Credits], or 2[Credits].
+    Reveal spent credits. If you and the Runner spent a different number
+    of credits, do 1 net damage for each card in the Runner's grip.

@@ -1,0 +1,24 @@
+side: Corp
+faction: Haas-Bioroid
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Hudson 1.0
+title_ru: нет
+text: >-
+    The Runner may spend [Click] to break any subroutine on Hudson 1.0.
+
+    [Subroutine] The Runner cannot access more than 1 card during this run.
+
+    [Subroutine] The Runner cannot access more than 1 card during this run.
+text_ru: >-
+    The Runner may spend [Click] to break any subroutine on Hudson 1.0.
+
+    [Subroutine] The Runner cannot access more than 1 card during this run.
+
+    [Subroutine] The Runner cannot access more than 1 card during this run.
+flavor: >-
+    I'm not here to play games. The game is over.
+flavor_ru: >-
+    I'm not here to play games. The game is over.

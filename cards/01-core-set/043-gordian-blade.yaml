@@ -1,0 +1,20 @@
+side: Runner
+faction: Shaper
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Gordian Blade
+title_ru: нет
+text: >-
+    1[Credits]: Break <strong>code gate</strong> subroutine.
+
+    1[Credits]: +1 strength for the remainder of this run.
+text_ru: >-
+    1[Credits]: Break <strong>code gate</strong> subroutine.
+
+    1[Credits]: +1 strength for the remainder of this run.
+flavor: >-
+    It can slice through the thickest knots of data.
+flavor_ru: >-
+    It can slice through the thickest knots of data.

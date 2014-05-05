@@ -1,0 +1,18 @@
+side: Corp
+faction: Neutral
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Restructure
+title_ru: нет
+text: >-
+    Gain 15[Credits].
+text_ru: >-
+    Gain 15[Credits].
+flavor: >-
+    There are many names for those in the Administration Department. But
+    if you like your job, you just refer to them as "sir" and "ma'am".
+flavor_ru: >-
+    There are many names for those in the Administration Department. But
+    if you like your job, you just refer to them as "sir" and "ma'am".

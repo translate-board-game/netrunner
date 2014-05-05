@@ -1,0 +1,18 @@
+side: Corp
+faction: Haas-Bioroid
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Reclamation Order
+title_ru: нет
+text: >-
+    As an additional cost to play this operation, spend [Click].
+
+    Name a card other than Reclamation Order. Reveal any number of copies
+    of the named card from Archives and add them to HQ.
+text_ru: >-
+    As an additional cost to play this operation, spend [Click].
+
+    Name a card other than Reclamation Order. Reveal any number of copies
+    of the named card from Archives and add them to HQ.

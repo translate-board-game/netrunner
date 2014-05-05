@@ -1,0 +1,24 @@
+side: Runner
+faction: Anarch
+type: Resource
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Ice Carver
+title_ru: нет
+text: >-
+    All ice is encountered with its strength lowered by 1.
+text_ru: >-
+    All ice is encountered with its strength lowered by 1.
+flavor: >-
+    In the public consciousness, there's a hard line between corp and runner.
+    In the real world, things are a little more porous. The corp need the
+    best hackers to run their networks, and some of the best hackers are
+    ex-runners who like the idea of a regular paycheck. But sometimes things
+    run the other way, and someone on the inside makes something like this.
+flavor_ru: >-
+    In the public consciousness, there's a hard line between corp and runner.
+    In the real world, things are a little more porous. The corp need the
+    best hackers to run their networks, and some of the best hackers are
+    ex-runners who like the idea of a regular paycheck. But sometimes things
+    run the other way, and someone on the inside makes something like this.

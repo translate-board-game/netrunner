@@ -1,0 +1,24 @@
+side: Runner
+faction: Shaper
+type: Hardware
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Omni-Drive
+title_ru: нет
+text: >-
+    Omni-Drive can host a single program of 1[Memory Unit] or less. The
+    memory cost of the hosted program does not count against your memory
+    limit.
+
+    1[Recurring Credits]
+
+    Use this credit to pay for using the hosted program.
+text_ru: >-
+    Omni-Drive can host a single program of 1[Memory Unit] or less. The
+    memory cost of the hosted program does not count against your memory
+    limit.
+
+    1[Recurring Credits]
+
+    Use this credit to pay for using the hosted program.

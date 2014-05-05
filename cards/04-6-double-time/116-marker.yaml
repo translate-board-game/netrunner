@@ -1,0 +1,22 @@
+side: Corp
+faction: Jinteki
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Marker
+title_ru: нет
+text: >-
+    [Subroutine] The next piece of ice the Runner encounters gains "[Subroutine]
+    End the run." after all its other subroutines for the remainder of this
+    run.
+text_ru: >-
+    [Subroutine] The next piece of ice the Runner encounters gains "[Subroutine]
+    End the run." after all its other subroutines for the remainder of this
+    run.
+flavor: >-
+    "It doesn't do anything in and of itself. It just marks you as an intruder
+    and makes the next ice do all the work." -Kate "Mac" McCaffrey
+flavor_ru: >-
+    "It doesn't do anything in and of itself. It just marks you as an intruder
+    and makes the next ice do all the work." -Kate "Mac" McCaffrey

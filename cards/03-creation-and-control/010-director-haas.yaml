@@ -1,0 +1,18 @@
+side: Corp
+faction: Haas-Bioroid
+type: Asset
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Director Haas
+title_ru: нет
+text: >-
+    You have 1 additional [Click] to spend each turn.
+
+    If Director Haas is trashed while being accessed, add her to the Runner's
+    score area as an agenda worth 2 agenda points.
+text_ru: >-
+    You have 1 additional [Click] to spend each turn.
+
+    If Director Haas is trashed while being accessed, add her to the Runner's
+    score area as an agenda worth 2 agenda points.

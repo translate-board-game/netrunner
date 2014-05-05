@@ -1,0 +1,26 @@
+side: Runner
+faction: Anarch
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Knight
+title_ru: нет
+text: >-
+    2[Credits]: Break subroutine on host ice.
+
+    [Click]: Host Knight on a piece of ice not hosting a <strong>Caïssa</strong>.
+    If already hosted, Knight can be hosted only on ice that is not installed
+    directly before or after the current piece of ice hosting Knight.
+text_ru: >-
+    2[Credits]: Break subroutine on host ice.
+
+    [Click]: Host Knight on a piece of ice not hosting a <strong>Caïssa</strong>.
+    If already hosted, Knight can be hosted only on ice that is not installed
+    directly before or after the current piece of ice hosting Knight.
+flavor: >-
+    'Maneuver warfare' is a doctrine that advocates keeping an enemy off-balance.
+    It works just as well in cyberspace as in reality.
+flavor_ru: >-
+    'Maneuver warfare' is a doctrine that advocates keeping an enemy off-balance.
+    It works just as well in cyberspace as in reality.

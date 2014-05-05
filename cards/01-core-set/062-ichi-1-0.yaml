@@ -1,0 +1,30 @@
+side: Corp
+faction: Haas-Bioroid
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Ichi 1.0
+title_ru: нет
+text: >-
+    The Runner can spend [Click] to break any subroutine on Ichi 1.0.
+
+    [Subroutine] Trash 1 program.
+
+    [Subroutine] Trash 1 program.
+
+    [Subroutine] <strong>Trace<sup>1</sup></strong>&ndash; If successful,
+    give the Runner 1 tag and do 1 brain damage.
+text_ru: >-
+    The Runner can spend [Click] to break any subroutine on Ichi 1.0.
+
+    [Subroutine] Trash 1 program.
+
+    [Subroutine] Trash 1 program.
+
+    [Subroutine] <strong>Trace<sup>1</sup></strong>&ndash; If successful,
+    give the Runner 1 tag and do 1 brain damage.
+flavor: >-
+    My reputation would precede me, if any could speak of it.
+flavor_ru: >-
+    My reputation would precede me, if any could speak of it.

@@ -1,0 +1,18 @@
+side: Corp
+faction: Weyland Consortium
+type: Upgrade
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Amazon Industrial Zone
+title_ru: нет
+text: >-
+    Whenever you install a piece of ice protecting this server, you may
+    immediately rez it, lowering its rez cost by 3.
+
+    Limit 1 <strong>region</strong> per server.
+text_ru: >-
+    Whenever you install a piece of ice protecting this server, you may
+    immediately rez it, lowering its rez cost by 3.
+
+    Limit 1 <strong>region</strong> per server.

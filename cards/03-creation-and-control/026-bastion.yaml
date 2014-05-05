@@ -1,0 +1,22 @@
+side: Corp
+faction: Neutral
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Bastion
+title_ru: нет
+text: >-
+    [Subroutine] End the run.
+text_ru: >-
+    [Subroutine] End the run.
+flavor: >-
+    The principle behind ice is not to keep everyone out, but to let only
+    some people in. This ice denies entry on all but a select few ports
+    that might change with the time of day or picosecond of connection.
+    If you don't know what port to use, you're not getting in. Period.
+flavor_ru: >-
+    The principle behind ice is not to keep everyone out, but to let only
+    some people in. This ice denies entry on all but a select few ports
+    that might change with the time of day or picosecond of connection.
+    If you don't know what port to use, you're not getting in. Period.

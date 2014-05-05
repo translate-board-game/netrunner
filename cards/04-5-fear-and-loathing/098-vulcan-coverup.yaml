@@ -1,0 +1,20 @@
+side: Corp
+faction: Weyland Consortium
+type: Agenda
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Vulcan Coverup
+title_ru: нет
+text: >-
+    When you score Vulcan Coverup, do 2 meat damage.
+
+    When the Runner steals Vulcan Coverup, take 1 bad pûblicity.
+text_ru: >-
+    When you score Vulcan Coverup, do 2 meat damage.
+
+    When the Runner steals Vulcan Coverup, take 1 bad pûblicity.
+flavor: >-
+    "I did warn you that leaks would have to be patched."
+flavor_ru: >-
+    "I did warn you that leaks would have to be patched."

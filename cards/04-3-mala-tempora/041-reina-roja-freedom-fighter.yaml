@@ -1,0 +1,20 @@
+side: Runner
+faction: Anarch
+type: Identity
+uniqueness: false
+obvious: false
+progress: 0.0
+title: 'Reina Roja: Freedom Fighter'
+title_ru: нет
+text: >-
+    The rez cost of the first piece of ice rezzed each turn is increased
+    by 1.
+text_ru: >-
+    The rez cost of the first piece of ice rezzed each turn is increased
+    by 1.
+flavor: >-
+    "Analyzing the board won't help. Your mistake was thinking we're playing
+    the same game."
+flavor_ru: >-
+    "Analyzing the board won't help. Your mistake was thinking we're playing
+    the same game."

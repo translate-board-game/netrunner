@@ -1,0 +1,24 @@
+side: Runner
+faction: Neutral
+type: Resource
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Daily Casts
+title_ru: нет
+text: >-
+    Place 8[Credits] from the bank on Daily Casts when it is installed.
+    When there are no credits left on Daily Casts, trash it.
+
+    Take 2[Credits] from Daily Casts when your turn begins.
+text_ru: >-
+    Place 8[Credits] from the bank on Daily Casts when it is installed.
+    When there are no credits left on Daily Casts, trash it.
+
+    Take 2[Credits] from Daily Casts when your turn begins.
+flavor: >-
+    "We say 'cyber-terrorist', they hear 'underground celebrity.'" -Michael
+    Muhama, professional expert.
+flavor_ru: >-
+    "We say 'cyber-terrorist', they hear 'underground celebrity.'" -Michael
+    Muhama, professional expert.

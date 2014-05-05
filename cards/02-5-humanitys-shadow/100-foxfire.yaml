@@ -1,0 +1,18 @@
+side: Corp
+faction: Neutral
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Foxfire
+title_ru: нет
+text: >-
+    <strong>Trace<sup>7</sup></strong>&ndash; If successful, trash 1 <strong>virtual</strong>
+    resource or 1 <strong>link</strong>.
+text_ru: >-
+    <strong>Trace<sup>7</sup></strong>&ndash; If successful, trash 1 <strong>virtual</strong>
+    resource or 1 <strong>link</strong>.
+flavor: >-
+    "It's kind of like an anagram." -designer Phoenix
+flavor_ru: >-
+    "It's kind of like an anagram." -designer Phoenix

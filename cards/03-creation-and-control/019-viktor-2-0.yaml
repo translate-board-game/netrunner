@@ -1,0 +1,28 @@
+side: Corp
+faction: Haas-Bioroid
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Viktor 2.0
+title_ru: нет
+text: >-
+    The Runner can spend [Click][Click] to break up to 2 subroutines on
+    Viktor 2.0.
+
+    <strong>Hosted power counter</strong>: Do 1 brain damage.
+
+    [Subroutine] <strong>Trace<sup>2</sup></strong>&ndash; If successful,
+    place 1 power counter on Viktor 2.0.
+
+    [Subroutine] End the run.
+text_ru: >-
+    The Runner can spend [Click][Click] to break up to 2 subroutines on
+    Viktor 2.0.
+
+    <strong>Hosted power counter</strong>: Do 1 brain damage.
+
+    [Subroutine] <strong>Trace<sup>2</sup></strong>&ndash; If successful,
+    place 1 power counter on Viktor 2.0.
+
+    [Subroutine] End the run.

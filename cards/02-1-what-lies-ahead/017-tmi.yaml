@@ -1,0 +1,22 @@
+side: Corp
+faction: NBN
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: TMI
+title_ru: нет
+text: >-
+    When you rez TMI, <strong>trace<sup>2</sup></strong>&ndash; if unsuccessful,
+    derez TMI.
+
+    [Subroutine] End the run.
+text_ru: >-
+    When you rez TMI, <strong>trace<sup>2</sup></strong>&ndash; if unsuccessful,
+    derez TMI.
+
+    [Subroutine] End the run.
+flavor: >-
+    A collection of cast-off cyberjunk. But it doesn't stay junk for long.
+flavor_ru: >-
+    A collection of cast-off cyberjunk. But it doesn't stay junk for long.

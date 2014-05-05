@@ -1,0 +1,22 @@
+side: Runner
+faction: Anarch
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Bishop
+title_ru: нет
+text: >-
+    [Click]: Host Bishop on a piece of ice not hosting a <strong>Caïssa</strong>.
+    If already hosted, Bishop can be hosted only on ice protecting a central
+    server if Bishop is on ice protecting a remote server, or on ice protecting
+    a remote server if Bishop is on ice protecting a central server.
+
+    Host ice has -2 strength.
+text_ru: >-
+    [Click]: Host Bishop on a piece of ice not hosting a <strong>Caïssa</strong>.
+    If already hosted, Bishop can be hosted only on ice protecting a central
+    server if Bishop is on ice protecting a remote server, or on ice protecting
+    a remote server if Bishop is on ice protecting a central server.
+
+    Host ice has -2 strength.

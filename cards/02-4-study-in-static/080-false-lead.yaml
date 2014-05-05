@@ -1,0 +1,20 @@
+side: Corp
+faction: Neutral
+type: Agenda
+uniqueness: false
+obvious: false
+progress: 0.0
+title: False Lead
+title_ru: нет
+text: >-
+    <strong>Forfeit False Lead</strong>: The Runner loses [Click][Click],
+    if able.
+text_ru: >-
+    <strong>Forfeit False Lead</strong>: The Runner loses [Click][Click],
+    if able.
+flavor: >-
+    It didn't look like the headquarters of a multi-billion cred company.
+    Probably because it wasn't.
+flavor_ru: >-
+    It didn't look like the headquarters of a multi-billion cred company.
+    Probably because it wasn't.

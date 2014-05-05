@@ -1,0 +1,24 @@
+side: Corp
+faction: NBN
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Uroboros
+title_ru: нет
+text: >-
+    [Subroutine] <strong>Trace<sup>4</sup></strong>&ndash; If successful,
+    the Runner cannot make another run this turn.
+
+    [Subroutine] <strong>Trace<sup>4</sup></strong>&ndash; If successful,
+    end the run.
+text_ru: >-
+    [Subroutine] <strong>Trace<sup>4</sup></strong>&ndash; If successful,
+    the Runner cannot make another run this turn.
+
+    [Subroutine] <strong>Trace<sup>4</sup></strong>&ndash; If successful,
+    end the run.
+flavor: >-
+    Where one thing ends, another begins.
+flavor_ru: >-
+    Where one thing ends, another begins.

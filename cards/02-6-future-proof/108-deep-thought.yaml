@@ -1,0 +1,20 @@
+side: Runner
+faction: Shaper
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Deep Thought
+title_ru: нет
+text: >-
+    Whenever you make a successful run on R&D, place 1 virus counter on
+    Deep Thought.
+
+    If there are at least 3 virus counters on Deep Thought, it gains "When
+    your turn begins, you may look at the top card of R&D."
+text_ru: >-
+    Whenever you make a successful run on R&D, place 1 virus counter on
+    Deep Thought.
+
+    If there are at least 3 virus counters on Deep Thought, it gains "When
+    your turn begins, you may look at the top card of R&D."

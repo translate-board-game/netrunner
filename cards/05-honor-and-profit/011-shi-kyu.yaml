@@ -1,0 +1,18 @@
+side: Corp
+faction: Jinteki
+type: Asset
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Shi.Kyū
+title_ru: нет
+text: >-
+    When the Runner accesses Shi.Kyū, you may pay X[Credits]. The Runner
+    must take either X net damage or add Shi.Kyū to his or her score area
+    as an agenda worth &minus;1 agenda point. Ignore this ability if the
+    Runner accesses Shi.Kyū for R&D.
+text_ru: >-
+    When the Runner accesses Shi.Kyū, you may pay X[Credits]. The Runner
+    must take either X net damage or add Shi.Kyū to his or her score area
+    as an agenda worth &minus;1 agenda point. Ignore this ability if the
+    Runner accesses Shi.Kyū for R&D.

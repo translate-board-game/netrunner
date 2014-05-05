@@ -1,0 +1,18 @@
+side: Corp
+faction: Jinteki
+type: Asset
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Sundew
+title_ru: нет
+text: >-
+    The first time the Runner spends at least 1 [Click] on his or her turn,
+    gain 2[Credits] unless the Runner just initiated a run on this server.
+text_ru: >-
+    The first time the Runner spends at least 1 [Click] on his or her turn,
+    gain 2[Credits] unless the Runner just initiated a run on this server.
+flavor: >-
+    As beautiful as it is dangerous. And it's plenty dangerous.
+flavor_ru: >-
+    As beautiful as it is dangerous. And it's plenty dangerous.

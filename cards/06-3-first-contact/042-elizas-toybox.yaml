@@ -1,0 +1,20 @@
+side: Corp
+faction: Haas-Bioroid
+type: Asset
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Eliza's Toybox
+title_ru: нет
+text: >-
+    [Click],[Click],[Click]: Rez a card, ignoring all costs.
+text_ru: >-
+    [Click],[Click],[Click]: Rez a card, ignoring all costs.
+flavor: >-
+    Eliza's Toybox is the preeminent purveyor of high-class debauchery on
+    the moon, courtesy of its bioroid pleasure models and other exotica.
+    Every fantasy has its price.
+flavor_ru: >-
+    Eliza's Toybox is the preeminent purveyor of high-class debauchery on
+    the moon, courtesy of its bioroid pleasure models and other exotica.
+    Every fantasy has its price.

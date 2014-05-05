@@ -1,0 +1,22 @@
+side: Corp
+faction: Haas-Bioroid
+type: Agenda
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Director Haas' Pet Project
+title_ru: нет
+text: >-
+    When you score Director Haas' Pet Project, you may create a new remote
+    server by installing up to 3 cards from HQ and/or Archives in that server
+    and/or protecting that server (one at a time), ignoring all install
+    costs.
+
+    Limit 1 Director Haas' Pet Project per deck.
+text_ru: >-
+    When you score Director Haas' Pet Project, you may create a new remote
+    server by installing up to 3 cards from HQ and/or Archives in that server
+    and/or protecting that server (one at a time), ignoring all install
+    costs.
+
+    Limit 1 Director Haas' Pet Project per deck.

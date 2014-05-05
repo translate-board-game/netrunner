@@ -1,0 +1,20 @@
+side: Runner
+faction: Anarch
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Yog.0
+title_ru: нет
+text: >-
+    0[Credits]: Break <strong>code gate</strong> subroutine.
+text_ru: >-
+    0[Credits]: Break <strong>code gate</strong> subroutine.
+flavor: >-
+    The Yog.0 database is a crowdsourced compilation of sniffed, spoofed,
+    and logged passkeys. If the key to the gate is in the database, you're
+    in. If it's not, change the gate!
+flavor_ru: >-
+    The Yog.0 database is a crowdsourced compilation of sniffed, spoofed,
+    and logged passkeys. If the key to the gate is in the database, you're
+    in. If it's not, change the gate!

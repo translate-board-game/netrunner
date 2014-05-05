@@ -1,0 +1,18 @@
+side: Runner
+faction: Neutral
+type: Resource
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Underworld Contact
+title_ru: нет
+text: >-
+    When your turn begins, gain 1[Credits] if you have at least 2[Link].
+text_ru: >-
+    When your turn begins, gain 1[Credits] if you have at least 2[Link].
+flavor: >-
+    "My boss rewards quality work. If you know what's good for you, you'll
+    keep it up."
+flavor_ru: >-
+    "My boss rewards quality work. If you know what's good for you, you'll
+    keep it up."

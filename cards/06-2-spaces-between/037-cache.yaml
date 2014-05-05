@@ -1,0 +1,24 @@
+side: Runner
+faction: Criminal
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Cache
+title_ru: нет
+text: >-
+    Place 3 virus counters on Cache when it is installed.
+
+    <strong>Hosted virus counter</strong>: Gain 1[Credits].
+text_ru: >-
+    Place 3 virus counters on Cache when it is installed.
+
+    <strong>Hosted virus counter</strong>: Gain 1[Credits].
+flavor: >-
+    "People keep saying that 'Cash is king' in the business, like it's untraceable
+    in the days of DNA sniffers and microtracers. Digital credits can be
+    just as anonymous, and they're just as easy to counterfeit." -Silhouette
+flavor_ru: >-
+    "People keep saying that 'Cash is king' in the business, like it's untraceable
+    in the days of DNA sniffers and microtracers. Digital credits can be
+    just as anonymous, and they're just as easy to counterfeit." -Silhouette

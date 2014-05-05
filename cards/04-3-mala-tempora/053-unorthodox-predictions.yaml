@@ -1,0 +1,18 @@
+side: Corp
+faction: Jinteki
+type: Agenda
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Unorthodox Predictions
+title_ru: нет
+text: >-
+    When you score Unorthodox Predictions, choose <strong>sentry</strong>,
+    <strong>code gate</strong> or <strong>barrier</strong>. Subroutines
+    on ice of the chosen type cannot be broken until the beginning of your
+    next turn.
+text_ru: >-
+    When you score Unorthodox Predictions, choose <strong>sentry</strong>,
+    <strong>code gate</strong> or <strong>barrier</strong>. Subroutines
+    on ice of the chosen type cannot be broken until the beginning of your
+    next turn.

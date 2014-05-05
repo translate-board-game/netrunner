@@ -1,0 +1,30 @@
+side: Corp
+faction: Jinteki
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Swordsman
+title_ru: нет
+text: >-
+    The Runner cannot use <strong>AI</strong> programs to break subroutines
+    on Swordsman.
+
+    [Subroutine] Trash 1 <strong>AI</strong> program.
+
+    [Subroutine] Do 1 net damage.
+text_ru: >-
+    The Runner cannot use <strong>AI</strong> programs to break subroutines
+    on Swordsman.
+
+    [Subroutine] Trash 1 <strong>AI</strong> program.
+
+    [Subroutine] Do 1 net damage.
+flavor: >-
+    Writing a program that can pass the Turing test is easy. The Gibson-Akamatsu
+    test is a higher bar, and the only AIs to clear it thus far have been
+    the androids. Even some humans have been known to fail.
+flavor_ru: >-
+    Writing a program that can pass the Turing test is easy. The Gibson-Akamatsu
+    test is a higher bar, and the only AIs to clear it thus far have been
+    the androids. Even some humans have been known to fail.

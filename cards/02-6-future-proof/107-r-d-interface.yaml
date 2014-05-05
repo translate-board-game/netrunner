@@ -1,0 +1,16 @@
+side: Runner
+faction: Shaper
+type: Hardware
+uniqueness: false
+obvious: false
+progress: 0.0
+title: R&D Interface
+title_ru: нет
+text: >-
+    Whenever you access cards from R&D, access 1 additional card from R&D.
+text_ru: >-
+    Whenever you access cards from R&D, access 1 additional card from R&D.
+flavor: >-
+    Works best at your own desk.
+flavor_ru: >-
+    Works best at your own desk.

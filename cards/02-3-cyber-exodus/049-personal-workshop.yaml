@@ -1,0 +1,28 @@
+side: Runner
+faction: Shaper
+type: Resource
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Personal Workshop
+title_ru: нет
+text: >-
+    [Click]: Host a program or piece of hardware from your grip on Personal
+    Workshop and place power counters on it equal to its install cost.
+
+    1[Credits]: Remove 1 power counter from a hosted card.
+
+    When your turn begins, remove 1 power counter from a hosted card.
+
+    When there are no power counters left on a hosted card, install it,
+    ignoring all costs.
+text_ru: >-
+    [Click]: Host a program or piece of hardware from your grip on Personal
+    Workshop and place power counters on it equal to its install cost.
+
+    1[Credits]: Remove 1 power counter from a hosted card.
+
+    When your turn begins, remove 1 power counter from a hosted card.
+
+    When there are no power counters left on a hosted card, install it,
+    ignoring all costs.

@@ -1,0 +1,22 @@
+side: Runner
+faction: Shaper
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Sharpshooter
+title_ru: нет
+text: >-
+    [Trash]: Break any number of <strong>destroyer</strong> subroutines.
+
+    1[Credits]: +2 strength.
+text_ru: >-
+    [Trash]: Break any number of <strong>destroyer</strong> subroutines.
+
+    1[Credits]: +2 strength.
+flavor: >-
+    "One-shot icebreakers are popular among many of my protégés. They don't
+    have the patience for the hunt." -The Professor
+flavor_ru: >-
+    "One-shot icebreakers are popular among many of my protégés. They don't
+    have the patience for the hunt." -The Professor

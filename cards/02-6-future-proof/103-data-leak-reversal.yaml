@@ -1,0 +1,26 @@
+side: Runner
+faction: Anarch
+type: Resource
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Data Leak Reversal
+title_ru: нет
+text: >-
+    Install only if you made a successful run on a central server this turn.
+
+    If you are tagged, Data Leak Reversal gains "[Click]: The Corp trashes
+    the top card of R&D."
+text_ru: >-
+    Install only if you made a successful run on a central server this turn.
+
+    If you are tagged, Data Leak Reversal gains "[Click]: The Corp trashes
+    the top card of R&D."
+flavor: >-
+    A two-way solution to a one-way problem, the data leak reversal, or
+    DLR for short, is a misnomer. There is no actual reversal of data, only
+    the creation of a parallel peer-to-peer link with the initial source.
+flavor_ru: >-
+    A two-way solution to a one-way problem, the data leak reversal, or
+    DLR for short, is a misnomer. There is no actual reversal of data, only
+    the creation of a parallel peer-to-peer link with the initial source.

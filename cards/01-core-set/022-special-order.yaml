@@ -1,0 +1,20 @@
+side: Runner
+faction: Criminal
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Special Order
+title_ru: нет
+text: >-
+    Search your stack for an <strong>icebreaker</strong>, reveal it, and
+    add it to your grip. Shuffle your stack.
+text_ru: >-
+    Search your stack for an <strong>icebreaker</strong>, reveal it, and
+    add it to your grip. Shuffle your stack.
+flavor: >-
+    Feverishly tracking its frustratingly slow progress across the Pacific,
+    the package finally shows up hours later...
+flavor_ru: >-
+    Feverishly tracking its frustratingly slow progress across the Pacific,
+    the package finally shows up hours later...

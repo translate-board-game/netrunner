@@ -1,0 +1,20 @@
+side: Runner
+faction: Criminal
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Networking
+title_ru: нет
+text: >-
+    Remove 1 tag. You may pay 1[Credits] to add Networking to your grip
+    instead of trashing it.
+text_ru: >-
+    Remove 1 tag. You may pay 1[Credits] to add Networking to your grip
+    instead of trashing it.
+flavor: >-
+    She preferred to do business in a club. Something about the lights and
+    dancers clouded the judgment of the corporate simpletons she met there.
+flavor_ru: >-
+    She preferred to do business in a club. Something about the lights and
+    dancers clouded the judgment of the corporate simpletons she met there.

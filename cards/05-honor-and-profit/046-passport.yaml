@@ -1,0 +1,24 @@
+side: Runner
+faction: Criminal
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Passport
+title_ru: нет
+text: >-
+    1[Credits]: Break <strong>code gate</strong> subroutine.
+
+    2[Credits]: +2 strength.
+
+    Passport cannot be used on ice protecting a remote server.
+text_ru: >-
+    1[Credits]: Break <strong>code gate</strong> subroutine.
+
+    2[Credits]: +2 strength.
+
+    Passport cannot be used on ice protecting a remote server.
+flavor: >-
+    Nothing is secure when you have the right documentation.
+flavor_ru: >-
+    Nothing is secure when you have the right documentation.

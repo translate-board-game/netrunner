@@ -1,0 +1,22 @@
+side: Runner
+faction: Shaper
+type: Hardware
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Feedback Filter
+title_ru: нет
+text: >-
+    3[Credits]: Prevent 1 net damage.
+
+    [Trash]: Prevent up to 2 brain damage.
+text_ru: >-
+    3[Credits]: Prevent 1 net damage.
+
+    [Trash]: Prevent up to 2 brain damage.
+flavor: >-
+    It still hurts, a bit, the first time. The second time, you feel nothing
+    at all. But don't push your luck.
+flavor_ru: >-
+    It still hurts, a bit, the first time. The second time, you feel nothing
+    at all. But don't push your luck.

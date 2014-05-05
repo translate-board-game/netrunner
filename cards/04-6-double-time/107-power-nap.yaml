@@ -1,0 +1,24 @@
+side: Runner
+faction: Shaper
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Power Nap
+title_ru: нет
+text: >-
+    As an additional cost to play this event, spend [Click].
+
+    Gain 2[Credits]. Gain an additional 1[Credits] for each <strong>double</strong>
+    event in your heap.
+text_ru: >-
+    As an additional cost to play this event, spend [Click].
+
+    Gain 2[Credits]. Gain an additional 1[Credits] for each <strong>double</strong>
+    event in your heap.
+flavor: >-
+    "When I said I could hack it in my sleep, did you think I was joking?"
+    -Chaos Theory
+flavor_ru: >-
+    "When I said I could hack it in my sleep, did you think I was joking?"
+    -Chaos Theory

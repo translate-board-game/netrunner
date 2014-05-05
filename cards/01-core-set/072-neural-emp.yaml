@@ -1,0 +1,22 @@
+side: Corp
+faction: Jinteki
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Neural EMP
+title_ru: нет
+text: >-
+    Play only if the Runner made a run during his or her last turn.
+
+    Do 1 net damage.
+text_ru: >-
+    Play only if the Runner made a run during his or her last turn.
+
+    Do 1 net damage.
+flavor: >-
+    The trick isn't hitting the person you were aiming at. It's hitting
+    only the person you were aiming at.
+flavor_ru: >-
+    The trick isn't hitting the person you were aiming at. It's hitting
+    only the person you were aiming at.

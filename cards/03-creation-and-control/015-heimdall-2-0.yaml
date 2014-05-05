@@ -1,0 +1,30 @@
+side: Corp
+faction: Haas-Bioroid
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Heimdall 2.0
+title_ru: нет
+text: >-
+    The Runner can spend [Click][Click] to break up to 2 subroutines on
+    Heimdall 2.0.
+
+    [Subroutine] Do 1 brain damage.
+
+    [Subroutine] Do 1 brain damage and end the run.
+
+    [Subroutine] End the run.
+text_ru: >-
+    The Runner can spend [Click][Click] to break up to 2 subroutines on
+    Heimdall 2.0.
+
+    [Subroutine] Do 1 brain damage.
+
+    [Subroutine] Do 1 brain damage and end the run.
+
+    [Subroutine] End the run.
+flavor: >-
+    The realm beyond is still forbidden.
+flavor_ru: >-
+    The realm beyond is still forbidden.

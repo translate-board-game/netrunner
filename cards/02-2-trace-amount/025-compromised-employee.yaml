@@ -1,0 +1,20 @@
+side: Runner
+faction: Criminal
+type: Resource
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Compromised Employee
+title_ru: нет
+text: >-
+    1[Recurring Credits]
+
+    Use this credit during traces.
+
+    Gain 1[Credits] whenever the Corp rezzes a piece of ice.
+text_ru: >-
+    1[Recurring Credits]
+
+    Use this credit during traces.
+
+    Gain 1[Credits] whenever the Corp rezzes a piece of ice.

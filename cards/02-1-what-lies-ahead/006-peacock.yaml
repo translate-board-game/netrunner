@@ -1,0 +1,20 @@
+side: Runner
+faction: Criminal
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Peacock
+title_ru: нет
+text: >-
+    2[Credits]: Break <strong>code gate</strong> subroutine.
+
+    2[Credits]: +3 strength.
+text_ru: >-
+    2[Credits]: Break <strong>code gate</strong> subroutine.
+
+    2[Credits]: +3 strength.
+flavor: >-
+    Show-off.
+flavor_ru: >-
+    Show-off.

@@ -1,0 +1,24 @@
+side: Corp
+faction: Haas-Bioroid
+type: Upgrade
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Awakening Center
+title_ru: нет
+text: >-
+    Awakening Center can host <strong>bioroid</strong> ice (each piece is
+    installed facedown, ignoring all install costs).
+
+    Whenever the Runner passes all of the ice protecting this server, you
+    may rez a piece of ice on Awakening Center, lowering the rez cost by
+    7[Credits], to force the Runner to encounter it. Trash that ice after
+    the run is completed.
+text_ru: >-
+    Awakening Center can host <strong>bioroid</strong> ice (each piece is
+    installed facedown, ignoring all install costs).
+
+    Whenever the Runner passes all of the ice protecting this server, you
+    may rez a piece of ice on Awakening Center, lowering the rez cost by
+    7[Credits], to force the Runner to encounter it. Trash that ice after
+    the run is completed.

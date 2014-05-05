@@ -1,0 +1,20 @@
+side: Corp
+faction: NBN
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Psychographics
+title_ru: нет
+text: >-
+    X is equal to or less than the number of tags the Runner has.
+
+    Place X advancement tokens on a card that can be advanced.
+text_ru: >-
+    X is equal to or less than the number of tags the Runner has.
+
+    Place X advancement tokens on a card that can be advanced.
+flavor: >-
+    Access to the largest consumer database in the galaxy has its advantages.
+flavor_ru: >-
+    Access to the largest consumer database in the galaxy has its advantages.

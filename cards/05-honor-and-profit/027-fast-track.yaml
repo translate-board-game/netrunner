@@ -1,0 +1,20 @@
+side: Corp
+faction: Neutral
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Fast Track
+title_ru: нет
+text: >-
+    Search R&D for an agenda, reveal it, and add it to HQ. Shuffle R&D.
+text_ru: >-
+    Search R&D for an agenda, reveal it, and add it to HQ. Shuffle R&D.
+flavor: >-
+    The longer the employees didn't look at the Doomsday Clock, the more
+    it gnawed at the back of their minds. A quick look only reinforced what
+    they already knew: there wasn't enough time.
+flavor_ru: >-
+    The longer the employees didn't look at the Doomsday Clock, the more
+    it gnawed at the back of their minds. A quick look only reinforced what
+    they already knew: there wasn't enough time.

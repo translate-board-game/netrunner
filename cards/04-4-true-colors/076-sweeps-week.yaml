@@ -1,0 +1,30 @@
+side: Corp
+faction: NBN
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Sweeps Week
+title_ru: нет
+text: >-
+    Gain 1[Credits] for each card in the Runner's grip.
+text_ru: >-
+    Gain 1[Credits] for each card in the Runner's grip.
+flavor: >-
+    "Let me get this straight. Your target market is 15-19 year old g-modded
+    immigrants with one parent, a discretionary income over 2k a month,
+    B+ or higher grades, an outgoing personality, and have a friend who
+    owns a g-monkey?"
+
+    "Yes. Is that a problem?"
+
+    "No, not at all. I just don't get why your list is so short."
+flavor_ru: >-
+    "Let me get this straight. Your target market is 15-19 year old g-modded
+    immigrants with one parent, a discretionary income over 2k a month,
+    B+ or higher grades, an outgoing personality, and have a friend who
+    owns a g-monkey?"
+
+    "Yes. Is that a problem?"
+
+    "No, not at all. I just don't get why your list is so short."

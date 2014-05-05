@@ -1,0 +1,24 @@
+side: Corp
+faction: Jinteki
+type: ICE
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Susanoo-No-Mikoto
+title_ru: нет
+text: >-
+    [Subroutine] If not already running on Archives, the Runner is now running
+    on Archives instead of passing Susanoo-No-Mikoto. The Runner cannot
+    jack out until after he or she encounters a piece of ice.
+text_ru: >-
+    [Subroutine] If not already running on Archives, the Runner is now running
+    on Archives instead of passing Susanoo-No-Mikoto. The Runner cannot
+    jack out until after he or she encounters a piece of ice.
+flavor: >-
+    Certain areas of cyberspace are dominated by a single digital entity.
+    Runners call them 'gods', and only a miracle can save those foolish
+    enough to enter their domain.
+flavor_ru: >-
+    Certain areas of cyberspace are dominated by a single digital entity.
+    Runners call them 'gods', and only a miracle can save those foolish
+    enough to enter their domain.

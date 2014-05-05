@@ -1,0 +1,22 @@
+side: Corp
+faction: Haas-Bioroid
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Accelerated Diagnostics
+title_ru: нет
+text: >-
+    Look at the top 3 cards of R&D. If any of those are operations, you
+    may play them (paying their play cost), ignoring any additional costs.
+    Trash the rest of the unplayed cards you looked at.
+text_ru: >-
+    Look at the top 3 cards of R&D. If any of those are operations, you
+    may play them (paying their play cost), ignoring any additional costs.
+    Trash the rest of the unplayed cards you looked at.
+flavor: >-
+    "I'm getting a reading that is... off the charts. No, it crashed the
+    charts. That counts as off, right?"
+flavor_ru: >-
+    "I'm getting a reading that is... off the charts. No, it crashed the
+    charts. That counts as off, right?"

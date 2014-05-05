@@ -1,0 +1,24 @@
+side: Corp
+faction: Neutral
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Enigma
+title_ru: нет
+text: >-
+    [Subroutine] The Runner loses [Click], if able.
+
+    [Subroutine] End the run.
+text_ru: >-
+    [Subroutine] The Runner loses [Click], if able.
+
+    [Subroutine] End the run.
+flavor: >-
+    "Hey, hey! Wake up man. You were under a long time. What'd you see?"
+
+    "I... don't remember."
+flavor_ru: >-
+    "Hey, hey! Wake up man. You were under a long time. What'd you see?"
+
+    "I... don't remember."

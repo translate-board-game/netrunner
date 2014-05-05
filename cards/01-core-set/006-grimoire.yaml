@@ -1,0 +1,26 @@
+side: Runner
+faction: Anarch
+type: Hardware
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Grimoire
+title_ru: нет
+text: >-
+    +2[Memory Unit]
+
+    Whenever you install a <strong>virus</strong> program, place 1 virus
+    counter on that program.
+
+    Limit 1 <strong>console</strong> per player.
+text_ru: >-
+    +2[Memory Unit]
+
+    Whenever you install a <strong>virus</strong> program, place 1 virus
+    counter on that program.
+
+    Limit 1 <strong>console</strong> per player.
+flavor: >-
+    "My little book of magic spells." -The Whizzard
+flavor_ru: >-
+    "My little book of magic spells." -The Whizzard

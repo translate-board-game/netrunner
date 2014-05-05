@@ -1,0 +1,16 @@
+side: Runner
+faction: Shaper
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Pipeline
+title_ru: нет
+text: >-
+    1[Credits]: Break <strong>sentry</strong> subroutine.
+
+    2[Credits]: +1 strength for the remainder of this run.
+text_ru: >-
+    1[Credits]: Break <strong>sentry</strong> subroutine.
+
+    2[Credits]: +1 strength for the remainder of this run.

@@ -1,0 +1,18 @@
+side: Corp
+faction: Weyland Consortium
+type: Agenda
+uniqueness: false
+obvious: false
+progress: 0.0
+title: The Cleaners
+title_ru: нет
+text: >-
+    Whenever you do meat damage, do 1 additional meat damage.
+text_ru: >-
+    Whenever you do meat damage, do 1 additional meat damage.
+flavor: >-
+    "I've used bioroids because I can wipe their memories or just blow their
+    brains out when the job is done. No witnesses means no witnesses."
+flavor_ru: >-
+    "I've used bioroids because I can wipe their memories or just blow their
+    brains out when the job is done. No witnesses means no witnesses."

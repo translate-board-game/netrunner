@@ -1,0 +1,24 @@
+side: Corp
+faction: Haas-Bioroid
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Howler
+title_ru: нет
+text: >-
+    [Subroutine] You may install and rez a piece of <strong>bioroid</strong>
+    ice from HQ or Archives, ignoring all costs, placing it directly behind
+    Howler. If you do, derez that piece of ice and trash Howler after the
+    run is completed.
+text_ru: >-
+    [Subroutine] You may install and rez a piece of <strong>bioroid</strong>
+    ice from HQ or Archives, ignoring all costs, placing it directly behind
+    Howler. If you do, derez that piece of ice and trash Howler after the
+    run is completed.
+flavor: >-
+    "Yeah. It made a loud noise, I got scared, and I jacked out. I still
+    think I made the right decision." -g00ru
+flavor_ru: >-
+    "Yeah. It made a loud noise, I got scared, and I jacked out. I still
+    think I made the right decision." -g00ru

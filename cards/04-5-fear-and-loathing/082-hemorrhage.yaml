@@ -1,0 +1,26 @@
+side: Runner
+faction: Anarch
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Hemorrhage
+title_ru: нет
+text: >-
+    Whenever you make a successful run, place 1 virus counter on Hemorrhage.
+
+    [Click], <strong>2 hosted virus counters</strong>: The Corp trashes
+    1 card from HQ.
+text_ru: >-
+    Whenever you make a successful run, place 1 virus counter on Hemorrhage.
+
+    [Click], <strong>2 hosted virus counters</strong>: The Corp trashes
+    1 card from HQ.
+flavor: >-
+    Bleeding data is more of a science than an art. Too much and you can
+    end up with a one-way ticket to flatline city. Not enough and you might
+    as well be running an empty server.
+flavor_ru: >-
+    Bleeding data is more of a science than an art. Too much and you can
+    end up with a one-way ticket to flatline city. Not enough and you might
+    as well be running an empty server.

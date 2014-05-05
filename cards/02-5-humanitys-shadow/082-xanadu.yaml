@@ -1,0 +1,40 @@
+side: Runner
+faction: Anarch
+type: Resource
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Xanadu
+title_ru: нет
+text: >-
+    The rez cost of all ice is increased by 1.
+text_ru: >-
+    The rez cost of all ice is increased by 1.
+flavor: >
+    And all should cry, Beware! Beware!
+
+    His flashing eyes, his floating hair!
+
+    Weave a circle round him thrice,
+
+    And close your eyes with holy dread,
+
+    For he on honey-dew hath fed,
+
+    And drunk the milk of Paradise.
+
+    -Samuel Taylor Coleridge
+flavor_ru: >
+    And all should cry, Beware! Beware!
+
+    His flashing eyes, his floating hair!
+
+    Weave a circle round him thrice,
+
+    And close your eyes with holy dread,
+
+    For he on honey-dew hath fed,
+
+    And drunk the milk of Paradise.
+
+    -Samuel Taylor Coleridge

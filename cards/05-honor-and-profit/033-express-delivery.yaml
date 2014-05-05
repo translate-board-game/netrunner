@@ -1,0 +1,20 @@
+side: Runner
+faction: Criminal
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Express Delivery
+title_ru: нет
+text: >-
+    Look at the top 4 cards of your stack and add 1 of those cards to your
+    grip. Shuffle your stack.
+text_ru: >-
+    Look at the top 4 cards of your stack and add 1 of those cards to your
+    grip. Shuffle your stack.
+flavor: >-
+    The clone was surprised to see the red-jacketed man. It was like looking
+    in a mirror, only the mirror made him look...cool. Confident. Individual.
+flavor_ru: >-
+    The clone was surprised to see the red-jacketed man. It was like looking
+    in a mirror, only the mirror made him look...cool. Confident. Individual.

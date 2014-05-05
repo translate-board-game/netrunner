@@ -1,0 +1,18 @@
+side: Corp
+faction: Haas-Bioroid
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Gyri Labyrinth
+title_ru: нет
+text: >-
+    [Subroutine] The Runner's maximum hand size is reduced by 2 until the
+    start of the Corp's next turn.
+text_ru: >-
+    [Subroutine] The Runner's maximum hand size is reduced by 2 until the
+    start of the Corp's next turn.
+flavor: >-
+    Once inside, the only way out is through your own mind.
+flavor_ru: >-
+    Once inside, the only way out is through your own mind.

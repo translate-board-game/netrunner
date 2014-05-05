@@ -1,0 +1,24 @@
+side: Runner
+faction: Anarch
+type: Resource
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Activist Support
+title_ru: нет
+text: >-
+    When the Corp turn begins, take 1 tag if you have no tags.
+
+    When your turn begins, give the Corp 1 bad publicity if he or she has
+    no bad publicity.
+text_ru: >-
+    When the Corp turn begins, take 1 tag if you have no tags.
+
+    When your turn begins, give the Corp 1 bad publicity if he or she has
+    no bad publicity.
+flavor: >-
+    "They call me a terrorist to scare people. If they want to find terrorists,
+    maybe they should start by looking in the mirror." -Reina Roja
+flavor_ru: >-
+    "They call me a terrorist to scare people. If they want to find terrorists,
+    maybe they should start by looking in the mirror." -Reina Roja

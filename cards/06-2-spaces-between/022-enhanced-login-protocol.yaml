@@ -1,0 +1,20 @@
+side: Corp
+faction: Haas-Bioroid
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Enhanced Login Protocol
+title_ru: нет
+text: >-
+    This card is not trashed until another <strong>current</strong> is played
+    or an agenda is stolen.
+
+    As an additional cost to make the first run not made through a card
+    ability on his or her turn, the Runner must spend [Click].
+text_ru: >-
+    This card is not trashed until another <strong>current</strong> is played
+    or an agenda is stolen.
+
+    As an additional cost to make the first run not made through a card
+    ability on his or her turn, the Runner must spend [Click].

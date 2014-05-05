@@ -1,0 +1,18 @@
+side: Runner
+faction: Criminal
+type: Resource
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Mr. Li
+title_ru: нет
+text: >-
+    [Click]: Draw 2 cards. Add 1 of these cards to the bottom of your stack.
+text_ru: >-
+    [Click]: Draw 2 cards. Add 1 of these cards to the bottom of your stack.
+flavor: >-
+    "We're always happy to help, Mr. Santiago.""I appreciate it, Mr. Li.""We'll
+    be in touch. And, Gabriel...""Yes?""Don't leave town."
+flavor_ru: >-
+    "We're always happy to help, Mr. Santiago.""I appreciate it, Mr. Li.""We'll
+    be in touch. And, Gabriel...""Yes?""Don't leave town."

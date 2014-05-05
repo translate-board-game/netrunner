@@ -1,0 +1,26 @@
+side: Corp
+faction: Neutral
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Lag Time
+title_ru: нет
+text: >-
+    This operation is not trashed until another <strong>current</strong>
+    is played or an agenda is stolen.
+
+    All <strong>ice</strong> have +1 strength.
+text_ru: >-
+    This operation is not trashed until another <strong>current</strong>
+    is played or an agenda is stolen.
+
+    All <strong>ice</strong> have +1 strength.
+flavor: >-
+    "I don't care how good your console is, or how tricked out your rig
+    is. The lag time on a run on the moon from earthside can be a killer."
+    -Leela Patel
+flavor_ru: >-
+    "I don't care how good your console is, or how tricked out your rig
+    is. The lag time on a run on the moon from earthside can be a killer."
+    -Leela Patel

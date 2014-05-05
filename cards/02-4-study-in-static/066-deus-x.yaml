@@ -1,0 +1,20 @@
+side: Runner
+faction: Shaper
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Deus X
+title_ru: нет
+text: >-
+    [Trash]: Break any number of <strong>AP</strong> subroutines.
+
+    [Trash]: Prevent any amount of net damage.
+text_ru: >-
+    [Trash]: Break any number of <strong>AP</strong> subroutines.
+
+    [Trash]: Prevent any amount of net damage.
+flavor: >-
+    Didn't see that coming.
+flavor_ru: >-
+    Didn't see that coming.

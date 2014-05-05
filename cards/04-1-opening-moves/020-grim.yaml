@@ -1,0 +1,26 @@
+side: Corp
+faction: Neutral
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Grim
+title_ru: нет
+text: >-
+    When you rez Grim, take 1 bad publicity.
+
+    [Subroutine] Trash 1 program.
+text_ru: >-
+    When you rez Grim, take 1 bad publicity.
+
+    [Subroutine] Trash 1 program.
+flavor: >-
+    "The Grim of legend was one of many so-called 'black dog' myths common
+    to Gaelic and English-speaking communities. What's fascinating is that
+    it has propagated to the network, where it lives on as a program that,
+    or so the story goes, hunts for the unwary." -The Professor
+flavor_ru: >-
+    "The Grim of legend was one of many so-called 'black dog' myths common
+    to Gaelic and English-speaking communities. What's fascinating is that
+    it has propagated to the network, where it lives on as a program that,
+    or so the story goes, hunts for the unwary." -The Professor

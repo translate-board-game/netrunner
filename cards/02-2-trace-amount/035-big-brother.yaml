@@ -1,0 +1,20 @@
+side: Corp
+faction: NBN
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Big Brother
+title_ru: нет
+text: >-
+    Play only if the Runner is tagged.
+
+    Give the Runner 2 tags.
+text_ru: >-
+    Play only if the Runner is tagged.
+
+    Give the Runner 2 tags.
+flavor: >-
+    Looking out for your interests since 1984.
+flavor_ru: >-
+    Looking out for your interests since 1984.

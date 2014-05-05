@@ -1,0 +1,16 @@
+side: Runner
+faction: Criminal
+type: Identity
+uniqueness: false
+obvious: false
+progress: 0.0
+title: 'Gabriel Santiago: Consummate Professional'
+title_ru: нет
+text: >-
+    The first time you make a successful run on HQ each turn, gain 2[Credits].
+text_ru: >-
+    The first time you make a successful run on HQ each turn, gain 2[Credits].
+flavor: >-
+    "Of course I steal from the rich. They're the ones with all the money."
+flavor_ru: >-
+    "Of course I steal from the rich. They're the ones with all the money."

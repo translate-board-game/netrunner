@@ -1,0 +1,18 @@
+side: Corp
+faction: Haas-Bioroid
+type: Agenda
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Efficiency Committee
+title_ru: нет
+text: >-
+    Place 3 agenda counters on Efficiency Committee when you score it.
+
+    [Click], <strong>hosted agenda counter</strong>: Gain [Click][Click].
+    You cannot advance cards for the remainder of this turn.
+text_ru: >-
+    Place 3 agenda counters on Efficiency Committee when you score it.
+
+    [Click], <strong>hosted agenda counter</strong>: Gain [Click][Click].
+    You cannot advance cards for the remainder of this turn.

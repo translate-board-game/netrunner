@@ -1,0 +1,18 @@
+side: Runner
+faction: Criminal
+type: Identity
+uniqueness: false
+obvious: false
+progress: 0.0
+title: 'Iain Stirling: Retired Spook'
+title_ru: нет
+text: >-
+    When your turn begins, gain 2[Credits] if the Corp has more scored agenda
+    points than you.
+text_ru: >-
+    When your turn begins, gain 2[Credits] if the Corp has more scored agenda
+    points than you.
+flavor: >-
+    "Truth is a fickle mistress."
+flavor_ru: >-
+    "Truth is a fickle mistress."

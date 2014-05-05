@@ -1,0 +1,18 @@
+side: Corp
+faction: Weyland Consortium
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Swarm
+title_ru: нет
+text: >-
+    When you rez Swarm, take 1 bad publicity.
+
+    Swarm can be advanced and gains "[Subroutine] Trash 1 program unless
+    the Runner pays 3[Credits]." for each advancement token on it.
+text_ru: >-
+    When you rez Swarm, take 1 bad publicity.
+
+    Swarm can be advanced and gains "[Subroutine] Trash 1 program unless
+    the Runner pays 3[Credits]." for each advancement token on it.

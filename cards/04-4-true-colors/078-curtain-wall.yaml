@@ -1,0 +1,34 @@
+side: Corp
+faction: Weyland Consortium
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Curtain Wall
+title_ru: нет
+text: >-
+    If Curtain Wall is the outermost piece of ice protecting a server, it
+    has +4 strength.
+
+    [Subroutine] End the run.
+
+    [Subroutine] End the run.
+
+    [Subroutine] End the run.
+text_ru: >-
+    If Curtain Wall is the outermost piece of ice protecting a server, it
+    has +4 strength.
+
+    [Subroutine] End the run.
+
+    [Subroutine] End the run.
+
+    [Subroutine] End the run.
+flavor: >-
+    [Subroutine] End the game.
+
+    Just kidding.
+flavor_ru: >-
+    [Subroutine] End the game.
+
+    Just kidding.

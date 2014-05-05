@@ -1,0 +1,20 @@
+side: Runner
+faction: Shaper
+type: Resource
+uniqueness: false
+obvious: false
+progress: 0.0
+title: All-nighter
+title_ru: нет
+text: >-
+    [Click], [Trash]: Gain [Click] [Click].
+text_ru: >-
+    [Click], [Trash]: Gain [Click] [Click].
+flavor: >-
+    "I don't care what the studies show. From my experience, I can ingest
+    three cans of Diesel an hour for up to twelve hours before going into
+    cardiac arrest." -heard during the eleventh hour
+flavor_ru: >-
+    "I don't care what the studies show. From my experience, I can ingest
+    three cans of Diesel an hour for up to twelve hours before going into
+    cardiac arrest." -heard during the eleventh hour

@@ -1,0 +1,22 @@
+side: Runner
+faction: Shaper
+type: Hardware
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Lockpick
+title_ru: нет
+text: >-
+    1[Recurring Credits]
+
+    Use this credit to pay for using <strong>decoders</strong>.
+text_ru: >-
+    1[Recurring Credits]
+
+    Use this credit to pay for using <strong>decoders</strong>.
+flavor: >-
+    "I originally designed it for someone else, but it was so useful I decided
+    to keep it for myself." -Kate "Mac" McCaffrey
+flavor_ru: >-
+    "I originally designed it for someone else, but it was so useful I decided
+    to keep it for myself." -Kate "Mac" McCaffrey

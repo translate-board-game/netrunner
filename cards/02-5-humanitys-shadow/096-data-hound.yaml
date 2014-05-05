@@ -1,0 +1,22 @@
+side: Corp
+faction: NBN
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Data Hound
+title_ru: нет
+text: >-
+    [Subroutine] <strong>Trace<sup>2</sup></strong>&ndash; If successful,
+    look at a number of cards from the top of the Runner's stack equal to
+    the amount by which your trace strength exceeded his or her link strength.
+    Trash 1 of those cards, and arrange the rest in any order.
+text_ru: >-
+    [Subroutine] <strong>Trace<sup>2</sup></strong>&ndash; If successful,
+    look at a number of cards from the top of the Runner's stack equal to
+    the amount by which your trace strength exceeded his or her link strength.
+    Trash 1 of those cards, and arrange the rest in any order.
+flavor: >-
+    Sniff.
+flavor_ru: >-
+    Sniff.

@@ -1,0 +1,22 @@
+side: Corp
+faction: Weyland Consortium
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Beanstalk Royalties
+title_ru: нет
+text: >-
+    Gain 3[Credits].
+text_ru: >-
+    Gain 3[Credits].
+flavor: >-
+    The New Angeles Space Elevator, better known as the Beanstalk, is the
+    single greatest triumph of human engineering and ingenuity in history.
+    The Beanstalk makes Earth orbit accessible to everyone... for a small
+    fee.
+flavor_ru: >-
+    The New Angeles Space Elevator, better known as the Beanstalk, is the
+    single greatest triumph of human engineering and ingenuity in history.
+    The Beanstalk makes Earth orbit accessible to everyone... for a small
+    fee.

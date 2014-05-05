@@ -1,0 +1,22 @@
+side: Corp
+faction: Haas-Bioroid
+type: Upgrade
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Panic Button
+title_ru: нет
+text: >-
+    Install only in the root of HQ.
+
+    1[Credits]: Draw 1 card. Use this ability only during a run on HQ.
+text_ru: >-
+    Install only in the root of HQ.
+
+    1[Credits]: Draw 1 card. Use this ability only during a run on HQ.
+flavor: >-
+    The button didn't seem to do anything. So he pushed it again. And again.
+    And again.
+flavor_ru: >-
+    The button didn't seem to do anything. So he pushed it again. And again.
+    And again.

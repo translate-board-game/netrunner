@@ -1,0 +1,18 @@
+side: Corp
+faction: Jinteki
+type: Asset
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Shock!
+title_ru: нет
+text: >-
+    If Shock! is accessed from R&D, the Runner must reveal it.
+
+    When the Runner accesses Shock!, do 1 net damage, even if it is not
+    installed.
+text_ru: >-
+    If Shock! is accessed from R&D, the Runner must reveal it.
+
+    When the Runner accesses Shock!, do 1 net damage, even if it is not
+    installed.

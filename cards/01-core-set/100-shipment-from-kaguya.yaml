@@ -1,0 +1,22 @@
+side: Corp
+faction: Weyland Consortium
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Shipment from Kaguya
+title_ru: нет
+text: >-
+    Place 1 advancement token on each of up to 2 different installed cards
+    that can be advanced.
+text_ru: >-
+    Place 1 advancement token on each of up to 2 different installed cards
+    that can be advanced.
+flavor: >-
+    "And then there's these two crates. No eID."
+
+    "Just leave those with me and forget you ever saw them."
+flavor_ru: >-
+    "And then there's these two crates. No eID."
+
+    "Just leave those with me and forget you ever saw them."

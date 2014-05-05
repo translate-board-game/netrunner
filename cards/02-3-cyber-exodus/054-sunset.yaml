@@ -1,0 +1,20 @@
+side: Corp
+faction: Jinteki
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Sunset
+title_ru: нет
+text: >-
+    Choose a server. Arrange the ice protecting that server in any order.
+text_ru: >-
+    Choose a server. Arrange the ice protecting that server in any order.
+flavor: >-
+    "You haven't run until you've seen the cybersun drift down behind the
+    Great City, the space around you rippling with colors you can't imagine."
+    - Kate "Mac" McCaffrey
+flavor_ru: >-
+    "You haven't run until you've seen the cybersun drift down behind the
+    Great City, the space around you rippling with colors you can't imagine."
+    - Kate "Mac" McCaffrey

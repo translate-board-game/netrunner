@@ -1,0 +1,22 @@
+side: Runner
+faction: Criminal
+type: Hardware
+uniqueness: false
+obvious: false
+progress: 0.0
+title: e3 Feedback Implants
+title_ru: нет
+text: >-
+    Whenever you break a subroutine on a piece of ice, you may pay 1[Credits]
+    to break 1 additional subroutine on that ice.
+text_ru: >-
+    Whenever you break a subroutine on a piece of ice, you may pay 1[Credits]
+    to break 1 additional subroutine on that ice.
+flavor: >-
+    CyberSolutions' e3 line of implants trade strictly in muscle memory
+    and automatic responses, freeing the brain to focus entirely on cerebral
+    tasks.
+flavor_ru: >-
+    CyberSolutions' e3 line of implants trade strictly in muscle memory
+    and automatic responses, freeing the brain to focus entirely on cerebral
+    tasks.

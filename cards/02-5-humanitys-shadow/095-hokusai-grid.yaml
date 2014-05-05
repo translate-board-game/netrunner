@@ -1,0 +1,20 @@
+side: Corp
+faction: Jinteki
+type: Upgrade
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Hokusai Grid
+title_ru: нет
+text: >-
+    Whenever there is a successful run on this server, do 1 net damage.Limit
+    1 <strong>region</strong> per server.
+text_ru: >-
+    Whenever there is a successful run on this server, do 1 net damage.Limit
+    1 <strong>region</strong> per server.
+flavor: >-
+    Despite its appearance, the Hokusai Grid is the most notorious research
+    facility at Jinteki.
+flavor_ru: >-
+    Despite its appearance, the Hokusai Grid is the most notorious research
+    facility at Jinteki.

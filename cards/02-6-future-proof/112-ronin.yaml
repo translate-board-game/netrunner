@@ -1,0 +1,22 @@
+side: Corp
+faction: Jinteki
+type: Asset
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Ronin
+title_ru: нет
+text: >-
+    Ronin can be advanced.
+
+    If there are at least 4 advancement tokens on Ronin, it gains "[Click],
+    [Trash]: Do 3 net damage."
+text_ru: >-
+    Ronin can be advanced.
+
+    If there are at least 4 advancement tokens on Ronin, it gains "[Click],
+    [Trash]: Do 3 net damage."
+flavor: >-
+    I will serve you…for a time.
+flavor_ru: >-
+    I will serve you…for a time.

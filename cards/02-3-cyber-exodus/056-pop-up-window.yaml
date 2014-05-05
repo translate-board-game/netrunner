@@ -1,0 +1,20 @@
+side: Corp
+faction: NBN
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Pop-up Window
+title_ru: нет
+text: >-
+    When the Runner encounters Pop-up Window, you gain 1[Credits].
+
+    [Subroutine] End the run unless the Runner pays 1[Credits].
+text_ru: >-
+    When the Runner encounters Pop-up Window, you gain 1[Credits].
+
+    [Subroutine] End the run unless the Runner pays 1[Credits].
+flavor: >-
+    "Try to close it. Go on. See what it does." - Chaos Theory
+flavor_ru: >-
+    "Try to close it. Go on. See what it does." - Chaos Theory

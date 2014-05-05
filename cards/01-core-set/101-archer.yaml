@@ -1,0 +1,34 @@
+side: Corp
+faction: Weyland Consortium
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Archer
+title_ru: нет
+text: >-
+    As an additional cost to rez Archer, the Corp must forfeit an agenda.
+
+    [Subroutine] The Corp gains 2[Credits].
+
+    [Subroutine] Trash 1 program.
+
+    [Subroutine] Trash 1 program.
+
+    [Subroutine] End the run.
+text_ru: >-
+    As an additional cost to rez Archer, the Corp must forfeit an agenda.
+
+    [Subroutine] The Corp gains 2[Credits].
+
+    [Subroutine] Trash 1 program.
+
+    [Subroutine] Trash 1 program.
+
+    [Subroutine] End the run.
+flavor: >-
+    Next time, read the Terms of Service more carefully. Or you might find
+    yourself in the danger zone.
+flavor_ru: >-
+    Next time, read the Terms of Service more carefully. Or you might find
+    yourself in the danger zone.

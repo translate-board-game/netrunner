@@ -1,0 +1,20 @@
+side: Runner
+faction: Anarch
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Nerve Agent
+title_ru: нет
+text: >-
+    Whenever you make a successful run on HQ, place 1 virus counter on Nerve
+    Agent.
+
+    Each virus counter after the first on Nerve Agent allows you to access
+    1 additional card from HQ whenever you access cards from HQ.
+text_ru: >-
+    Whenever you make a successful run on HQ, place 1 virus counter on Nerve
+    Agent.
+
+    Each virus counter after the first on Nerve Agent allows you to access
+    1 additional card from HQ whenever you access cards from HQ.

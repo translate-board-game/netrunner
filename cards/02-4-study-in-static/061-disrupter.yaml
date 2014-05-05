@@ -1,0 +1,20 @@
+side: Runner
+faction: Anarch
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Disrupter
+title_ru: нет
+text: >-
+    [Trash]: Prevent a trace. That trace initiates again with a base trace
+    strength of 0.
+text_ru: >-
+    [Trash]: Prevent a trace. That trace initiates again with a base trace
+    strength of 0.
+flavor: >-
+    "Saved my bacon more than once, but gives a wicked sense of déjà vu."
+    - Whizzard
+flavor_ru: >-
+    "Saved my bacon more than once, but gives a wicked sense of déjà vu."
+    - Whizzard

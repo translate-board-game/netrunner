@@ -1,0 +1,20 @@
+side: Corp
+faction: Jinteki
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Medical Research Fundraiser
+title_ru: нет
+text: >-
+    Gain 8[Credits]. The Runner gains 3[Credits].
+text_ru: >-
+    Gain 8[Credits]. The Runner gains 3[Credits].
+flavor: >-
+    "Together we have all but eradicated natural diseases from the face
+    of this planet. The new spectre of synthetic disease&ndash;of bioterrorism&ndash;demands
+    that we continue our efforts."
+flavor_ru: >-
+    "Together we have all but eradicated natural diseases from the face
+    of this planet. The new spectre of synthetic disease&ndash;of bioterrorism&ndash;demands
+    that we continue our efforts."

@@ -1,0 +1,28 @@
+side: Runner
+faction: Shaper
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Atman
+title_ru: нет
+text: >-
+    When you install Atman, you may pay X[Credits] to put X power counters
+    on Atman.
+
+    Atman has +1 strength for each power counter on it.
+
+    1[Credits]: Break ice subroutine on a piece of ice that has strength
+    equal to Atman's strength.
+text_ru: >-
+    When you install Atman, you may pay X[Credits] to put X power counters
+    on Atman.
+
+    Atman has +1 strength for each power counter on it.
+
+    1[Credits]: Break ice subroutine on a piece of ice that has strength
+    equal to Atman's strength.
+flavor: >-
+    We are shaped by our thoughts; we become what we think.
+flavor_ru: >-
+    We are shaped by our thoughts; we become what we think.

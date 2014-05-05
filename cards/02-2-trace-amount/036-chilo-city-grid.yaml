@@ -1,0 +1,22 @@
+side: Corp
+faction: NBN
+type: Upgrade
+uniqueness: false
+obvious: false
+progress: 0.0
+title: ChiLo City Grid
+title_ru: нет
+text: >-
+    Whenever there is a successful trace during a run on this server, give
+    the Runner 1 tag.
+
+    Limit 1 <strong>region</strong> per server.
+text_ru: >-
+    Whenever there is a successful trace during a run on this server, give
+    the Runner 1 tag.
+
+    Limit 1 <strong>region</strong> per server.
+flavor: >-
+    Clones whisper of ChiLo as a promised land of freedom.
+flavor_ru: >-
+    Clones whisper of ChiLo as a promised land of freedom.

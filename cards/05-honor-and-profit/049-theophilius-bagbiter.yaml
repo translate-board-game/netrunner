@@ -1,0 +1,24 @@
+side: Runner
+faction: Criminal
+type: Resource
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Theophilius Bagbiter
+title_ru: нет
+text: >-
+    When you install Theophilius Bagbiter, lose all credits in your credit
+    pool.
+
+    Your maximum hand size is equal to the number of credits in your credit
+    pool.
+text_ru: >-
+    When you install Theophilius Bagbiter, lose all credits in your credit
+    pool.
+
+    Your maximum hand size is equal to the number of credits in your credit
+    pool.
+flavor: >-
+    "Why is a raven like a typing desk?"
+flavor_ru: >-
+    "Why is a raven like a typing desk?"

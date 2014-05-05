@@ -1,0 +1,28 @@
+side: Corp
+faction: Haas-Bioroid
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Zed 1.0
+title_ru: нет
+text: >-
+    The Runner can spend [Click] to break any subroutine on Zed 1.0.
+
+    [Subroutine] If the Runner has spent at least 1 [Click] to break a subroutine
+    during this run, do 1 brain damage.
+
+    [Subroutine] If the Runner has spent at least 1 [Click] to break a subroutine
+    during this run, do 1 brain damage.
+text_ru: >-
+    The Runner can spend [Click] to break any subroutine on Zed 1.0.
+
+    [Subroutine] If the Runner has spent at least 1 [Click] to break a subroutine
+    during this run, do 1 brain damage.
+
+    [Subroutine] If the Runner has spent at least 1 [Click] to break a subroutine
+    during this run, do 1 brain damage.
+flavor: >-
+    A mind of meat! How does it work?
+flavor_ru: >-
+    A mind of meat! How does it work?

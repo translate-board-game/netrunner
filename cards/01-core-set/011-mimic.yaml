@@ -1,0 +1,18 @@
+side: Runner
+faction: Anarch
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Mimic
+title_ru: нет
+text: >-
+    1[Credits]: Break <strong>sentry</strong> subroutine.
+text_ru: >-
+    1[Credits]: Break <strong>sentry</strong> subroutine.
+flavor: >-
+    November 5th: the day when all would see the corrupt machinations of
+    the corporate oligarchy.
+flavor_ru: >-
+    November 5th: the day when all would see the corrupt machinations of
+    the corporate oligarchy.

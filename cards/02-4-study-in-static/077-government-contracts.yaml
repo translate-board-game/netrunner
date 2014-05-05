@@ -1,0 +1,16 @@
+side: Corp
+faction: Weyland Consortium
+type: Agenda
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Government Contracts
+title_ru: нет
+text: >-
+    [Click], [Click]: Gain 4[Credits].
+text_ru: >-
+    [Click], [Click]: Gain 4[Credits].
+flavor: >-
+    It's really hard to lose a government contract.
+flavor_ru: >-
+    It's really hard to lose a government contract.

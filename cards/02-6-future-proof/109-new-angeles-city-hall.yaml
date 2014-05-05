@@ -1,0 +1,22 @@
+side: Runner
+faction: Neutral
+type: Resource
+uniqueness: true
+obvious: false
+progress: 0.0
+title: New Angeles City Hall
+title_ru: нет
+text: >-
+    2[Credits]: Avoid 1 tag.
+
+    Trash New Angeles City Hall when you steal an agenda.
+text_ru: >-
+    2[Credits]: Avoid 1 tag.
+
+    Trash New Angeles City Hall when you steal an agenda.
+flavor: >-
+    "New Angeles is the jewel of modern civilization, and its government
+    the envy of nations." -Mayor Wells
+flavor_ru: >-
+    "New Angeles is the jewel of modern civilization, and its government
+    the envy of nations." -Mayor Wells

@@ -1,0 +1,18 @@
+side: Corp
+faction: Jinteki
+type: Agenda
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Philotic Entanglement
+title_ru: нет
+text: >-
+    When you score Philotic Entanglement, do 1 net damage for each agenda
+    in the Runner's score area.
+
+    Limit 1 Philotic Entanglement per deck.
+text_ru: >-
+    When you score Philotic Entanglement, do 1 net damage for each agenda
+    in the Runner's score area.
+
+    Limit 1 Philotic Entanglement per deck.

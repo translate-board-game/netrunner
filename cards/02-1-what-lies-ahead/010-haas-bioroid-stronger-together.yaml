@@ -1,0 +1,16 @@
+side: Corp
+faction: Haas-Bioroid
+type: Identity
+uniqueness: false
+obvious: false
+progress: 0.0
+title: 'Haas-Bioroid: Stronger Together'
+title_ru: нет
+text: >-
+    All <strong>bioroid</strong> ice has +1 strength.
+text_ru: >-
+    All <strong>bioroid</strong> ice has +1 strength.
+flavor: >-
+    A Different Breed of Machine.
+flavor_ru: >-
+    A Different Breed of Machine.

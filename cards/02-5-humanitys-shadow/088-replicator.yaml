@@ -1,0 +1,20 @@
+side: Runner
+faction: Shaper
+type: Hardware
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Replicator
+title_ru: нет
+text: >-
+    Whenever you install a piece of hardware (including Replicator), you
+    may search your stack for another copy of that hardware, reveal it,
+    and add it your grip. Shuffle your stack.
+text_ru: >-
+    Whenever you install a piece of hardware (including Replicator), you
+    may search your stack for another copy of that hardware, reveal it,
+    and add it your grip. Shuffle your stack.
+flavor: >-
+    Do you really need another one?
+flavor_ru: >-
+    Do you really need another one?

@@ -1,0 +1,16 @@
+side: Corp
+faction: Haas-Bioroid
+type: Identity
+uniqueness: false
+obvious: false
+progress: 0.0
+title: 'Haas-Bioroid: Engineering the Future'
+title_ru: нет
+text: >-
+    The first time you install a card each turn, gain 1[Credits].
+text_ru: >-
+    The first time you install a card each turn, gain 1[Credits].
+flavor: >-
+    Effective. Reliable. Humane.
+flavor_ru: >-
+    Effective. Reliable. Humane.

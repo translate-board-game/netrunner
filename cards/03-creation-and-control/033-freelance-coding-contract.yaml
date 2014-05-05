@@ -1,0 +1,20 @@
+side: Runner
+faction: Shaper
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Freelance Coding Contract
+title_ru: нет
+text: >-
+    Trash up to 5 programs from your grip. Gain 2[Credits] for each program
+    trashed.
+text_ru: >-
+    Trash up to 5 programs from your grip. Gain 2[Credits] for each program
+    trashed.
+flavor: >-
+    "Idealism's great, but it don't keep you in soybeef tacos." -Matt "TheMerc"
+    Thomas
+flavor_ru: >-
+    "Idealism's great, but it don't keep you in soybeef tacos." -Matt "TheMerc"
+    Thomas

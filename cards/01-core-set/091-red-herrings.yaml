@@ -1,0 +1,16 @@
+side: Corp
+faction: NBN
+type: Upgrade
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Red Herrings
+title_ru: нет
+text: >-
+    Each time the Runner accesses an agenda from this server, he or she
+    must pay 5[Credits] as an additional cost in order to steal it. This
+    applies even during the run on which the Runner trashes Red Herrings.
+text_ru: >-
+    Each time the Runner accesses an agenda from this server, he or she
+    must pay 5[Credits] as an additional cost in order to steal it. This
+    applies even during the run on which the Runner trashes Red Herrings.

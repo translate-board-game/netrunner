@@ -1,0 +1,22 @@
+side: Corp
+faction: NBN
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Corporate Shuffle
+title_ru: нет
+text: >-
+    As an additional cost to play this operation, spend [Click].
+
+    Shuffle all cards in HQ into R&D. Draw 5 cards.
+text_ru: >-
+    As an additional cost to play this operation, spend [Click].
+
+    Shuffle all cards in HQ into R&D. Draw 5 cards.
+flavor: >-
+    The only thing worse than being fired and replaced by a younger, cheaper
+    worker? Begin replaced by an android.
+flavor_ru: >-
+    The only thing worse than being fired and replaced by a younger, cheaper
+    worker? Begin replaced by an android.

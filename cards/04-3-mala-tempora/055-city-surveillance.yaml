@@ -1,0 +1,18 @@
+side: Corp
+faction: NBN
+type: Asset
+uniqueness: false
+obvious: false
+progress: 0.0
+title: City Surveillance
+title_ru: нет
+text: >-
+    When the Runner's turn begins, give the Runner 1 tag unless he or she
+    pays 1[Credits].
+text_ru: >-
+    When the Runner's turn begins, give the Runner 1 tag unless he or she
+    pays 1[Credits].
+flavor: >-
+    Who watches the watcher? Probably another camera.
+flavor_ru: >-
+    Who watches the watcher? Probably another camera.

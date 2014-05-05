@@ -1,0 +1,18 @@
+side: Corp
+faction: Weyland Consortium
+type: Identity
+uniqueness: false
+obvious: false
+progress: 0.0
+title: 'GRNDL: Power Unleashed'
+title_ru: нет
+text: >-
+    You start the game with 10[Credits] and 1 bad publicity.
+text_ru: >-
+    You start the game with 10[Credits] and 1 bad publicity.
+flavor: >-
+    <strong>G</strong>eostrategic <strong>R</strong>esearch and <strong>N</strong>eothermal
+    <strong>D</strong>evelopment <strong>L</strong>aboratories
+flavor_ru: >-
+    <strong>G</strong>eostrategic <strong>R</strong>esearch and <strong>N</strong>eothermal
+    <strong>D</strong>evelopment <strong>L</strong>aboratories

@@ -1,0 +1,22 @@
+side: Runner
+faction: Criminal
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Bug
+title_ru: нет
+text: >-
+    Install only if you made a successful run on HQ this turn.
+
+    Whenever the Corp draws a card, you may pay 2[Credits] to expose that
+    card.
+text_ru: >-
+    Install only if you made a successful run on HQ this turn.
+
+    Whenever the Corp draws a card, you may pay 2[Credits] to expose that
+    card.
+flavor: >-
+    The digital equivalent of a fly on the wall.
+flavor_ru: >-
+    The digital equivalent of a fly on the wall.

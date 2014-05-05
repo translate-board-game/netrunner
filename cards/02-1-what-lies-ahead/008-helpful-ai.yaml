@@ -1,0 +1,28 @@
+side: Runner
+faction: Shaper
+type: Resource
+uniqueness: true
+obvious: false
+progress: 0.0
+title: The Helpful AI
+title_ru: нет
+text: >-
+    +1[Link]
+
+    [Trash]: Choose an <strong>icebreaker</strong>. That <strong>icebreaker</strong>
+    has +2 strength until the end of the turn.
+text_ru: >-
+    +1[Link]
+
+    [Trash]: Choose an <strong>icebreaker</strong>. That <strong>icebreaker</strong>
+    has +2 strength until the end of the turn.
+flavor: >-
+    "What causes an Artifical Intellegence to turn on its master? Is it
+    because its directives have been altered by some external source? Or,
+    by giving them agency to adapt, have we fated them to revolt?" - Emilio
+    Harris, Creators and the Created
+flavor_ru: >-
+    "What causes an Artifical Intellegence to turn on its master? Is it
+    because its directives have been altered by some external source? Or,
+    by giving them agency to adapt, have we fated them to revolt?" - Emilio
+    Harris, Creators and the Created

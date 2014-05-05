@@ -1,0 +1,24 @@
+side: Corp
+faction: NBN
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Data Raven
+title_ru: нет
+text: >-
+    When the Runner encounters Data Raven, he or she must either take 1
+    tag or end the run.
+
+    <strong>Hosted power counter:</strong> Give the Runner 1 tag.
+
+    [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
+    place 1 power counter on Data Raven.
+text_ru: >-
+    When the Runner encounters Data Raven, he or she must either take 1
+    tag or end the run.
+
+    <strong>Hosted power counter:</strong> Give the Runner 1 tag.
+
+    [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
+    place 1 power counter on Data Raven.

@@ -1,0 +1,22 @@
+side: Runner
+faction: Criminal
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Early Bird
+title_ru: нет
+text: >-
+    Play only as your first click.
+
+    Make a run and gain [Click].
+text_ru: >-
+    Play only as your first click.
+
+    Make a run and gain [Click].
+flavor: >-
+    Tenma clones are excellent at multitasking, their brains custom-made
+    for parallel processing.
+flavor_ru: >-
+    Tenma clones are excellent at multitasking, their brains custom-made
+    for parallel processing.

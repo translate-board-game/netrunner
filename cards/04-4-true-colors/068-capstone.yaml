@@ -1,0 +1,18 @@
+side: Runner
+faction: Shaper
+type: Hardware
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Capstone
+title_ru: нет
+text: >-
+    [Click]: Trash any number of cards from your grip. For each trashed
+    card of which you have another copy installed, draw 1 card.
+text_ru: >-
+    [Click]: Trash any number of cards from your grip. For each trashed
+    card of which you have another copy installed, draw 1 card.
+flavor: >-
+    "Once you have achieved perfection, what's next?" -The Professor
+flavor_ru: >-
+    "Once you have achieved perfection, what's next?" -The Professor

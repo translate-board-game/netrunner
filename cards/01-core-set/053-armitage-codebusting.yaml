@@ -1,0 +1,22 @@
+side: Runner
+faction: Neutral
+type: Resource
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Armitage Codebusting
+title_ru: нет
+text: >-
+    Place 12[Credits] from the bank on Armitage Codebusting when it is installed.
+    When there are no credits left on Armitage Codebusting, trash it.
+
+    [Click]: Take 2[Credits] from Armitage Codebusting.
+text_ru: >-
+    Place 12[Credits] from the bank on Armitage Codebusting when it is installed.
+    When there are no credits left on Armitage Codebusting, trash it.
+
+    [Click]: Take 2[Credits] from Armitage Codebusting.
+flavor: >-
+    Drudge work, but it pays the bills.
+flavor_ru: >-
+    Drudge work, but it pays the bills.

@@ -1,0 +1,22 @@
+side: Corp
+faction: Jinteki
+type: Agenda
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Clone Retirement
+title_ru: нет
+text: >-
+    When you score Clone Retirement, you may remove 1 bad publicity.
+
+    When the Runner steals Clone Retirement, the Corp takes 1 bad publicity.
+text_ru: >-
+    When you score Clone Retirement, you may remove 1 bad publicity.
+
+    When the Runner steals Clone Retirement, the Corp takes 1 bad publicity.
+flavor: >-
+    "They call it 'retirement'. I call it 'euthenasia'." -Ken "Express"
+    Tenma
+flavor_ru: >-
+    "They call it 'retirement'. I call it 'euthenasia'." -Ken "Express"
+    Tenma

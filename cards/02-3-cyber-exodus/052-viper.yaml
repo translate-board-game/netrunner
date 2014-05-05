@@ -1,0 +1,24 @@
+side: Corp
+faction: Haas-Bioroid
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Viper
+title_ru: нет
+text: >-
+    <strong>[Subroutine] Trace<sup>3</sup></strong>&ndash; If successful,
+    the Runner loses [Click], if able.
+
+    <strong>[Subroutine] Trace<sup>3</sup></strong>&ndash; If successful,
+    end the run.
+text_ru: >-
+    <strong>[Subroutine] Trace<sup>3</sup></strong>&ndash; If successful,
+    the Runner loses [Click], if able.
+
+    <strong>[Subroutine] Trace<sup>3</sup></strong>&ndash; If successful,
+    end the run.
+flavor: >-
+    Dont Tread On Me
+flavor_ru: >-
+    Dont Tread On Me

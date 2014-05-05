@@ -1,0 +1,20 @@
+side: Runner
+faction: Shaper
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Modded
+title_ru: нет
+text: >-
+    Install a program or piece of hardware, lowering the install cost by
+    3.
+text_ru: >-
+    Install a program or piece of hardware, lowering the install cost by
+    3.
+flavor: >-
+    There's no replacement for a home-grown program. Fed on late nights,
+    oaty bars and single-minded determination. Cheaper, too.
+flavor_ru: >-
+    There's no replacement for a home-grown program. Fed on late nights,
+    oaty bars and single-minded determination. Cheaper, too.

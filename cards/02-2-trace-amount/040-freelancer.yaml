@@ -1,0 +1,20 @@
+side: Corp
+faction: Neutral
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Freelancer
+title_ru: нет
+text: >-
+    Play only if the Runner is tagged.
+
+    Trash up to 2 resources.
+text_ru: >-
+    Play only if the Runner is tagged.
+
+    Trash up to 2 resources.
+flavor: >-
+    No contract. Just a handshake and a fistful of C-6 high explosives.
+flavor_ru: >-
+    No contract. Just a handshake and a fistful of C-6 high explosives.

@@ -1,0 +1,16 @@
+side: Corp
+faction: Jinteki
+type: Asset
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Zaibatsu Loyalty
+title_ru: нет
+text: >-
+    If the Runner is about to expose a card, you may rez Zaibatsu Loyalty.
+
+    1[Credits] or [Trash]: Prevent 1 card from being exposed.
+text_ru: >-
+    If the Runner is about to expose a card, you may rez Zaibatsu Loyalty.
+
+    1[Credits] or [Trash]: Prevent 1 card from being exposed.

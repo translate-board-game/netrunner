@@ -1,0 +1,20 @@
+side: Runner
+faction: Criminal
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Planned Assault
+title_ru: нет
+text: >-
+    As an additional cost to play this event, spend [Click].
+
+    Search your stack for a <strong>run</strong> event and play that <strong>run</strong>
+    event (paying its play cost), ignoring any additional costs. Shuffle
+    your stack.
+text_ru: >-
+    As an additional cost to play this event, spend [Click].
+
+    Search your stack for a <strong>run</strong> event and play that <strong>run</strong>
+    event (paying its play cost), ignoring any additional costs. Shuffle
+    your stack.

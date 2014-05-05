@@ -1,0 +1,18 @@
+side: Corp
+faction: Weyland Consortium
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Power Shutdown
+title_ru: нет
+text: >-
+    Play only if the Runner made a run during his or her last turn.
+
+    Trash X cards from the top of R&D. The Runner trashes 1 installed program
+    or piece of hardware with an install cost of X or less.
+text_ru: >-
+    Play only if the Runner made a run during his or her last turn.
+
+    Trash X cards from the top of R&D. The Runner trashes 1 installed program
+    or piece of hardware with an install cost of X or less.

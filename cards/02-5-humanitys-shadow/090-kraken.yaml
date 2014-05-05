@@ -1,0 +1,22 @@
+side: Runner
+faction: Neutral
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Kraken
+title_ru: нет
+text: >-
+    Play only if you stole an agenda this turn.
+
+    Choose a server. The Corp trashes 1 piece of ice protecting that server.
+text_ru: >-
+    Play only if you stole an agenda this turn.
+
+    Choose a server. The Corp trashes 1 piece of ice protecting that server.
+flavor: >-
+    Early permutations of the kraken proved to be insatiable, ice-devouring
+    marauders. Not much has changed.
+flavor_ru: >-
+    Early permutations of the kraken proved to be insatiable, ice-devouring
+    marauders. Not much has changed.

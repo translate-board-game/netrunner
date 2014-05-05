@@ -1,0 +1,24 @@
+side: Runner
+faction: Shaper
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Magnum Opus
+title_ru: нет
+text: >-
+    [Click]: Gain 2[Credits].
+text_ru: >-
+    [Click]: Gain 2[Credits].
+flavor: >-
+    The Great Work was completed on a rainy Thursday afternoon. There were
+    no seismic shifts, no solar flares, no sign from the earth or heavens
+    that the world had changed. But upstalk in Heinlein, on a single Cybsoft
+    manufactured datacore, the flickering data quantums of an account began
+    to fill with creds. Real, honest-to-goodness UN certified creds.
+flavor_ru: >-
+    The Great Work was completed on a rainy Thursday afternoon. There were
+    no seismic shifts, no solar flares, no sign from the earth or heavens
+    that the world had changed. But upstalk in Heinlein, on a single Cybsoft
+    manufactured datacore, the flickering data quantums of an account began
+    to fill with creds. Real, honest-to-goodness UN certified creds.

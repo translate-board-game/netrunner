@@ -1,0 +1,26 @@
+side: Corp
+faction: Jinteki
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Wall of Thorns
+title_ru: нет
+text: >-
+    [Subroutine] Do 2 net damage.
+
+    [Subroutine] End the run.
+text_ru: >-
+    [Subroutine] Do 2 net damage.
+
+    [Subroutine] End the run.
+flavor: >-
+    Most runners do their business in full-sim, with their rigs wired directly
+    into their brains. The setup has a large number of advantages, with
+    the runner able to process data and input commands far faster than a
+    traditional meat-bound system. But it also means greater risk.
+flavor_ru: >-
+    Most runners do their business in full-sim, with their rigs wired directly
+    into their brains. The setup has a large number of advantages, with
+    the runner able to process data and input commands far faster than a
+    traditional meat-bound system. But it also means greater risk.

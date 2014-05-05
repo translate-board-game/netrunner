@@ -1,0 +1,24 @@
+side: Runner
+faction: Neutral
+type: Resource
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Kati Jones
+title_ru: нет
+text: >-
+    You cannot use Kati Jones more than once per turn.
+
+    [Click]: Place 3[Credits] from the bank on Kati Jones.
+
+    [Click]: Take all credits from Kati Jones.
+text_ru: >-
+    You cannot use Kati Jones more than once per turn.
+
+    [Click]: Place 3[Credits] from the bank on Kati Jones.
+
+    [Click]: Take all credits from Kati Jones.
+flavor: >-
+    "You aren't the only type of runner in New Angeles."
+flavor_ru: >-
+    "You aren't the only type of runner in New Angeles."

@@ -1,0 +1,20 @@
+side: Corp
+faction: NBN
+type: Upgrade
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Bernice Mai
+title_ru: нет
+text: >-
+    Whenever there is a successful run on this server, <strong>trace<sup>5</sup></strong>&ndash;
+    if successful, give the runner 1 tag. If unsuccessful, trash Bernice
+    Mai.
+text_ru: >-
+    Whenever there is a successful run on this server, <strong>trace<sup>5</sup></strong>&ndash;
+    if successful, give the runner 1 tag. If unsuccessful, trash Bernice
+    Mai.
+flavor: >-
+    Keeping tabs on the world, one screen at a time.
+flavor_ru: >-
+    Keeping tabs on the world, one screen at a time.

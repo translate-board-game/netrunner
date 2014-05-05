@@ -1,0 +1,18 @@
+side: Runner
+faction: Shaper
+type: Resource
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Woman in the Red Dress
+title_ru: нет
+text: >-
+    When your turn begins, reveal the top card of R&D. The Corp may draw
+    that card.
+text_ru: >-
+    When your turn begins, reveal the top card of R&D. The Corp may draw
+    that card.
+flavor: >-
+    Looks can be deceiving.
+flavor_ru: >-
+    Looks can be deceiving.

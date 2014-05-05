@@ -1,0 +1,22 @@
+side: Runner
+faction: Anarch
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Keyhole
+title_ru: нет
+text: >-
+    [Click]: Make a run on R&D. If successful, instead of accessing cards,
+    look at the top 3 cards of R&D. Trash 1 of those cards at no cost (even
+    if it cannot normally be trashed) and the Corp shuffles R&D.
+text_ru: >-
+    [Click]: Make a run on R&D. If successful, instead of accessing cards,
+    look at the top 3 cards of R&D. Trash 1 of those cards at no cost (even
+    if it cannot normally be trashed) and the Corp shuffles R&D.
+flavor: >-
+    The instructions claim that it sifts the most important data. 'Important',
+    it has been found, is a highly relative term.
+flavor_ru: >-
+    The instructions claim that it sifts the most important data. 'Important',
+    it has been found, is a highly relative term.

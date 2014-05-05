@@ -1,0 +1,20 @@
+side: Runner
+faction: Shaper
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Cloak
+title_ru: нет
+text: >-
+    1[Recurring Credits]
+
+    Use this credit to pay for using <strong>icebreakers</strong>.
+text_ru: >-
+    1[Recurring Credits]
+
+    Use this credit to pay for using <strong>icebreakers</strong>.
+flavor: >-
+    "No line that they lay could catch a shadow on the wall..."
+flavor_ru: >-
+    "No line that they lay could catch a shadow on the wall..."

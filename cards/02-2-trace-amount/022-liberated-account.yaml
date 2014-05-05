@@ -1,0 +1,22 @@
+side: Runner
+faction: Anarch
+type: Resource
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Liberated Account
+title_ru: нет
+text: >-
+    Place 16[Credits] from the bank on Liberated Account when it is installed.
+    When there are no credits left on Liberated Account, trash it.
+
+    [Click]: Take 4[Credits] from Liberated Account.
+text_ru: >-
+    Place 16[Credits] from the bank on Liberated Account when it is installed.
+    When there are no credits left on Liberated Account, trash it.
+
+    [Click]: Take 4[Credits] from Liberated Account.
+flavor: >-
+    It's easier to spend when it's not your money.
+flavor_ru: >-
+    It's easier to spend when it's not your money.

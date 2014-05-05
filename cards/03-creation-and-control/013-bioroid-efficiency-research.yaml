@@ -1,0 +1,18 @@
+side: Corp
+faction: Haas-Bioroid
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Bioroid Efficiency Research
+title_ru: нет
+text: >-
+    Rez a piece of <strong>bioroid</strong> ice, ignoring all costs, and
+    install Bioroid Efficiency Research on that ice as a hosted condition
+    counter with the text "Trash Bioroid Efficiency Research and derez host
+    ice if all of its subroutines are broken during a single encounter."
+text_ru: >-
+    Rez a piece of <strong>bioroid</strong> ice, ignoring all costs, and
+    install Bioroid Efficiency Research on that ice as a hosted condition
+    counter with the text "Trash Bioroid Efficiency Research and derez host
+    ice if all of its subroutines are broken during a single encounter."

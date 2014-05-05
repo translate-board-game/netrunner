@@ -1,0 +1,22 @@
+side: Runner
+faction: Shaper
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Dagger
+title_ru: нет
+text: >-
+    1[Credits]: Break <strong>sentry</strong> subroutine.
+
+    1[Credits]: +5 strength. Use this ability only by spending a credit
+    from a <strong>stealth</strong> card.
+text_ru: >-
+    1[Credits]: Break <strong>sentry</strong> subroutine.
+
+    1[Credits]: +5 strength. Use this ability only by spending a credit
+    from a <strong>stealth</strong> card.
+flavor: >-
+    "...and once the shadow rises, the curtain shall fall." -revenant
+flavor_ru: >-
+    "...and once the shadow rises, the curtain shall fall." -revenant

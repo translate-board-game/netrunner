@@ -1,0 +1,18 @@
+side: Runner
+faction: Criminal
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Calling in Favors
+title_ru: нет
+text: >-
+    Gain 1[Credits] for each installed <strong>connection</strong> resource.
+text_ru: >-
+    Gain 1[Credits] for each installed <strong>connection</strong> resource.
+flavor: >-
+    A job is only as strong as the weakest link. Thankfully Ms. Jones is
+    always on time.
+flavor_ru: >-
+    A job is only as strong as the weakest link. Thankfully Ms. Jones is
+    always on time.

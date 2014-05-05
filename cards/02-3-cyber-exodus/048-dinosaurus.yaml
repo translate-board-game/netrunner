@@ -1,0 +1,24 @@
+side: Runner
+faction: Shaper
+type: Hardware
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Dinosaurus
+title_ru: нет
+text: >-
+    Dinosaurus can host a single non-<strong>AI icebreaker</strong>. The
+    memory cost of the hosted <strong>icebreaker</strong> does not count
+    against your memory limit.
+
+    Hosted <strong>icebreaker</strong> has +2 strength.
+
+    Limit 1 <strong>console</strong> per player.
+text_ru: >-
+    Dinosaurus can host a single non-<strong>AI icebreaker</strong>. The
+    memory cost of the hosted <strong>icebreaker</strong> does not count
+    against your memory limit.
+
+    Hosted <strong>icebreaker</strong> has +2 strength.
+
+    Limit 1 <strong>console</strong> per player.

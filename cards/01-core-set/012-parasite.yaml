@@ -1,0 +1,22 @@
+side: Runner
+faction: Anarch
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Parasite
+title_ru: нет
+text: >-
+    Install Parasite only on a rezzed piece of ice.
+
+    Host ice has -1 strength for each virus counter on Parasite and is trashed
+    if its strength is 0 or less.
+
+    When your turn begins, place 1 virus counter on Parasite.
+text_ru: >-
+    Install Parasite only on a rezzed piece of ice.
+
+    Host ice has -1 strength for each virus counter on Parasite and is trashed
+    if its strength is 0 or less.
+
+    When your turn begins, place 1 virus counter on Parasite.

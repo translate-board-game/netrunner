@@ -1,0 +1,22 @@
+side: Runner
+faction: Neutral
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Mass Install
+title_ru: нет
+text: >-
+    Install up to 3 programs for your grip (paying the install costs).
+text_ru: >-
+    Install up to 3 programs for your grip (paying the install costs).
+flavor: >-
+    "Welcome to the mass install wizard! This wizard will guide you through
+    the process of installing a whole mess of programs onto your almost-certainly
+    inadequate rig. When you're ready to continue, say&ndash;oops, too late,
+    here we go!"
+flavor_ru: >-
+    "Welcome to the mass install wizard! This wizard will guide you through
+    the process of installing a whole mess of programs onto your almost-certainly
+    inadequate rig. When you're ready to continue, say&ndash;oops, too late,
+    here we go!"

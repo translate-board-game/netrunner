@@ -1,0 +1,18 @@
+side: Corp
+faction: Weyland Consortium
+type: Asset
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Security Subcontract
+title_ru: нет
+text: >-
+    [Click], <strong>trash a rezzed piece of ice</strong>: Gain 4[Credits].
+text_ru: >-
+    [Click], <strong>trash a rezzed piece of ice</strong>: Gain 4[Credits].
+flavor: >-
+    "Feed the Feds our scraps, and they'll come back begging for more."
+    - Richard Polasco, VP of Cyber-Security
+flavor_ru: >-
+    "Feed the Feds our scraps, and they'll come back begging for more."
+    - Richard Polasco, VP of Cyber-Security

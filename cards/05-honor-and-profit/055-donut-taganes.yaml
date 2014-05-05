@@ -1,0 +1,22 @@
+side: Runner
+faction: Neutral
+type: Resource
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Donut Taganes
+title_ru: нет
+text: >-
+    The play cost of operations and events is increased by 1.
+text_ru: >-
+    The play cost of operations and events is increased by 1.
+flavor: >-
+    You can find Donut in the park on Thursday afternoons, playing backgammon.
+    You want his attention, the price is always the same: a cup of coffee
+    and a donut. That buys you a seat at the backgammon table, and you have
+    until he beats you to talk business and set the price.
+flavor_ru: >-
+    You can find Donut in the park on Thursday afternoons, playing backgammon.
+    You want his attention, the price is always the same: a cup of coffee
+    and a donut. That buys you a seat at the backgammon table, and you have
+    until he beats you to talk business and set the price.

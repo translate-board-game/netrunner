@@ -1,0 +1,22 @@
+side: Runner
+faction: Shaper
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Scavenge
+title_ru: нет
+text: >-
+    As an additional cost to play this card, trash an installed program.
+
+    Install a program from your grip or heap, lowering the install cost
+    of that program by the cost of the program trashed.
+text_ru: >-
+    As an additional cost to play this card, trash an installed program.
+
+    Install a program from your grip or heap, lowering the install cost
+    of that program by the cost of the program trashed.
+flavor: >-
+    One man's trash.
+flavor_ru: >-
+    One man's trash.

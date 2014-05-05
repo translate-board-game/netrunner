@@ -1,0 +1,28 @@
+side: Corp
+faction: Weyland Consortium
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Hadrian's Wall
+title_ru: нет
+text: >-
+    Hadrian's Wall can be advanced and has +1 strength for each advancement
+    token on it.
+
+    [Subroutine] End the run.
+
+    [Subroutine] End the run.
+text_ru: >-
+    Hadrian's Wall can be advanced and has +1 strength for each advancement
+    token on it.
+
+    [Subroutine] End the run.
+
+    [Subroutine] End the run.
+flavor: >-
+    "He had a bit of an ego, ol' Hadrian. his constructs live up to it though."
+    -g00ru
+flavor_ru: >-
+    "He had a bit of an ego, ol' Hadrian. his constructs live up to it though."
+    -g00ru

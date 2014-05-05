@@ -1,0 +1,16 @@
+side: Corp
+faction: Neutral
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Cyberdex Trial
+title_ru: нет
+text: >-
+    Purge virus counters.
+text_ru: >-
+    Purge virus counters.
+flavor: >-
+    Your free trial expired. Upgrade to the full version?
+flavor_ru: >-
+    Your free trial expired. Upgrade to the full version?

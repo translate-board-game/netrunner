@@ -1,0 +1,20 @@
+side: Runner
+faction: Criminal
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Sneakdoor Beta
+title_ru: нет
+text: >-
+    [Click]: Make a run on Archives. If successful, instead treat it as
+    a successful run on HQ.
+text_ru: >-
+    [Click]: Make a run on Archives. If successful, instead treat it as
+    a successful run on HQ.
+flavor: >-
+    "The code isn't important. It's where the code takes you that is important."
+    - g00ru
+flavor_ru: >-
+    "The code isn't important. It's where the code takes you that is important."
+    - g00ru

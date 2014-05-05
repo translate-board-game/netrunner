@@ -1,0 +1,20 @@
+side: Corp
+faction: Haas-Bioroid
+type: Asset
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Rex Campaign
+title_ru: нет
+text: >-
+    Place 3 power counters on Rex Campaign when it is rezzed. When there
+    are no power counters left on Rex Campaign, trash it and either remove
+    1 bad publicity or gain 5[Credits].
+
+    When your turn begins, remove 1 power counter from Rex Campaign.
+text_ru: >-
+    Place 3 power counters on Rex Campaign when it is rezzed. When there
+    are no power counters left on Rex Campaign, trash it and either remove
+    1 bad publicity or gain 5[Credits].
+
+    When your turn begins, remove 1 power counter from Rex Campaign.

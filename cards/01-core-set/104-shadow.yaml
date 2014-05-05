@@ -1,0 +1,32 @@
+side: Corp
+faction: Weyland Consortium
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Shadow
+title_ru: нет
+text: >-
+    Shadow can be advanced and has +1 strength for each advancement token
+    on it.
+
+    [Subroutine] The Corp gains 2[Credits].
+
+    [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
+    give the Runner 1 tag.
+text_ru: >-
+    Shadow can be advanced and has +1 strength for each advancement token
+    on it.
+
+    [Subroutine] The Corp gains 2[Credits].
+
+    [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
+    give the Runner 1 tag.
+flavor: >-
+    Who knows what evil lurks in the memory diamonds of men? Weyland knows.
+
+    -unsigned cyber-graffiti
+flavor_ru: >-
+    Who knows what evil lurks in the memory diamonds of men? Weyland knows.
+
+    -unsigned cyber-graffiti

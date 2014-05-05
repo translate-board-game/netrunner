@@ -1,0 +1,28 @@
+side: Corp
+faction: NBN
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: RSVP
+title_ru: нет
+text: >-
+    [Subroutine] The Runner cannot spend any credits for the remainder of
+    this run.
+text_ru: >-
+    [Subroutine] The Runner cannot spend any credits for the remainder of
+    this run.
+flavor: >-
+    This ice disguises itself as a series of electronic transactions, tying
+    up the runner's funds in a thousand or so non-existent purchases and
+    refunds. The banks' system of holds and checks means that while not
+    a single credit ever leaves their servers the runner has no available
+    funds. RSVP also has the unfortunate side effect of being entirely legal...strictly
+    speaking.
+flavor_ru: >-
+    This ice disguises itself as a series of electronic transactions, tying
+    up the runner's funds in a thousand or so non-existent purchases and
+    refunds. The banks' system of holds and checks means that while not
+    a single credit ever leaves their servers the runner has no available
+    funds. RSVP also has the unfortunate side effect of being entirely legal...strictly
+    speaking.

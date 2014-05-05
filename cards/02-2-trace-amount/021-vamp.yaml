@@ -1,0 +1,20 @@
+side: Runner
+faction: Anarch
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Vamp
+title_ru: нет
+text: >-
+    Make a run on HQ. If successful, instead of accessing cards you may
+    pay X[Credits] to force the Corp to lose up to X[Credits], then take
+    1 tag.
+text_ru: >-
+    Make a run on HQ. If successful, instead of accessing cards you may
+    pay X[Credits] to force the Corp to lose up to X[Credits], then take
+    1 tag.
+flavor: >-
+    There was a certain schadenfreude about throwing away your credits.
+flavor_ru: >-
+    There was a certain schadenfreude about throwing away your credits.

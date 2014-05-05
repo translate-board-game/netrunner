@@ -1,0 +1,22 @@
+side: Corp
+faction: Weyland Consortium
+type: Asset
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Elizabeth Mills
+title_ru: нет
+text: >-
+    When you rez Elizabeth Mills, remove 1 bad publicity.
+
+    [Click], [Trash]: Trash 1 <strong>location</strong>. Take 1 bad publicity.
+text_ru: >-
+    When you rez Elizabeth Mills, remove 1 bad publicity.
+
+    [Click], [Trash]: Trash 1 <strong>location</strong>. Take 1 bad publicity.
+flavor: >-
+    "It's not personal. Urban renewal is a necessity of the modern world.
+    It's always someone's home, yours is no different."
+flavor_ru: >-
+    "It's not personal. Urban renewal is a necessity of the modern world.
+    It's always someone's home, yours is no different."

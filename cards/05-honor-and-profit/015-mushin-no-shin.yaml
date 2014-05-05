@@ -1,0 +1,20 @@
+side: Corp
+faction: Jinteki
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Mushin No Shin
+title_ru: нет
+text: >-
+    As an additional cost to play this operation, spend [Click].
+
+    Install an asset, agenda, or upgrade from HQ in a new remote server.
+    Place 3 advancement tokens on that card. You cannot score or rez that
+    card until your next turn begins.
+text_ru: >-
+    As an additional cost to play this operation, spend [Click].
+
+    Install an asset, agenda, or upgrade from HQ in a new remote server.
+    Place 3 advancement tokens on that card. You cannot score or rez that
+    card until your next turn begins.

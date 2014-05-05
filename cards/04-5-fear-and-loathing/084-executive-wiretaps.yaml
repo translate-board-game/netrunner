@@ -1,0 +1,20 @@
+side: Runner
+faction: Criminal
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Executive Wiretaps
+title_ru: нет
+text: >-
+    As an additional cost to play this event, spend [Click].
+
+    Reveal all cards in HQ.
+text_ru: >-
+    As an additional cost to play this event, spend [Click].
+
+    Reveal all cards in HQ.
+flavor: >-
+    "When you need someone who is a little more hands, look me up." -Silhouette
+flavor_ru: >-
+    "When you need someone who is a little more hands, look me up." -Silhouette

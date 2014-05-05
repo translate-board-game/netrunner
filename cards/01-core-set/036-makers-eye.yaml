@@ -1,0 +1,18 @@
+side: Runner
+faction: Shaper
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: The Maker's Eye
+title_ru: нет
+text: >-
+    Make a run on R&D. If successful, access 2 additional cards from R&D.
+text_ru: >-
+    Make a run on R&D. If successful, access 2 additional cards from R&D.
+flavor: >-
+    "Some of the professionals have good instincts, but they can't see beyond
+    the data. They can't see the matrix." - Ele "Smoke" Scovak
+flavor_ru: >-
+    "Some of the professionals have good instincts, but they can't see beyond
+    the data. They can't see the matrix." - Ele "Smoke" Scovak

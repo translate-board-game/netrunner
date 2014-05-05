@@ -1,0 +1,18 @@
+side: Corp
+faction: Weyland Consortium
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Woodcutter
+title_ru: нет
+text: >-
+    Woodcutter can be advanced only while rezzed and gains "[Subroutine]
+    Do 1 net damage." for each advancement token on it.
+text_ru: >-
+    Woodcutter can be advanced only while rezzed and gains "[Subroutine]
+    Do 1 net damage." for each advancement token on it.
+flavor: >-
+    Chop chop.
+flavor_ru: >-
+    Chop chop.

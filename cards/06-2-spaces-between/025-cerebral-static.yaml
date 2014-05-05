@@ -1,0 +1,22 @@
+side: Corp
+faction: Jinteki
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Cerebral Static
+title_ru: нет
+text: >-
+    This card is not trashed until another <strong>current</strong> is played
+    or an agenda is stolen.
+
+    The Runner's identity text box is blank.
+text_ru: >-
+    This card is not trashed until another <strong>current</strong> is played
+    or an agenda is stolen.
+
+    The Runner's identity text box is blank.
+flavor: >-
+    Her eyes were the color of a vidscreen, tuned to a dead channel.
+flavor_ru: >-
+    Her eyes were the color of a vidscreen, tuned to a dead channel.

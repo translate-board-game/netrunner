@@ -1,0 +1,20 @@
+side: Corp
+faction: Jinteki
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Snowflake
+title_ru: нет
+text: >-
+    [Subroutine] You and the Runner secretly spend 0[Credits], 1[Credits],
+    or 2[Credits]. Reveal spent credits. End the run if you and the Runner
+    spent a different number of credits.
+text_ru: >-
+    [Subroutine] You and the Runner secretly spend 0[Credits], 1[Credits],
+    or 2[Credits]. Reveal spent credits. End the run if you and the Runner
+    spent a different number of credits.
+flavor: >-
+    Sometimes uniqueness is overrated.
+flavor_ru: >-
+    Sometimes uniqueness is overrated.

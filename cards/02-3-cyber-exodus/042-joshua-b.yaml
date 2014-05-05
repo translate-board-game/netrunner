@@ -1,0 +1,18 @@
+side: Runner
+faction: Anarch
+type: Resource
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Joshua B.
+title_ru: нет
+text: >-
+    When your turn begins, you may gain [Click]. If you do, take 1 tag when
+    this turn ends.
+text_ru: >-
+    When your turn begins, you may gain [Click]. If you do, take 1 tag when
+    this turn ends.
+flavor: >-
+    "My enhancements are guaranteed for life, and well worth the risk."
+flavor_ru: >-
+    "My enhancements are guaranteed for life, and well worth the risk."

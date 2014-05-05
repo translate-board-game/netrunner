@@ -1,0 +1,24 @@
+side: Corp
+faction: Haas-Bioroid
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: NEXT Bronze
+title_ru: нет
+text: >-
+    NEXT Bronze has +1 strength for each rezzed piece of <strong>NEXT</strong>
+    ice.
+
+    [Subroutine] End the run.
+text_ru: >-
+    NEXT Bronze has +1 strength for each rezzed piece of <strong>NEXT</strong>
+    ice.
+
+    [Subroutine] End the run.
+flavor: >-
+    NEXT Design's ice provides the discerning business with a suite of ice
+    that creates a daunting security presence for intruders.
+flavor_ru: >-
+    NEXT Design's ice provides the discerning business with a suite of ice
+    that creates a daunting security presence for intruders.

@@ -1,0 +1,18 @@
+side: Runner
+faction: Criminal
+type: Identity
+uniqueness: false
+obvious: false
+progress: 0.0
+title: 'Silhouette: Stealth Operative'
+title_ru: нет
+text: >-
+    The first time you make a successful run on HQ each turn, you may expose
+    1 card.
+text_ru: >-
+    The first time you make a successful run on HQ each turn, you may expose
+    1 card.
+flavor: >-
+    "Don't waste my time."
+flavor_ru: >-
+    "Don't waste my time."

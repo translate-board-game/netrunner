@@ -1,0 +1,24 @@
+side: Runner
+faction: Criminal
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Femme Fatale
+title_ru: нет
+text: >-
+    1[Credits]: Break <strong>sentry</strong> subroutine.
+
+    2[Credits]: +1 strength.
+
+    When you install Femme Fatale, choose an installed piece of ice. When
+    you encounter that ice, you may spend 1[Credits] per subroutine on that
+    ice to bypass it.
+text_ru: >-
+    1[Credits]: Break <strong>sentry</strong> subroutine.
+
+    2[Credits]: +1 strength.
+
+    When you install Femme Fatale, choose an installed piece of ice. When
+    you encounter that ice, you may spend 1[Credits] per subroutine on that
+    ice to bypass it.

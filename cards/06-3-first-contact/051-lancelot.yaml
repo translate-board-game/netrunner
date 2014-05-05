@@ -1,0 +1,24 @@
+side: Corp
+faction: Neutral
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Lancelot
+title_ru: нет
+text: >-
+    When the Runner encounters Lancelot, you may reveal up to 2 <strong>grail</strong>
+    ice from HQ. For the remainder of this run, Lancelot gains the subroutines
+    of the revealed ice in the order of your choice.
+
+    [Subroutine] Trash 1 program.
+text_ru: >-
+    When the Runner encounters Lancelot, you may reveal up to 2 <strong>grail</strong>
+    ice from HQ. For the remainder of this run, Lancelot gains the subroutines
+    of the revealed ice in the order of your choice.
+
+    [Subroutine] Trash 1 program.
+flavor: >-
+    He who wields the sword of valor.
+flavor_ru: >-
+    He who wields the sword of valor.

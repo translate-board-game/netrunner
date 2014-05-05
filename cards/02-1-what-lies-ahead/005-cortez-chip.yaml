@@ -1,0 +1,24 @@
+side: Runner
+faction: Criminal
+type: Hardware
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Cortez Chip
+title_ru: нет
+text: >-
+    [Trash]: Choose a piece of ice. The Corp must pay 2[Credits] as an additional
+    cost to rez that ice until the end of the turn.
+text_ru: >-
+    [Trash]: Choose a piece of ice. The Corp must pay 2[Credits] as an additional
+    cost to rez that ice until the end of the turn.
+flavor: >-
+    Named after Hernando Cortez, a former Weyland technician convicted of
+    smuggling company tech. He still collected his pension while in prison,
+    the last beneficiary of a loophole in Weyland's standard employment
+    contract.
+flavor_ru: >-
+    Named after Hernando Cortez, a former Weyland technician convicted of
+    smuggling company tech. He still collected his pension while in prison,
+    the last beneficiary of a loophole in Weyland's standard employment
+    contract.

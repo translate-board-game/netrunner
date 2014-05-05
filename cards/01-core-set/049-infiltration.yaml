@@ -1,0 +1,16 @@
+side: Runner
+faction: Neutral
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Infiltration
+title_ru: нет
+text: >-
+    Gain 2[Credits] or expose 1 card.
+text_ru: >-
+    Gain 2[Credits] or expose 1 card.
+flavor: >-
+    "Bring back any memories, Monica?" - John "Animal" McEvoy
+flavor_ru: >-
+    "Bring back any memories, Monica?" - John "Animal" McEvoy

@@ -1,0 +1,22 @@
+side: Runner
+faction: Anarch
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Frame Job
+title_ru: нет
+text: >-
+    As an additional cost to play this event, spend [Click].
+
+    Forfeit an agenda. If you do, give the Corp 1 bad publicity.
+text_ru: >-
+    As an additional cost to play this event, spend [Click].
+
+    Forfeit an agenda. If you do, give the Corp 1 bad publicity.
+flavor: >-
+    "Bioroid intrusion isn't impossible, despite the bluster of Haas-Bioroid.
+    But it is dangerous." -Noise
+flavor_ru: >-
+    "Bioroid intrusion isn't impossible, despite the bluster of Haas-Bioroid.
+    But it is dangerous." -Noise

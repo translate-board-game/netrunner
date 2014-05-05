@@ -1,0 +1,24 @@
+side: Corp
+faction: Jinteki
+type: Upgrade
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Port Anson Grid
+title_ru: нет
+text: >-
+    The Runner cannot jack out while running on this server unless he or
+    she trashes 1 installed program .
+
+    Limit 1 <strong>region</strong> per server.
+text_ru: >-
+    The Runner cannot jack out while running on this server unless he or
+    she trashes 1 installed program .
+
+    Limit 1 <strong>region</strong> per server.
+flavor: >-
+    The port was first built as a remote location to unload and offload
+    dangerous felons.
+flavor_ru: >-
+    The port was first built as a remote location to unload and offload
+    dangerous felons.

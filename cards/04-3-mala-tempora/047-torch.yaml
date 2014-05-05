@@ -1,0 +1,30 @@
+side: Runner
+faction: Shaper
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Torch
+title_ru: нет
+text: >-
+    1[Credits]: Break <strong>code gate</strong> subroutine.
+
+    1[Credits]: +1 strength.
+text_ru: >-
+    1[Credits]: Break <strong>code gate</strong> subroutine.
+
+    1[Credits]: +1 strength.
+flavor: >-
+    The core of the grid. A blinding sphere of light, teeming with energy,
+    crackling with flame. Beyond were only twinkling bits of data in a field
+    of darkness. No hacker dared approach the core, except one. He came
+    back with a flare of code, a torch that burned with the fire of the
+    core itself. The dark places of cyberspace were dark no more, and the
+    legend of g00ru was born.
+flavor_ru: >-
+    The core of the grid. A blinding sphere of light, teeming with energy,
+    crackling with flame. Beyond were only twinkling bits of data in a field
+    of darkness. No hacker dared approach the core, except one. He came
+    back with a flare of code, a torch that burned with the fire of the
+    core itself. The dark places of cyberspace were dark no more, and the
+    legend of g00ru was born.

@@ -1,0 +1,24 @@
+side: Corp
+faction: NBN
+type: Asset
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Jackson Howard
+title_ru: нет
+text: >-
+    [Click]: Draw 2 cards.
+
+    <strong>Remove Jackson Howard from the game</strong>: Shuffle up to
+    3 cards from Archives to R&D.
+text_ru: >-
+    [Click]: Draw 2 cards.
+
+    <strong>Remove Jackson Howard from the game</strong>: Shuffle up to
+    3 cards from Archives to R&D.
+flavor: >-
+    "It is my job to ensure our creations are the perfect companions and
+    edutainment for tomorrow's consumers."
+flavor_ru: >-
+    "It is my job to ensure our creations are the perfect companions and
+    edutainment for tomorrow's consumers."

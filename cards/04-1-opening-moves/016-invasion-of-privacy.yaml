@@ -1,0 +1,22 @@
+side: Corp
+faction: NBN
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Invasion of Privacy
+title_ru: нет
+text: >-
+    As additional cost to play this operation, spend [Click].
+
+    <strong>Trace<sup>2</sup></strong>&ndash; If successful, reveal the
+    Runner's grip and trash a number of resources and/or events from it
+    up to the amount by which your trace strength exceeded the Runner's
+    link strength. If unsuccessful, take 1 bad publicity.
+text_ru: >-
+    As additional cost to play this operation, spend [Click].
+
+    <strong>Trace<sup>2</sup></strong>&ndash; If successful, reveal the
+    Runner's grip and trash a number of resources and/or events from it
+    up to the amount by which your trace strength exceeded the Runner's
+    link strength. If unsuccessful, take 1 bad publicity.

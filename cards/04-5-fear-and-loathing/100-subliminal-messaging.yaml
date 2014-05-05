@@ -1,0 +1,20 @@
+side: Corp
+faction: Neutral
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Subliminal Messaging
+title_ru: нет
+text: >-
+    Gain 1[Credits]. Gain [Click] if you have not played another Subliminal
+    Messaging this turn.
+
+    If the Runner did not make a run during his or her last turn, you may
+    add Subliminal Messaging to HQ from Archives when your turn begins.
+text_ru: >-
+    Gain 1[Credits]. Gain [Click] if you have not played another Subliminal
+    Messaging this turn.
+
+    If the Runner did not make a run during his or her last turn, you may
+    add Subliminal Messaging to HQ from Archives when your turn begins.

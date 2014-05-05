@@ -1,0 +1,26 @@
+side: Runner
+faction: Criminal
+type: Hardware
+uniqueness: true
+obvious: false
+progress: 0.0
+title: Blackguard
+title_ru: нет
+text: >-
+    +2[Memory Unit]
+
+    Whenever you expose a card, the Corp must rez it by paying its rez cost,
+    if able.
+
+    Limit 1 <strong>console</strong> per player.
+text_ru: >-
+    +2[Memory Unit]
+
+    Whenever you expose a card, the Corp must rez it by paying its rez cost,
+    if able.
+
+    Limit 1 <strong>console</strong> per player.
+flavor: >-
+    The power of the focused mind is a power beyond comprehension.
+flavor_ru: >-
+    The power of the focused mind is a power beyond comprehension.

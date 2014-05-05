@@ -1,0 +1,18 @@
+side: Corp
+faction: Haas-Bioroid
+type: Asset
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Adonis Campaign
+title_ru: нет
+text: >-
+    Put 12[Credits] from the bank on Adonis Campaign when rezzed. When there
+    are no credits left on this card, trash it.
+
+    Take 3[Credits] from Adonis Campaign when your turn begins.
+text_ru: >-
+    Put 12[Credits] from the bank on Adonis Campaign when rezzed. When there
+    are no credits left on this card, trash it.
+
+    Take 3[Credits] from Adonis Campaign when your turn begins.

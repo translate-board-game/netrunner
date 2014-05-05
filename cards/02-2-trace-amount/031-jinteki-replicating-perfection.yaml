@@ -1,0 +1,14 @@
+side: Corp
+faction: Jinteki
+type: Identity
+uniqueness: false
+obvious: false
+progress: 0.0
+title: 'Jinteki: Replicating Perfection'
+title_ru: нет
+text: >-
+    The Runner cannot run on remote servers. Ignore this ability until the
+    end of the turn whenever the Runner runs on a central server.
+text_ru: >-
+    The Runner cannot run on remote servers. Ignore this ability until the
+    end of the turn whenever the Runner runs on a central server.

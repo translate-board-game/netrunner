@@ -1,0 +1,20 @@
+side: Corp
+faction: Weyland Consortium
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Salvage
+title_ru: нет
+text: >-
+    Salvage can be advanced only while rezzed and gains “[Subroutine] <strong>Trace<sup>2</sup></strong>&ndash;
+    If successful, give the Runner 1 tag.” for each advancement token on
+    it.
+text_ru: >-
+    Salvage can be advanced only while rezzed and gains “[Subroutine] <strong>Trace<sup>2</sup></strong>&ndash;
+    If successful, give the Runner 1 tag.” for each advancement token on
+    it.
+flavor: >-
+    You're not in Kansas anymore.
+flavor_ru: >-
+    You're not in Kansas anymore.

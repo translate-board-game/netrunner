@@ -1,0 +1,24 @@
+side: Runner
+faction: Anarch
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Wyrm
+title_ru: нет
+text: >-
+    3[Credits]: Break ice subroutine on a piece of ice with 0 or less strength.
+
+    1[Credits]: Ice has -1 strength.
+
+    1[Credits]: +1 strength.
+text_ru: >-
+    3[Credits]: Break ice subroutine on a piece of ice with 0 or less strength.
+
+    1[Credits]: Ice has -1 strength.
+
+    1[Credits]: +1 strength.
+flavor: >-
+    Fire and ichor...
+flavor_ru: >-
+    Fire and ichor...

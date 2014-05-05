@@ -1,0 +1,24 @@
+side: Runner
+faction: Anarch
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Medium
+title_ru: нет
+text: >-
+    Whenever you make a successful run on R&D, place 1 virus counter on
+    Medium.
+
+    Each virus counter after the first on Medium allows you to access 1
+    additional card from R&D whenever you access cards from R&D.
+text_ru: >-
+    Whenever you make a successful run on R&D, place 1 virus counter on
+    Medium.
+
+    Each virus counter after the first on Medium allows you to access 1
+    additional card from R&D whenever you access cards from R&D.
+flavor: >-
+    It looked like random packet loss. It wasn't.
+flavor_ru: >-
+    It looked like random packet loss. It wasn't.

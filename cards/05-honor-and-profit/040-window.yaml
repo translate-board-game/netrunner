@@ -1,0 +1,18 @@
+side: Runner
+faction: Criminal
+type: Hardware
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Window
+title_ru: нет
+text: >-
+    [Click]: Draw 1 card from the bottom of your stack.
+text_ru: >-
+    [Click]: Draw 1 card from the bottom of your stack.
+flavor: >-
+    The grass looked greener on the other side of the tear. But it always
+    did, and there was always another tear.
+flavor_ru: >-
+    The grass looked greener on the other side of the tear. But it always
+    did, and there was always another tear.

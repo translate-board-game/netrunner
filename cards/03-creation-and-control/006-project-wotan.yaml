@@ -1,0 +1,20 @@
+side: Corp
+faction: Haas-Bioroid
+type: Agenda
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Project Wotan
+title_ru: нет
+text: >-
+    Place 3 agenda counters on Project Wotan when you score it.
+
+    <strong>Hosted agenda counter</strong>: Choose a rezzed piece of <strong>bioroid</strong>
+    ice currently being approached. For the remainder of this run, that
+    ice gains "[Subroutine] End the run." after all its other subroutines.
+text_ru: >-
+    Place 3 agenda counters on Project Wotan when you score it.
+
+    <strong>Hosted agenda counter</strong>: Choose a rezzed piece of <strong>bioroid</strong>
+    ice currently being approached. For the remainder of this run, that
+    ice gains "[Subroutine] End the run." after all its other subroutines.

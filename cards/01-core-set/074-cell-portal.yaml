@@ -1,0 +1,18 @@
+side: Corp
+faction: Jinteki
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Cell Portal
+title_ru: нет
+text: >-
+    [Subroutine] The Runner approaches the outermost piece of ice protecting
+    the attacked server. Derez Cell Portal.
+text_ru: >-
+    [Subroutine] The Runner approaches the outermost piece of ice protecting
+    the attacked server. Derez Cell Portal.
+flavor: >-
+    "Where does it go?"
+flavor_ru: >-
+    "Where does it go?"

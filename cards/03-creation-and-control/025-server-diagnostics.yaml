@@ -1,0 +1,20 @@
+side: Corp
+faction: Neutral
+type: Asset
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Server Diagnostics
+title_ru: нет
+text: >-
+    Gain 2[Credits] when your turn begins.
+
+    Trash Server Diagnostics when you install a piece of ice.
+text_ru: >-
+    Gain 2[Credits] when your turn begins.
+
+    Trash Server Diagnostics when you install a piece of ice.
+flavor: >-
+    "There's only a 5% chance this could result in a general failure."
+flavor_ru: >-
+    "There's only a 5% chance this could result in a general failure."

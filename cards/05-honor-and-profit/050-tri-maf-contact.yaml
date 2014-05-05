@@ -1,0 +1,32 @@
+side: Runner
+faction: Criminal
+type: Resource
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Tri-maf Contact
+title_ru: нет
+text: >-
+    You cannot use Tri-maf Contact more than once per turn.
+
+    [Click]: Gain 2[Credits].
+
+    When Tri-maf Contact is trashed, suffer 3 meat damage.
+text_ru: >-
+    You cannot use Tri-maf Contact more than once per turn.
+
+    [Click]: Gain 2[Credits].
+
+    When Tri-maf Contact is trashed, suffer 3 meat damage.
+flavor: >-
+    She slipped back onto her hopper. "I'm your family now, so don't twist
+    me, dǒng ma?"
+
+    He flicked the e-cig away from his mouth, and nodded. What had he gotten
+    himself into?
+flavor_ru: >-
+    She slipped back onto her hopper. "I'm your family now, so don't twist
+    me, dǒng ma?"
+
+    He flicked the e-cig away from his mouth, and nodded. What had he gotten
+    himself into?

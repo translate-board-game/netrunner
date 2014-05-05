@@ -1,0 +1,22 @@
+side: Runner
+faction: Criminal
+type: Resource
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Security Testing
+title_ru: нет
+text: >-
+    When your turn begins, choose a server. The first time you make a successful
+    run on that server this turn, instead of accessing cards, gain 2[Credits].
+text_ru: >-
+    When your turn begins, choose a server. The first time you make a successful
+    run on that server this turn, instead of accessing cards, gain 2[Credits].
+flavor: >-
+    She was as good as Mr. Li said. The machine had been compromised in
+    under 24 hours. If a freelance operative could do that, clearly the
+    server wasn't ready to endure Gagarin's legion of corp-owned runners.
+flavor_ru: >-
+    She was as good as Mr. Li said. The machine had been compromised in
+    under 24 hours. If a freelance operative could do that, clearly the
+    server wasn't ready to endure Gagarin's legion of corp-owned runners.

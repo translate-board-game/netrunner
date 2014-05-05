@@ -1,0 +1,18 @@
+side: Runner
+faction: Criminal
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Snitch
+title_ru: нет
+text: >-
+    Once per run, you may expose an unrezzed piece of ice when you approach
+    it. You may then jack out.
+text_ru: >-
+    Once per run, you may expose an unrezzed piece of ice when you approach
+    it. You may then jack out.
+flavor: >-
+    "A snitch is a girl's best friend." - Andromeda
+flavor_ru: >-
+    "A snitch is a girl's best friend." - Andromeda

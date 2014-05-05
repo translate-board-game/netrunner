@@ -1,0 +1,26 @@
+side: Runner
+faction: Anarch
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Djinn
+title_ru: нет
+text: >-
+    Djinn can host up to 3[Memory Unit] of non-<strong>icebreaker</strong>
+    programs.
+
+    The memory costs of hosted programs do not count against your memory
+    limit.
+
+    [Click], 1[Credits]: Search your stack for a <strong>virus</strong>
+    program, reveal it, and add it to your grip. Shuffle your stack.
+text_ru: >-
+    Djinn can host up to 3[Memory Unit] of non-<strong>icebreaker</strong>
+    programs.
+
+    The memory costs of hosted programs do not count against your memory
+    limit.
+
+    [Click], 1[Credits]: Search your stack for a <strong>virus</strong>
+    program, reveal it, and add it to your grip. Shuffle your stack.

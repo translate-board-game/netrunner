@@ -1,0 +1,26 @@
+side: Corp
+faction: NBN
+type: Upgrade
+uniqueness: false
+obvious: false
+progress: 0.0
+title: SanSan City Grid
+title_ru: нет
+text: >-
+    The advancement requirement of agendas installed in this server is lowered
+    by 1.
+
+    Limit 1 <strong>region</strong> per server.
+text_ru: >-
+    The advancement requirement of agendas installed in this server is lowered
+    by 1.
+
+    Limit 1 <strong>region</strong> per server.
+flavor: >-
+    "I hear the coast is nice this time of year."
+
+    "If you're in the right business, it's nice all the year."
+flavor_ru: >-
+    "I hear the coast is nice this time of year."
+
+    "If you're in the right business, it's nice all the year."

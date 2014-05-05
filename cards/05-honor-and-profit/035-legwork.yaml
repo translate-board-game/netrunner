@@ -1,0 +1,18 @@
+side: Runner
+faction: Criminal
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Legwork
+title_ru: нет
+text: >-
+    Make a run on HQ. If successful, access 2 additional cards from HQ.
+text_ru: >-
+    Make a run on HQ. If successful, access 2 additional cards from HQ.
+flavor: >-
+    "I work by referral only, with an up-front fee. The fee is reasonable
+    if you value results." -Silhouette
+flavor_ru: >-
+    "I work by referral only, with an up-front fee. The fee is reasonable
+    if you value results." -Silhouette

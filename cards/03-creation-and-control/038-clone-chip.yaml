@@ -1,0 +1,16 @@
+side: Runner
+faction: Shaper
+type: Hardware
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Clone Chip
+title_ru: нет
+text: >-
+    [Trash]: Install a program from your heap (paying the install cost).
+text_ru: >-
+    [Trash]: Install a program from your heap (paying the install cost).
+flavor: >-
+    It is good practice to backup the backup.
+flavor_ru: >-
+    It is good practice to backup the backup.

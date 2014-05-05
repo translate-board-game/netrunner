@@ -1,0 +1,22 @@
+side: Runner
+faction: Criminal
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Emergency Shutdown
+title_ru: нет
+text: >-
+    Play only if you made a successful run on HQ this turn.
+
+    Derez a piece of ice.
+text_ru: >-
+    Play only if you made a successful run on HQ this turn.
+
+    Derez a piece of ice.
+flavor: >-
+    "Think of it as a virtual shock collar for punishing corporate pets."
+    - Andromeda
+flavor_ru: >-
+    "Think of it as a virtual shock collar for punishing corporate pets."
+    - Andromeda

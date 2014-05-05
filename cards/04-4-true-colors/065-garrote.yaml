@@ -1,0 +1,28 @@
+side: Runner
+faction: Criminal
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Garrote
+title_ru: нет
+text: >-
+    1[Credits]: Break <strong>sentry</strong> subroutine.
+
+    1[Credits]: +1 strength.
+text_ru: >-
+    1[Credits]: Break <strong>sentry</strong> subroutine.
+
+    1[Credits]: +1 strength.
+flavor: >-
+    The first credited icebreaker was nothing more than a unique script
+    to bypass the security calls on a Gibson 3 Data Sentry. Garrote has
+    over 20,000 times the data as that first breaker, but the idea remains
+    the same: cut off the power source from the network, and then smash
+    on through.
+flavor_ru: >-
+    The first credited icebreaker was nothing more than a unique script
+    to bypass the security calls on a Gibson 3 Data Sentry. Garrote has
+    over 20,000 times the data as that first breaker, but the idea remains
+    the same: cut off the power source from the network, and then smash
+    on through.

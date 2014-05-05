@@ -1,0 +1,24 @@
+side: Corp
+faction: Jinteki
+type: Operation
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Celebrity Gift
+title_ru: нет
+text: >-
+    As an additional cost to play this operation, spend [Click].
+
+    Reveal up to 5 cards in HQ to the Runner. Gain 2[Credits] for each card
+    revealed.
+text_ru: >-
+    As an additional cost to play this operation, spend [Click].
+
+    Reveal up to 5 cards in HQ to the Runner. Gain 2[Credits] for each card
+    revealed.
+flavor: >-
+    When Miranda Rhapsody showed up with a teacup giraffe, suddenly everybody
+    wanted one.
+flavor_ru: >-
+    When Miranda Rhapsody showed up with a teacup giraffe, suddenly everybody
+    wanted one.

@@ -1,0 +1,20 @@
+side: Corp
+faction: Weyland Consortium
+type: Agenda
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Posted Bounty
+title_ru: нет
+text: >-
+    When you score Posted Bounty, you may forfeit it to give the Runner
+    1 tag and take 1 bad publicity.
+text_ru: >-
+    When you score Posted Bounty, you may forfeit it to give the Runner
+    1 tag and take 1 bad publicity.
+flavor: >-
+    "Some two-cred newsy picks it up, even better. The scum could be in
+    the alleys of Guayaquil of the slums of BosWash. Not to mention off-planet."
+flavor_ru: >-
+    "Some two-cred newsy picks it up, even better. The scum could be in
+    the alleys of Guayaquil of the slums of BosWash. Not to mention off-planet."

@@ -1,0 +1,20 @@
+side: Runner
+faction: Anarch
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Force of Nature
+title_ru: нет
+text: >-
+    2[Credits]: Break up to 2 <strong>code gate</strong> subroutines.
+
+    1[Credits]: +1 strength.
+text_ru: >-
+    2[Credits]: Break up to 2 <strong>code gate</strong> subroutines.
+
+    1[Credits]: +1 strength.
+flavor: >-
+    It always strikes twice.
+flavor_ru: >-
+    It always strikes twice.

@@ -1,0 +1,22 @@
+side: Runner
+faction: Anarch
+type: Program
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Corroder
+title_ru: нет
+text: >-
+    1[Credits]: Break <strong>barrier</strong> subroutine.
+
+    1[Credits]: +1 strength.
+text_ru: >-
+    1[Credits]: Break <strong>barrier</strong> subroutine.
+
+    1[Credits]: +1 strength.
+flavor: >-
+    "If at first you don't succeed, boost its strength and try again." -
+    g00ru
+flavor_ru: >-
+    "If at first you don't succeed, boost its strength and try again." -
+    g00ru

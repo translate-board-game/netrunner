@@ -1,0 +1,18 @@
+side: Corp
+faction: Weyland Consortium
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Tyrant
+title_ru: нет
+text: >-
+    Tyrant can be advanced only while rezzed and gains "[Subroutine] End
+    the run." for each advancement token on it.
+text_ru: >-
+    Tyrant can be advanced only while rezzed and gains "[Subroutine] End
+    the run." for each advancement token on it.
+flavor: >-
+    Thou shall not pass.
+flavor_ru: >-
+    Thou shall not pass.

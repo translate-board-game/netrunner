@@ -1,0 +1,20 @@
+side: Runner
+faction: Criminal
+type: Event
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Feint
+title_ru: нет
+text: >-
+    Make a run on HQ. Bypass the first 2 pieces of ice encountered during
+    this run. If the run is successful, you cannot access any cards.
+text_ru: >-
+    Make a run on HQ. Bypass the first 2 pieces of ice encountered during
+    this run. If the run is successful, you cannot access any cards.
+flavor: >-
+    Sterling entered the server, passing a growling piece of ice. He was
+    unarmed...or so it seemed.
+flavor_ru: >-
+    Sterling entered the server, passing a growling piece of ice. He was
+    unarmed...or so it seemed.

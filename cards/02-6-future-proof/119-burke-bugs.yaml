@@ -1,0 +1,20 @@
+side: Corp
+faction: Weyland Consortium
+type: ICE
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Burke Bugs
+title_ru: нет
+text: >-
+    [Subroutine] <strong>Trace<sup>0</sup></strong>&ndash; If successful,
+    the Runner trashes 1 program.
+text_ru: >-
+    [Subroutine] <strong>Trace<sup>0</sup></strong>&ndash; If successful,
+    the Runner trashes 1 program.
+flavor: >-
+    "If I had to describe the bugs in one word, it would be '****ing annoying.'"
+    -Whizzard
+flavor_ru: >-
+    "If I had to describe the bugs in one word, it would be '****ing annoying.'"
+    -Whizzard

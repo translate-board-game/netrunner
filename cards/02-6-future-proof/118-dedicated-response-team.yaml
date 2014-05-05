@@ -1,0 +1,18 @@
+side: Corp
+faction: Weyland Consortium
+type: Asset
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Dedicated Response Team
+title_ru: нет
+text: >-
+    If the Runner is tagged, Dedicated Response Team gains "Whenever a successful
+    run ends, do 2 meat damage."
+text_ru: >-
+    If the Runner is tagged, Dedicated Response Team gains "Whenever a successful
+    run ends, do 2 meat damage."
+flavor: >-
+    They don't call them dedicated for nothing
+flavor_ru: >-
+    They don't call them dedicated for nothing

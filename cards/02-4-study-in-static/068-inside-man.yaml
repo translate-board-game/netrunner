@@ -1,0 +1,24 @@
+side: Runner
+faction: Neutral
+type: Resource
+uniqueness: false
+obvious: false
+progress: 0.0
+title: Inside Man
+title_ru: нет
+text: >-
+    2[Recurring Credits]
+
+    Use these credits to install hardware.
+text_ru: >-
+    2[Recurring Credits]
+
+    Use these credits to install hardware.
+flavor: >-
+    Few corporate employees have such wide-sweeping security clearance as
+    the janotorial staff. Most corps foolishly think they're too dim-witted
+    to take advantage of it.
+flavor_ru: >-
+    Few corporate employees have such wide-sweeping security clearance as
+    the janotorial staff. Most corps foolishly think they're too dim-witted
+    to take advantage of it.
