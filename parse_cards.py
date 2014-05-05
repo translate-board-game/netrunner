@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 import os
+import re
 import sys
 import json
 from collections import OrderedDict
@@ -63,13 +64,21 @@ def represent_ordered_dict(dumper, ordered_dict):
 yaml.add_representer(OrderedDict, represent_ordered_dict)
 
 
+def clean_breaks(text):
+    return re.sub(r'([\r\n]+)', '\n', text)
+
+
 def main():
+
+    is_rewrite = 'rewrite' in sys.argv
     cards = json.load(open(CARDS_FILE_PATH))
 
     print("From '{}' loaded {} cards".format(CARDS_FILE_PATH, len(cards)))
 
     if not os.path.isdir('cards'):
         os.mkdir('cards')
+
+    added_cards_count = 0
 
     for card in cards:
         cycle_number = card['cyclenumber']
@@ -88,29 +97,37 @@ def main():
                 os.mkdir(dir_path)
 
             # Add absent cards only
-            if not os.path.isfile(file_path):
+            if is_rewrite or not os.path.isfile(file_path):
 
                 card_file = open(file_path, 'w')
 
                 card_yaml = OrderedDict()
 
-                card_yaml['faction_code'] = card['faction_code']
-                card_yaml['type_code'] = card['type_code']
+                card_yaml['side'] = card['side']
+                card_yaml['faction'] = card['faction']
+                card_yaml['type'] = card['type']
                 card_yaml['uniqueness'] = card['uniqueness']
+
+                card_yaml['obvious'] = False
+                card_yaml['progress'] = 0.0
 
                 card_yaml['title'] = card['title']
                 card_yaml['title_ru'] = 'нет'
 
-                text = card['text'].replace('\r', '')
+                text = clean_breaks(card['text'])
                 card_yaml['text'] = folded(text)
                 card_yaml['text_ru'] = folded(text)
 
                 if 'flavor' in card:
-                    flavor = card['flavor']
+                    flavor = clean_breaks(card['flavor'])
                     card_yaml['flavor'] = folded(flavor)
                     card_yaml['flavor_ru'] = folded(flavor)
 
                 yaml.dump(card_yaml, card_file, default_flow_style=False, allow_unicode=True, indent=4, width=70)
+
+                added_cards_count += 1
+
+    print('Added {} cards'.format(added_cards_count))
 
 
 if __name__ == '__main__':
