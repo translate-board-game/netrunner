@@ -10,6 +10,31 @@ import yaml
 from jinja2 import Template
 
 
+SET_CODES = {
+    '01': 'Core',
+
+    '02': 'Genesis',
+    '02-1': 'WLA',
+    '02-2': 'TA',
+    '02-3': 'CE',
+    '02-4': 'SiS',
+    '02-5': 'HS',
+    '02-6': 'FP',
+
+    '03': 'CaC',
+
+    '04': 'Spin',
+    '04-1': 'OM',
+    '04-2': 'ST',
+    '04-3': 'MT',
+    '04-4': 'TC',
+    '04-5': 'FaL',
+    '04-6': 'DT',
+
+    '05': 'HaP',
+}
+
+
 HTML_CLASS_SUFFIXES = {
     'Link': 'link',
     'Click': 'click',
@@ -36,7 +61,7 @@ def convert_to_html(text):
     return text
 
 
-expansion_number_re = re.compile('\d{2}(?:-\d)?')  # e.g. 01 02-1 03 04-1
+set_number_re = re.compile('\d{2}(?:-\d)?')  # e.g. 01 02-1 03 04-1
 
 
 def main():
@@ -46,23 +71,23 @@ def main():
         for argument in arguments.split(','):
             args.append(argument)
 
-    no_obvious = 'no-obvious' in args
+    remove_obvious = 'no-obvious' in args
     add_neutral = 'add-neutral' in args
-    expansion_numbers = filter(expansion_number_re.match, args)
-    expansion_numbers = set(expansion_numbers)
-    expansion_numbers = sorted(expansion_numbers)
-    all_expansions = not expansion_numbers
+    set_numbers = filter(set_number_re.match, args)
+    set_numbers = set(set_numbers)
+    set_numbers = sorted(set_numbers)
+    all_sets = not set_numbers
 
     factions = defaultdict(list)
-    for expansion_dir in os.listdir('cards'):
-        if all_expansions or any(map(expansion_dir.startswith, expansion_numbers)):
-            for card_file in glob.glob(os.path.join('cards', expansion_dir, '*.yaml')):
+    for set_dir in os.listdir('cards'):
+        if all_sets or any(map(set_dir.startswith, set_numbers)):
+            for card_file in glob.glob(os.path.join('cards', set_dir, '*.yaml')):
                 card = yaml.load(open(card_file))
 
                 if card['type'] == 'Identity':
                     continue
-                    
-                if no_obvious and card['obvious']:
+
+                if remove_obvious and card['obvious']:
                     continue
 
                 card['text_ru'] = convert_to_html(card['text_ru'])
@@ -84,14 +109,23 @@ def main():
 
         title = faction
 
+        if title in ['Runner', 'Corp']:
+            title = 'Neutral ' + title
+
         if add_neutral and faction not in ['Runner', 'Corp']:
             title += ' + Neutral'
 
-        if no_obvious:
-            title += ' (no obvious)'
+        if not remove_obvious:
+            title += ' + obvious'
 
-        if expansion_numbers:
-            title += ' - ' + ','.join(expansion_numbers)
+        if set_numbers:
+            set_codes = list(map(SET_CODES.__getitem__, set_numbers))
+            if not add_neutral:
+                if 'CaC' in set_codes and faction not in ['Haas-Bioroid', 'Shaper', 'Runner', 'Corp']:
+                    set_codes.remove('CaC')
+                if 'HaP' in set_codes and faction not in ['Jinteki', 'Criminal', 'Runner', 'Corp']:
+                    set_codes.remove('HaP')
+            title += ' - ' + ', '.join(set_codes)
 
         template = Template(open('template.html').read())
         output = template.render(title=title, cards=cards)
