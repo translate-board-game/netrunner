@@ -123,7 +123,7 @@
 
     {% for card in cards %}
         {# Если название карты получается слишком длинным, то используем параграф; иначе таблицу #}
-        {% if card.title|length + card.title_ru|length > 15 %}
+        {% if card.title|length + card.title_ru|length > 25 %}
             <p class="card">
                 {{ card.title }} - {{ card.title_ru }}. {{ card.text_ru }}
             </p>
