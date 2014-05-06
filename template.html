@@ -87,25 +87,58 @@
             content: "\e612";
         }
 
+        /* Title styles */
+        h1 {
+            font-weight: normal;
+            font-size: 20px;
+            margin: 0 0 5px 30px;
+        }
+
         /* Card list styles */
-        .card-list {
-            list-style-type: none;
+        p.card {
+            text-indent: -3em;
+            padding-left: 3em;
+            margin: 0;
         }
-        .card-list li {
-            text-indent: -7em;
-            padding-left: 7em;
+
+        table, tr, td {
+            margin:0;
+            padding:0;
+            border: none;
+            border-spacing: 0;
         }
-        .card-list li.unique {
-            list-style-type: disc;
+        table td {
+            vertical-align: top;
+        }
+        table td.card-title {
+            white-space: nowrap;
         }
     </style>
 </head>
 
 <body>
-    <ul class="card-list">
+    <h1>
+        {{ title }}
+    </h1>
+
     {% for card in cards %}
-        <li{% if card.uniqueness %} class="unique"{% endif %}>{{ card.title }} - {{ card.title_ru }}. {{ card.text_ru }}</li>
+        {# Если название карты получается слишком длинным, то используем параграф; иначе таблицу #}
+        {% if card.title|length + card.title_ru|length > 15 %}
+            <p class="card">
+                {{ card.title }} - {{ card.title_ru }}. {{ card.text_ru }}
+            </p>
+        {% else %}
+            <table>
+                <tr>
+                    <td class="card-title">
+                        {{ card.title }} - {{ card.title_ru }}.&nbsp;
+                    </td>
+                    <td>
+                        {{ card.text_ru }}
+                    </td>
+                </tr>
+            </table>
+        {% endif %}
     {% endfor %}
-    </ul>
 </body>
 </html>

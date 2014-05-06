@@ -2,6 +2,7 @@
 
 import os
 import re
+import sys
 import glob
 from collections import defaultdict
 
@@ -29,24 +30,47 @@ yaml_to_html_re = re.compile('({})'.format(yaml_tags))
 yaml_to_html_replace = lambda x: yaml_to_html[x.group(1)]
 
 
-def insert_icon_spans(text):
-    return re.sub(yaml_to_html_re, yaml_to_html_replace, text)
+def convert_to_html(text):
+    text = text.replace('\n', '<br>')
+    text = re.sub(yaml_to_html_re, yaml_to_html_replace, text)
+    return text
+
+
+expansion_number_re = re.compile('\d{2}(?:-\d)?')  # e.g. 01 02-1 03 04-1
 
 
 def main():
 
+    args = []
+    for arguments in sys.argv[1:]:
+        for argument in arguments.split(','):
+            args.append(argument)
+
+    add_obvious = 'add-obvious' in args
+    add_neutral = 'add-neutral' in args
+    expansion_numbers = filter(expansion_number_re.match, args)
+    expansion_numbers = set(expansion_numbers)
+    expansion_numbers = sorted(expansion_numbers)
+    all_expansions = not expansion_numbers
+
     factions = defaultdict(list)
-    for card_file in glob.glob('cards/01-core-set/*.yaml'):
-        card = yaml.load(open(card_file))
-        if card['type'] == 'Identity':
-            continue
+    for expansion_dir in os.listdir('cards'):
+        if all_expansions or any(map(expansion_dir.startswith, expansion_numbers)):
+            for card_file in glob.glob(os.path.join('cards', expansion_dir, '*.yaml')):
+                card = yaml.load(open(card_file))
 
-        text_ru = card['text_ru']
-        text_ru = text_ru.replace('\n', '<br>')
-        text_ru = insert_icon_spans(text_ru)
-        card['text_ru'] = text_ru
+                if card['type'] == 'Identity':
+                    continue
 
-        factions[card['faction']].append(card)
+                card['text_ru'] = convert_to_html(card['text_ru'])
+
+                faction_name = card['faction'] if card['faction'] != 'Neutral' else card['side']
+                factions[faction_name].append(card)
+
+    if add_neutral:
+        for faction, cards in factions.items():
+            if faction not in ['Runner', 'Corp']:
+                cards.extend(factions[cards[0]['side']])
 
     if not os.path.isdir('html'):
         os.mkdir('html')
@@ -55,12 +79,21 @@ def main():
 
         cards.sort(key=lambda x: x['title'])
 
-        template = Template(open('template.html').read())
-        output = template.render(title=faction, cards=cards)
+        title = faction
+        if add_neutral and faction not in ['Runner', 'Corp']:
+            title += ' + Neutral'
 
-        output_file_name = 'html/{}.html'.format(faction)
-        output_file = open(output_file_name, 'w')
+        if expansion_numbers:
+            title += ' ' + ','.join(expansion_numbers)
+
+        template = Template(open('template.html').read())
+        output = template.render(title=title, cards=cards)
+
+        output_file_path = 'html/{}.html'.format(title)
+        output_file = open(output_file_path, 'w')
         output_file.write(output)
+
+        print("Write '{}'".format(output_file_path))
 
 
 if __name__ == '__main__':
