@@ -46,7 +46,7 @@ def main():
         for argument in arguments.split(','):
             args.append(argument)
 
-    add_obvious = 'add-obvious' in args
+    no_obvious = 'no-obvious' in args
     add_neutral = 'add-neutral' in args
     expansion_numbers = filter(expansion_number_re.match, args)
     expansion_numbers = set(expansion_numbers)
@@ -60,6 +60,9 @@ def main():
                 card = yaml.load(open(card_file))
 
                 if card['type'] == 'Identity':
+                    continue
+                    
+                if no_obvious and card['obvious']:
                     continue
 
                 card['text_ru'] = convert_to_html(card['text_ru'])
@@ -80,11 +83,15 @@ def main():
         cards.sort(key=lambda x: x['title'])
 
         title = faction
+
         if add_neutral and faction not in ['Runner', 'Corp']:
             title += ' + Neutral'
 
+        if no_obvious:
+            title += ' (no obvious)'
+
         if expansion_numbers:
-            title += ' ' + ','.join(expansion_numbers)
+            title += ' - ' + ','.join(expansion_numbers)
 
         template = Template(open('template.html').read())
         output = template.render(title=title, cards=cards)
