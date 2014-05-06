@@ -2,14 +2,14 @@ side: Runner
 faction: Anarch
 type: Program
 uniqueness: false
-obvious: false
-progress: 0.0
+obvious: true
+progress: 0.5
 title: Mimic
-title_ru: нет
+title_ru: Имитатор
 text: >-
     1[Credits]: Break <strong>sentry</strong> subroutine.
 text_ru: >-
-    1[Credits]: Break <strong>sentry</strong> subroutine.
+    1[Credits]: Сломай <strong>sentry</strong> подпрограмму.
 flavor: >-
     November 5th: the day when all would see the corrupt machinations of
     the corporate oligarchy.

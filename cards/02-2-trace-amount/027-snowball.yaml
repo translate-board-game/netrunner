@@ -14,11 +14,11 @@ text: >-
     Whenever you use Snowball to break a subroutine, it has +1 strength
     for the remainder of the run.
 text_ru: >-
-    1[Credits]: Break <strong>barrier</strong> subroutine.
+    1[Credits]: Сломай <strong>barrier</strong> подпрограмму.
 
-    1[Credits]: +1 strength.
+    1[Credits]: +1 сила.
 
-    Whenever you use Snowball to break a subroutine, it has +1 strength
+    Whenever you use Snowball to Сломай a подпрограмму. it has +1 сила
     for the remainder of the run.
 flavor: >-
     "If your snowball gets big enough, you can make it into a snowman!"

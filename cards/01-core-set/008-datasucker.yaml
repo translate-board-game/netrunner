@@ -3,9 +3,9 @@ faction: Anarch
 type: Program
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.8
 title: Datasucker
-title_ru: нет
+title_ru: Инфосос
 text: >-
     Whenever you make a successful run on a central server, place 1 virus
     counter on Datasucker.
@@ -13,8 +13,7 @@ text: >-
     <strong>Hosted virus counter</strong>: Rezzed piece of ice currently
     being encountered has -1 strength until the end of the encounter.
 text_ru: >-
-    Whenever you make a successful run on a central server, place 1 virus
-    counter on Datasucker.
+    Успешно взломав центральный сервер, положи на него 1 маркер вируса.
 
-    <strong>Hosted virus counter</strong>: Rezzed piece of ice currently
-    being encountered has -1 strength until the end of the encounter.
+    <strong>Размещённый маркер вируса</strong>:
+    Сила обрабатываемого скомпилированного льда уменьшается на 1 до конца обработки.

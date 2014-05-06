@@ -3,9 +3,9 @@ faction: Anarch
 type: Program
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.8
 title: Parasite
-title_ru: нет
+title_ru: Паразит
 text: >-
     Install Parasite only on a rezzed piece of ice.
 
@@ -14,9 +14,9 @@ text: >-
 
     When your turn begins, place 1 virus counter on Parasite.
 text_ru: >-
-    Install Parasite only on a rezzed piece of ice.
+    Паразита можно установить только на скомпилированный лёд.
 
-    Host ice has -1 strength for each virus counter on Parasite and is trashed
-    if its strength is 0 or less.
+    Каждый маркер вируса на Паразите уменьшает силу льда на 1.
+    Если сила льда уменьшится до 0, то он сбрасывается.
 
-    When your turn begins, place 1 virus counter on Parasite.
+    В начале своего хода положи на Паразита 1 маркер вируса.

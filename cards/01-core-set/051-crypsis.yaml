@@ -3,9 +3,9 @@ faction: Neutral
 type: Program
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.8
 title: Crypsis
-title_ru: нет
+title_ru: Крипсис
 text: >-
     1[Credits]: Break ice subroutine.
 
@@ -16,11 +16,11 @@ text: >-
     When an encounter with a piece of ice in which you used Crypsis to break
     a subroutine ends, remove 1 hosted virus counter or trash Crypsis.
 text_ru: >-
-    1[Credits]: Break ice subroutine.
+    1[Credits]: Сломай подпрограмму.
 
-    1[Credits]: +1 strength.
+    1[Credits]: +1 сила.
 
-    [Click]: Place 1 virus counter on Crypsis.
+    [Click]: Помести 1 маркер вируса на Крипсис.
 
-    When an encounter with a piece of ice in which you used Crypsis to break
-    a subroutine ends, remove 1 hosted virus counter or trash Crypsis.
+    После обработки льда при помощи Крипсис удалите 1 маркер вируса с Крипсис
+    или сбросьте Крипсис.

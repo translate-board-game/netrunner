@@ -3,13 +3,13 @@ faction: Anarch
 type: Resource
 uniqueness: true
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Ice Carver
-title_ru: нет
+title_ru: Ледорез
 text: >-
     All ice is encountered with its strength lowered by 1.
 text_ru: >-
-    All ice is encountered with its strength lowered by 1.
+    Сила всех обрабатываемых льдов уменьшается на 1.
 flavor: >-
     In the public consciousness, there's a hard line between corp and runner.
     In the real world, things are a little more porous. The corp need the

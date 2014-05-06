@@ -3,9 +3,9 @@ faction: Anarch
 type: Hardware
 uniqueness: true
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Grimoire
-title_ru: нет
+title_ru: Гримуар
 text: >-
     +2[Memory Unit]
 
@@ -16,10 +16,10 @@ text: >-
 text_ru: >-
     +2[Memory Unit]
 
-    Whenever you install a <strong>virus</strong> program, place 1 virus
-    counter on that program.
+    Когда ты устанавливаешь <strong>virus</strong> программу,
+    помести на неё 1 маркер вируса.
 
-    Limit 1 <strong>console</strong> per player.
+    Ограничение: 1 <strong>console</strong> на игрока.
 flavor: >-
     "My little book of magic spells." -The Whizzard
 flavor_ru: >-

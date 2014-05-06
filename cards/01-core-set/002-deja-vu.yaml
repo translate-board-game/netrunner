@@ -3,15 +3,13 @@ faction: Anarch
 type: Event
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Déjà Vu
-title_ru: нет
+title_ru: Дежавю
 text: >-
-    Add 1 card (or up to 2 <strong>virus</strong> cards) from your heap
-    to your grip.
+    Add 1 card (or up to 2 <strong>virus</strong> cards) from your heap to your grip.
 text_ru: >-
-    Add 1 card (or up to 2 <strong>virus</strong> cards) from your heap
-    to your grip.
+    Верни в руку из сброса 1 карту (до 2 карт, если это карты <strong>virus</strong>).
 flavor: >-
     Anything worth doing is worth doing twice.
 flavor_ru: >-

@@ -2,15 +2,15 @@ side: Runner
 faction: Shaper
 type: Event
 uniqueness: false
-obvious: false
-progress: 0.0
+obvious: true
+progress: 1.0
 title: Diesel
-title_ru: нет
+title_ru: Дизель
 text: >-
     Draw 3 cards.
 text_ru: >-
-    Draw 3 cards.
+    Возьми 3 карты
 flavor: >-
     Diesel gives you flames.
 flavor_ru: >-
-    Diesel gives you flames.
+    Дизель позволяет тебе гореть.

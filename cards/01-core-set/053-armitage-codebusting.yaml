@@ -3,19 +3,19 @@ faction: Neutral
 type: Resource
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Armitage Codebusting
-title_ru: нет
+title_ru: Армитаж Кодоломщик
 text: >-
     Place 12[Credits] from the bank on Armitage Codebusting when it is installed.
     When there are no credits left on Armitage Codebusting, trash it.
 
     [Click]: Take 2[Credits] from Armitage Codebusting.
 text_ru: >-
-    Place 12[Credits] from the bank on Armitage Codebusting when it is installed.
-    When there are no credits left on Armitage Codebusting, trash it.
+    После установки Армитаж Кодоломщик помести на карту 12 [Credits].
+    Когда кредитов на карте не останется, сбрось её.
 
-    [Click]: Take 2[Credits] from Armitage Codebusting.
+    [Click]: Возьми 2[Credits] с Армитаж Кодоломщик.
 flavor: >-
     Drudge work, but it pays the bills.
 flavor_ru: >-

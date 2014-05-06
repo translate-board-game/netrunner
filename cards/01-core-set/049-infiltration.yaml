@@ -3,13 +3,13 @@ faction: Neutral
 type: Event
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Infiltration
-title_ru: нет
+title_ru: Проникновение
 text: >-
     Gain 2[Credits] or expose 1 card.
 text_ru: >-
-    Gain 2[Credits] or expose 1 card.
+    Получи 2[Credits] или разоблачи 1 карту.
 flavor: >-
     "Bring back any memories, Monica?" - John "Animal" McEvoy
 flavor_ru: >-

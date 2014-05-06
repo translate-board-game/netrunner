@@ -3,17 +3,17 @@ faction: NBN
 type: ICE
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.4
 title: Tollbooth
-title_ru: нет
+title_ru: Застава
 text: >-
     When the Runner encounters Tollbooth, he or she must pay 3[Credits],
     if able. If the Runner cannot pay 3[Credits], end the run.
 
     [Subroutine] End the run.
 text_ru: >-
-    When the Runner encounters Tollbooth, he or she must pay 3[Credits],
-    if able. If the Runner cannot pay 3[Credits], end the run.
+    Когда раннер обрабытывает Заставу, он должен заплатить 3[Credits], если возможно.
+    Если раннер не может заплатить 3[Credits], останови взлом.
 
     [Subroutine] End the run.
 flavor: >-

@@ -2,10 +2,10 @@ side: Runner
 faction: Neutral
 type: Resource
 uniqueness: false
-obvious: false
-progress: 0.0
+obvious: true
+progress: 0.5
 title: Access to Globalsec
-title_ru: нет
+title_ru: Доступ к системе безопасности  # Глобальная безопасность?
 text: >-
     +1[Link]
 text_ru: >-

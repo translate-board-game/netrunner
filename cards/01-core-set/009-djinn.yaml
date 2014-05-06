@@ -3,9 +3,9 @@ faction: Anarch
 type: Program
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.8
 title: Djinn
-title_ru: нет
+title_ru: Джинн
 text: >-
     Djinn can host up to 3[Memory Unit] of non-<strong>icebreaker</strong>
     programs.
@@ -16,11 +16,10 @@ text: >-
     [Click], 1[Credits]: Search your stack for a <strong>virus</strong>
     program, reveal it, and add it to your grip. Shuffle your stack.
 text_ru: >-
-    Djinn can host up to 3[Memory Unit] of non-<strong>icebreaker</strong>
-    programs.
+    На Джинне можно разместить не <strong>icebreaker</strong> программы,
+    потребляющие в сумме не более 3[Memory Unit]
 
-    The memory costs of hosted programs do not count against your memory
-    limit.
+    Объём памяти программ на Джинне не учитывается в общем объеме памяти.
 
-    [Click], 1[Credits]: Search your stack for a <strong>virus</strong>
-    program, reveal it, and add it to your grip. Shuffle your stack.
+    [Click], 1[Credits]: Найди в колоде <strong>virus</strong> программу,
+    покажи её и добавь в руку. Перемешай колоду.

@@ -3,9 +3,9 @@ faction: Anarch
 type: Program
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.8
 title: Medium
-title_ru: нет
+title_ru: Медиум
 text: >-
     Whenever you make a successful run on R&D, place 1 virus counter on
     Medium.
@@ -13,12 +13,11 @@ text: >-
     Each virus counter after the first on Medium allows you to access 1
     additional card from R&D whenever you access cards from R&D.
 text_ru: >-
-    Whenever you make a successful run on R&D, place 1 virus counter on
-    Medium.
+    Успешно взломав сервер R&D, помести на Медиума 1 маркер вируса.
 
-    Each virus counter after the first on Medium allows you to access 1
-    additional card from R&D whenever you access cards from R&D.
+    Каждый маркер вируса на Медиуме сверх первого позволяет получить доступ
+    к 1 дополнительной карте сервера R&D.
 flavor: >-
     It looked like random packet loss. It wasn't.
 flavor_ru: >-
-    It looked like random packet loss. It wasn't.
+    Выглядело как случайная потеря пакетов. Но нет.

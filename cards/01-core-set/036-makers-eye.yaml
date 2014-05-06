@@ -3,13 +3,14 @@ faction: Shaper
 type: Event
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: The Maker's Eye
-title_ru: нет
+title_ru: Глаз Творца
 text: >-
     Make a run on R&D. If successful, access 2 additional cards from R&D.
 text_ru: >-
-    Make a run on R&D. If successful, access 2 additional cards from R&D.
+    Попытайся взломать сервер разработки. В случае успеха
+    получи доступ к 2 дополнительным картам сервера разработки.
 flavor: >-
     "Some of the professionals have good instincts, but they can't see beyond
     the data. They can't see the matrix." - Ele "Smoke" Scovak
