@@ -1,5 +1,8 @@
-netrunner
-=========
+Android: Netrunner
+====================
 
-Android:Netrunner cards translation
+Перевод карт настольной игры Android: Netrunner
+-------------------------------------------------
+
+
 
