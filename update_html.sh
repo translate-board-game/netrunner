@@ -2,7 +2,7 @@
 
 
 # Remove all html-files
-rm "html/*.html"
+rm html/*.html
 
 
 # Core Set starting decks with obvious cards
