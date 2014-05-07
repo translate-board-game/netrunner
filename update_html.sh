@@ -1,6 +1,10 @@
 #!/bin/bash
 
 
+# Remove all html-files
+rm "html/*.html"
+
+
 # Core Set starting decks with obvious cards
 python3 make_html.py 01 add-neutral
 
