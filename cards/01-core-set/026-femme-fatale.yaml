@@ -3,9 +3,9 @@ faction: Criminal
 type: Program
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.8
 title: Femme Fatale
-title_ru: нет
+title_ru: Роковая женщина
 text: >-
     1[Credits]: Break <strong>sentry</strong> subroutine.
 
@@ -19,6 +19,6 @@ text_ru: >-
 
     2[Credits]: +1 сила.
 
-    When you install Femme Fatale, choose an installed piece of ice. When
-    you encounter that ice, you may spend 1[Credits] per subroutine on that
-    ice to bypass it.
+    Когда ты устанавливаешь Femme Fatale, выбери установленный лёд.
+    Когда ты обрабатываешь этот лёд, можешь потратить 1[Credits] за каждую его попрограмму,
+    чтобы обойти его.

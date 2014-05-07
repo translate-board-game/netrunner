@@ -3,13 +3,13 @@ faction: Criminal
 type: Event
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.4
 title: Inside Job
-title_ru: нет
+title_ru: Работа изнутри
 text: >-
     Make a run. Bypass the first piece of ice encountered during this run.
 text_ru: >-
-    Make a run. Bypass the first piece of ice encountered during this run.
+    Начни взлом. Обойди первый лёд, обрабатываемый во время этого взлома.
 flavor: >-
     "Hey, listen, I'm not asking you to do anything dangerous. Just let
     me into the building. And tell me which room has the weakest security.

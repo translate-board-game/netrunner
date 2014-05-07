@@ -3,9 +3,9 @@ faction: Criminal
 type: Hardware
 uniqueness: true
 obvious: false
-progress: 0.0
+progress: 1.0
 title: Desperado
-title_ru: нет
+title_ru: Десперадо
 text: >-
     +1[Memory Unit]
 
@@ -15,6 +15,6 @@ text: >-
 text_ru: >-
     +1[Memory Unit]
 
-    Gain 1[Credits] whenever you make a successful run.
+    Получи 1[Credits] за успешный взлом.
 
     Ограничение: 1 <strong>console</strong> на игрока.

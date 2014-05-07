@@ -3,13 +3,13 @@ faction: Criminal
 type: Resource
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.9
 title: Decoy
-title_ru: нет
+title_ru: Приманка
 text: >-
     [Trash]: Avoid receiving 1 tag.
 text_ru: >-
-    [Trash]: Avoid receiving 1 tag.
+    [Trash]: Предотврати получение 1 метки.
 flavor: >-
     "I get the feeling that this is the wrong place, Frank."
 
@@ -17,8 +17,8 @@ flavor: >-
 
     "The curlers."
 flavor_ru: >-
-    "I get the feeling that this is the wrong place, Frank."
+    ­ Фрэнк, мне кажется мы ошиблись.
 
-    "What makes you say that D?"
+    - С чего ты взял?
 
-    "The curlers."
+    - Бигуди.

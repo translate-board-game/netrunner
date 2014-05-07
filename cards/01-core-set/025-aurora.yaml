@@ -2,10 +2,10 @@ side: Runner
 faction: Criminal
 type: Program
 uniqueness: false
-obvious: false
-progress: 0.0
+obvious: true
+progress: 1.0
 title: Aurora
-title_ru: нет
+title_ru: Аврора
 text: >-
     2[Credits]: Break <strong>barrier</strong> subroutine.
 
@@ -13,4 +13,4 @@ text: >-
 text_ru: >-
     2[Credits]: Сломай <strong>barrier</strong> подпрограмму.
 
-    2[Credits]: +3 strength.
+    2[Credits]: +3 сила.

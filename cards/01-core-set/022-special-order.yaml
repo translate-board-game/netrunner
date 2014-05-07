@@ -3,15 +3,16 @@ faction: Criminal
 type: Event
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Special Order
-title_ru: нет
+title_ru: Спецзаказ
 text: >-
     Search your stack for an <strong>icebreaker</strong>, reveal it, and
     add it to your grip. Shuffle your stack.
 text_ru: >-
-    Search your stack for an <strong>icebreaker</strong>, reveal it, and
-    add it to your grip. Shuffle your stack.
+    Найди в колоде <strong>icebreaker</strong> программу,
+    покажи её и положи себе в руку.
+    Перемешай колоду.
 flavor: >-
     Feverishly tracking its frustratingly slow progress across the Pacific,
     the package finally shows up hours later...

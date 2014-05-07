@@ -3,9 +3,9 @@ faction: Criminal
 type: Resource
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.8
 title: Bank Job
-title_ru: нет
+title_ru: Ограбление банка
 text: >-
     Place 8[Credits] from the bank on Bank Job when it is installed. When
     there are no credits left on Bank Job, trash it.
@@ -13,8 +13,8 @@ text: >-
     Whenever you make a successful run on a remote server, instead of accessing
     cards you may take any number of credits from Bank Job.
 text_ru: >-
-    Place 8[Credits] from the bank on Bank Job when it is installed. When
-    there are no credits left on Bank Job, trash it.
+    Положи 8[Credits] из банка на Ограбление банка после его установки.
+    Когда кредитов на карте не останется, сбрось её.
 
-    Whenever you make a successful run on a remote server, instead of accessing
-    cards you may take any number of credits from Bank Job.
+    После успешного взлома удалённого сервера,
+    вместо доступа к картам можешь взять любое количество кредитов с Ограбления банка.

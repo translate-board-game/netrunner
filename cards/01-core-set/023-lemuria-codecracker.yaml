@@ -3,15 +3,15 @@ faction: Criminal
 type: Hardware
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Lemuria Codecracker
-title_ru: нет
+title_ru: Взломщик кодов Лемурия
 text: >-
     [Click], 1[Credits]: Expose 1 card. Use this ability only if you have
     made a successful run on HQ this turn.
 text_ru: >-
-    [Click], 1[Credits]: Expose 1 card. Use this ability only if you have
-    made a successful run on HQ this turn.
+    [Click], 1[Credits]: Разоблачи 1 карту.
+    Можно использовать только, если ты успешно взломал сервер HQ в этом ходу.
 flavor: >-
     "A little preparation goes a long way." - Gabriel Santiago
 flavor_ru: >-

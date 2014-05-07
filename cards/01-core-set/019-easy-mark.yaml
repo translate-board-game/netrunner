@@ -2,14 +2,14 @@ side: Runner
 faction: Criminal
 type: Event
 uniqueness: false
-obvious: false
-progress: 0.0
+obvious: true
+progress: 0.3
 title: Easy Mark
-title_ru: нет
+title_ru: Лёгкая цель
 text: >-
     Gain 3[Credits].
 text_ru: >-
-    Gain 3[Credits].
+    Получи 3[Credits].
 flavor: >-
     "Hey kid, you fire that up now, bound to be vamped real bad. Some real
     pathetic individuals around here. Be thankfully I got just the ticket..."

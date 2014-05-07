@@ -3,14 +3,15 @@ faction: Criminal
 type: Event
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.9
 title: Account Siphon
-title_ru: нет
+title_ru: Денежная утечка
 text: >-
     Make a run on HQ. If successful, instead of accessing cards you may
     force the Corp to lose up to 5[Credits], then you gain 2[Credits] for
     each credit lost and take 2 tags.
 text_ru: >-
-    Make a run on HQ. If successful, instead of accessing cards you may
-    force the Corp to lose up to 5[Credits], then you gain 2[Credits] for
-    each credit lost and take 2 tags.
+    Попытайся взломать сервер HQ. Если успешно, вместо доступа к карте
+    ты можешь заставить Корпорацию потерять до 5[Credits].
+    За каждый потерянный кредит ты получаешь 2[Credits].
+    Получи 2 метки.

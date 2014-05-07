@@ -3,15 +3,15 @@ faction: Criminal
 type: Event
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Forged Activation Orders
-title_ru: нет
+title_ru: Поддельная активация
 text: >-
     Choose an unrezzed piece of ice. The Corp must either rez that ice or
     trash it.
 text_ru: >-
-    Choose an unrezzed piece of ice. The Corp must either rez that ice or
-    trash it.
+    Выбери нескомпилированный лёд.
+    Корпорация должна скомпилировать его или сбросить.
 flavor: >-
     As the hysteria in the room climbed higher up the corporate chain, an
     uneasy feeling of joblessness began to sink in on the lower rungs.

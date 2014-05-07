@@ -3,13 +3,13 @@ faction: Criminal
 type: Identity
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: 'Gabriel Santiago: Consummate Professional'
-title_ru: нет
+title_ru: 'Габриэль Сантьяго: Конченный профессионал'
 text: >-
     The first time you make a successful run on HQ each turn, gain 2[Credits].
 text_ru: >-
-    The first time you make a successful run on HQ each turn, gain 2[Credits].
+    После первого за ход успешного взлома сервера HQ получи 2 [Credits].
 flavor: >-
     "Of course I steal from the rich. They're the ones with all the money."
 flavor_ru: >-

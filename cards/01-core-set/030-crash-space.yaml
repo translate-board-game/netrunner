@@ -3,9 +3,9 @@ faction: Criminal
 type: Resource
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.4
 title: Crash Space
-title_ru: нет
+title_ru: Берлога
 text: >-
     2[Recurring Credits]
 
@@ -15,9 +15,9 @@ text: >-
 text_ru: >-
     2[Recurring Credits]
 
-    Use these credits to pay for removing tags.
+    Используй эти кредиты для оплаты удаления меток.
 
-    [Trash]: Prevent up to 3 meat damage.
+    [Trash]: Предотврати до 3 meat damage.
 flavor: >-
     "My roomie, he had a cousin with a college girlfriend whose brother's
     best friend was an addict, and the addict's mother used to live here.
