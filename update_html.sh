@@ -29,10 +29,10 @@ python3 make_html.py 01,03 no-obvious
 python3 make_html.py 01,02,03 no-obvious
 
 # Core Set + Genesis + Creation and Control + Spin
-python3 make_html.py 01,02,03,04 no-obvious
+# python3 make_html.py 01,02,03,04 no-obvious
 
 # Core Set + Genesis + Creation and Control + Spin + Honor and Profit
-python3 make_html.py 01,02,03,04,05 no-obvious
+# python3 make_html.py 01,02,03,04,05 no-obvious
 
 
 # Remove useless files
