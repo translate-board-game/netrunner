@@ -3,15 +3,14 @@ faction: Shaper
 type: Event
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.4
 title: Modded
-title_ru: нет
+title_ru: Модификация
 text: >-
     Install a program or piece of hardware, lowering the install cost by
     3.
 text_ru: >-
-    Install a program or piece of hardware, lowering the install cost by
-    3.
+    Установи программу или железо со скидкой 3.
 flavor: >-
     There's no replacement for a home-grown program. Fed on late nights,
     oaty bars and single-minded determination. Cheaper, too.
