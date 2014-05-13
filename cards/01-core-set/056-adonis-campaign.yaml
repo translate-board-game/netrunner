@@ -5,14 +5,15 @@ uniqueness: false
 obvious: false
 progress: 0.0
 title: Adonis Campaign
-title_ru: нет
+title_ru: Рекламная кампания Адонис
 text: >-
     Put 12[Credits] from the bank on Adonis Campaign when rezzed. When there
     are no credits left on this card, trash it.
 
     Take 3[Credits] from Adonis Campaign when your turn begins.
 text_ru: >-
-    Put 12[Credits] from the bank on Adonis Campaign when rezzed. When there
-    are no credits left on this card, trash it.
+    Когда Рекламная кампания Адонис скомпилированна,
+    помести на неё 12[Credits] из банка.
+    Когда кредитов на ней не останется, сбрось её.
 
-    Take 3[Credits] from Adonis Campaign when your turn begins.
+    Возьми 3[Credits] с Рекламной кампании Адонис в начале своего хода.

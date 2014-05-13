@@ -2,19 +2,19 @@ side: Corp
 faction: Haas-Bioroid
 type: ICE
 uniqueness: false
-obvious: false
-progress: 0.0
+obvious: true
+progress: 1.0
 title: Rototurret
-title_ru: нет
+title_ru: Турелль
 text: >-
     [Subroutine] Trash 1 program.
 
     [Subroutine] End the run.
 text_ru: >-
-    [Subroutine] Trash 1 program.
+    [Subroutine] Сбрось 1 программу.
 
-    [Subroutine] End the run.
+    [Subroutine] Останови взлом.
 flavor: >-
     Whrrrrr!
 flavor_ru: >-
-    Whrrrrr!
+    Вжжжжж!

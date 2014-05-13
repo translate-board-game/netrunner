@@ -3,9 +3,9 @@ faction: Haas-Bioroid
 type: ICE
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.7
 title: Ichi 1.0
-title_ru: нет
+title_ru: Ичи 1.0
 text: >-
     The Runner can spend [Click] to break any subroutine on Ichi 1.0.
 
@@ -16,14 +16,14 @@ text: >-
     [Subroutine] <strong>Trace<sup>1</sup></strong>&ndash; If successful,
     give the Runner 1 tag and do 1 brain damage.
 text_ru: >-
-    The Runner can spend [Click] to Сломай any подпрограмму.on Ichi 1.0.
+    Хакер может потратить [Click], чтобы сломать любую подпрограмму на  Ichi 1.0.
 
-    [Subroutine] Trash 1 program.
+    [Subroutine] Сбрось 1 программу.
 
-    [Subroutine] Trash 1 program.
+    [Subroutine] Сбрось 1 программу.
 
-    [Subroutine] <strong>Trace<sup>1</sup></strong>&ndash; If successful,
-    give the Runner 1 tag and do 1 brain damage.
+    [Subroutine] <strong>Сканирование<sup>1</sup></strong>&ndash;
+    Если успешно, хакер получает 1 метку и 1 brain damage.
 flavor: >-
     My reputation would precede me, if any could speak of it.
 flavor_ru: >-

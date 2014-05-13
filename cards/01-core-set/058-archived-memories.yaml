@@ -3,14 +3,14 @@ faction: Haas-Bioroid
 type: Operation
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.9
 title: Archived Memories
-title_ru: нет
+title_ru: Архивные воспоминания
 text: >-
     Add 1 card from Archives to HQ.
 text_ru: >-
-    Add 1 card from Archives to HQ.
+    Возьми 1 карту из архива себе в руку.
 flavor: >-
     "Do you think they... feel it?"
 flavor_ru: >-
-    "Do you think they... feel it?"
+    «Как ты думаешь? Они переживают?»

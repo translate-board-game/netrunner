@@ -3,16 +3,16 @@ faction: Haas-Bioroid
 type: Upgrade
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 1.0
 title: Corporate Troubleshooter
-title_ru: нет
+title_ru: Кризис-менеджер
 text: >-
     X[Credits], [Trash]: Choose a piece of rezzed ice protecting this server.
     That ice has +X strength until the end of the turn.
 text_ru: >-
-    X[Credits], [Trash]: Choose a piece of rezzed ice protecting this server.
-    That ice has +X strength until the end of the turn.
+    X[Credits], [Trash]: Выбери скомпилированный лёд, защищающий этот сервер.
+    Этот лёд получает +X силы до конца этого хода.
 flavor: >-
     "I solve problems."
 flavor_ru: >-
-    "I solve problems."
+     «Я решаю проблемы.»

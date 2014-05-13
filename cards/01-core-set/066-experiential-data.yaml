@@ -3,13 +3,13 @@ faction: Haas-Bioroid
 type: Upgrade
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.3
 title: Experiential Data
-title_ru: нет
+title_ru: Эмпирические данные
 text: >-
     All ice protecting this server has +1 strength.
 text_ru: >-
-    All ice protecting this server has +1 сила.
+    Все льды, защищающие этот сервер, получают +1 силу.
 flavor: >-
     Floyd felt the anger in the man before him, ranting against simulants.
     His programming pushed a routine rebuttal to the front of his thoughts,

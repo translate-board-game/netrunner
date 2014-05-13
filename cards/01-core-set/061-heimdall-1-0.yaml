@@ -3,9 +3,9 @@ faction: Haas-Bioroid
 type: ICE
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.4
 title: Heimdall 1.0
-title_ru: нет
+title_ru: Хеймдалль 1.0
 text: >-
     The Runner can spend [Click] to break any subroutine on Heimdall 1.0.
 
@@ -15,13 +15,13 @@ text: >-
 
     [Subroutine] End the run.
 text_ru: >-
-    The Runner can spend [Click] to Сломай any подпрограмму.on Heimdall 1.0.
+    Хакер может потратить [Click], чтобы сломать любую подпрограмму на Хеймдалль 1.0.
 
-    [Subroutine] Do 1 brain damage.
+    [Subroutine] Причини 1 brain damage.
 
-    [Subroutine] End the run.
+    [Subroutine] Останови взлом.
 
-    [Subroutine] End the run.
+    [Subroutine] Останови взлом.
 flavor: >-
     I hear the shift of every bit amid the flow of the datastream. I hear
     the whispers of my mothers, and their commands are law. The realm beyond

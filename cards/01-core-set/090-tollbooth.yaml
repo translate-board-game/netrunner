@@ -15,7 +15,7 @@ text_ru: >-
     Когда раннер обрабытывает Заставу, он должен заплатить 3[Credits], если возможно.
     Если раннер не может заплатить 3[Credits], останови взлом.
 
-    [Subroutine] End the run.
+    [Subroutine] Останови взлом.
 flavor: >-
     "Ever heard of a catch-22?"
 

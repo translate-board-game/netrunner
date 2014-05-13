@@ -5,7 +5,7 @@ uniqueness: false
 obvious: false
 progress: 0.0
 title: Viktor 1.0
-title_ru: нет
+title_ru: Виктор 1.0
 text: >-
     The Runner can spend [Click] to break any subroutine on Viktor 1.0.
 
@@ -13,11 +13,11 @@ text: >-
 
     [Subroutine] End the run.
 text_ru: >-
-    The Runner can spend [Click] to Сломай any подпрограмму.on Viktor 1.0.
+    Хакер может потратить [Click], чтобы сломать любую подпрограмму на Виктор 1.0
 
-    [Subroutine] Do 1 brain damage.
+    [Subroutine] Причини 1 brain damage.
 
-    [Subroutine] End the run.
+    [Subroutine] Останови взлом.
 flavor: >-
     My name is Viktor. Nice to meet you. Would you like to play a game?
 flavor_ru: >-

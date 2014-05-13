@@ -2,14 +2,14 @@ side: Corp
 faction: Haas-Bioroid
 type: Operation
 uniqueness: false
-obvious: false
-progress: 0.0
+obvious: true
+progress: 0.4
 title: Biotic Labor
-title_ru: нет
+title_ru: Биотические рабочие
 text: >-
     Gain [Click] [Click].
 text_ru: >-
-    Gain [Click] [Click].
+    Получи [Click] [Click].
 flavor: >-
     "Why of course, we have six different Haas-Bioroid models serving in
     a variety of positions at this branch office alone. We here at Haas-Bioroid
