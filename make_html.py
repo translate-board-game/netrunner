@@ -90,6 +90,13 @@ def main():
                 if remove_obvious and card['obvious']:
                     continue
 
+                if card['title_ru'] == 'нет':
+                    card['title_ru'] = False
+
+                card['title_en_ru'] = card['title']
+                if card['title_ru']:
+                    card['title_en_ru'] += ' – ' + card['title_ru']
+
                 card['text_ru'] = convert_to_html(card['text_ru'])
 
                 faction_name = card['faction'] if card['faction'] != 'Neutral' else card['side']

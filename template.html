@@ -122,16 +122,16 @@
     </h1>
 
     {% for card in cards %}
-        {# Если название карты получается слишком длинным, то используем параграф; иначе таблицу #}
-        {% if card.title|length + card.title_ru|length > 25 %}
+        {# Если заголовок из названия карты по-английски и по-русски получаетсяся слишком длинным, то используем параграф для оформления; иначе - таблицу #}
+        {% if card.title_en_ru|length > 25 %}
             <p class="card">
-                {{ card.title }} - {{ card.title_ru }}. {{ card.text_ru }}
+                {{ card.title_en_ru }}. {{ card.text_ru }}
             </p>
         {% else %}
             <table>
                 <tr>
                     <td class="card-title">
-                        {{ card.title }} - {{ card.title_ru }}.&nbsp;
+                        {{ card.title_en_ru }}.&nbsp;
                     </td>
                     <td>
                         {{ card.text_ru }}
