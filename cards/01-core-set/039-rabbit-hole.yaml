@@ -3,9 +3,9 @@ faction: Shaper
 type: Hardware
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 1.0
 title: Rabbit Hole
-title_ru: нет
+title_ru: Кроличья нора
 text: >-
     +1[Link]
 
@@ -15,10 +15,12 @@ text: >-
 text_ru: >-
     +1[Link]
 
-    When Rabbit Hole is installed, you may search your stack for another
-    copy of Rabbit Hole and install it by paying its install cost. Shuffle
-    your stack.
+    Когда Кроличья нора установлена,
+    можешь найти в стэке другую копию этой карты и установить её,
+    заплатив стоимость её установки.
+
+    Перемешай стэк.
 flavor: >-
     It's not endless, it just feels that way.
 flavor_ru: >-
-    It's not endless, it just feels that way.
+    Она не бесконечна, просто так кажется.

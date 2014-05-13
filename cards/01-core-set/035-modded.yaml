@@ -5,10 +5,9 @@ uniqueness: false
 obvious: false
 progress: 0.4
 title: Modded
-title_ru: Модификация
+title_ru: Модифицированный
 text: >-
-    Install a program or piece of hardware, lowering the install cost by
-    3.
+    Install a program or piece of hardware, lowering the install cost by 3.
 text_ru: >-
     Установи программу или железо со скидкой 3.
 flavor: >-

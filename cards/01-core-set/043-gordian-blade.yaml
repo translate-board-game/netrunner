@@ -3,17 +3,17 @@ faction: Shaper
 type: Program
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Gordian Blade
-title_ru: нет
+title_ru: Гордиев клинок
 text: >-
     1[Credits]: Break <strong>code gate</strong> subroutine.
 
     1[Credits]: +1 strength for the remainder of this run.
 text_ru: >-
-    1[Credits]: Break <strong>code gate</strong> subroutine.
+    1[Credits]: Сломай <strong>code gate</strong> подпрограмму.
 
-    1[Credits]: +1 сила for the remainder of this run.
+    1[Credits]: +1 сила до конца этого взлома.
 flavor: >-
     It can slice through the thickest knots of data.
 flavor_ru: >-

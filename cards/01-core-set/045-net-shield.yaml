@@ -3,13 +3,13 @@ faction: Shaper
 type: Program
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Net Shield
-title_ru: нет
+title_ru: Сетевой щит
 text: >-
     1[Credits]: Prevent the first net damage this turn.
 text_ru: >-
-    1[Credits]: Prevent the first net damage this turn.
+    1[Credits]: Предотврати первый сетевой ущерб в этом ходу.
 flavor: >-
     Sucks energy like a martian terra-bot, but it keeps you focused
 flavor_ru: >-

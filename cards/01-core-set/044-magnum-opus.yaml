@@ -2,14 +2,14 @@ side: Runner
 faction: Shaper
 type: Program
 uniqueness: false
-obvious: false
-progress: 0.0
+obvious: true
+progress: 0.2
 title: Magnum Opus
-title_ru: нет
+title_ru: false
 text: >-
     [Click]: Gain 2[Credits].
 text_ru: >-
-    [Click]: Gain 2[Credits].
+    [Click]: Получи 2[Credits].
 flavor: >-
     The Great Work was completed on a rainy Thursday afternoon. There were
     no seismic shifts, no solar flares, no sign from the earth or heavens

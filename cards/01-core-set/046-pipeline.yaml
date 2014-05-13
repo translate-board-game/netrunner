@@ -3,9 +3,9 @@ faction: Shaper
 type: Program
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.9
 title: Pipeline
-title_ru: нет
+title_ru: Инфопровод
 text: >-
     1[Credits]: Break <strong>sentry</strong> subroutine.
 
@@ -13,4 +13,4 @@ text: >-
 text_ru: >-
     1[Credits]: Сломай <strong>sentry</strong> подпрограмму.
 
-    2[Credits]: +1 сила for the remainder of this run.
+    2[Credits]: +1 сила до конца этого взлома.

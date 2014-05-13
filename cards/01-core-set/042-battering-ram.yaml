@@ -3,17 +3,17 @@ faction: Shaper
 type: Program
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Battering Ram
-title_ru: нет
+title_ru: Таран
 text: >-
     2[Credits]: Break up to 2 <strong>barrier</strong> subroutines.
 
     1[Credits]: +1 strength for the remainder of this run.
 text_ru: >-
-    2[Credits]: Break up to 2 <strong>barrier</strong> subroutines.
+    2[Credits]: Сломай до 2 <strong>barrier</strong> подпрограмм.
 
-    1[Credits]: +1 сила for the remainder of this run.
+    1[Credits]: +1 сила до конца этого взлома.
 flavor: >-
     "It's called 'brute-forcing' and it's just as effective today as it
     was a hundred years ago." - Kate "Mac" McCaffrey

@@ -3,15 +3,14 @@ faction: Shaper
 type: Resource
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Sacrificial Construct
-title_ru: нет
+title_ru: Расходники
 text: >-
     [Trash]: Prevent an installed program or an installed piece of hardware
     from being trashed.
 text_ru: >-
-    [Trash]: Prevent an installed program or an installed piece of hardware
-    from being trashed.
+    [Trash]: Предотврати сброс установленной программы или железа.
 flavor: >-
     The life expectancy of a jacked construct is about that of a mayfly.
     In other words, short.

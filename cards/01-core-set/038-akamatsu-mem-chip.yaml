@@ -2,10 +2,10 @@ side: Runner
 faction: Shaper
 type: Hardware
 uniqueness: false
-obvious: false
-progress: 0.0
+obvious: true
+progress: 0.1
 title: Akamatsu Mem Chip
-title_ru: нет
+title_ru: Чип памяти Акамацу
 text: >-
     +1[Memory Unit]
 text_ru: >-

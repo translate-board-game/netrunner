@@ -3,17 +3,17 @@ faction: Shaper
 type: Hardware
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: The Personal Touch
-title_ru: нет
+title_ru: Индивидуальный подход
 text: >-
     Install The Personal Touch only on an <strong>icebreaker.</strong>
 
     Host <strong>icebreaker</strong> has +1 strength.
 text_ru: >-
-    Install The Personal Touch only on an <strong>icebreaker.</strong>
+    Индивидуальный подход устанавливается только на <strong>icebreaker.</strong>
 
-    Host <strong>icebreaker</strong> has +1 сила.
+    Этот <strong>icebreaker</strong> получает +1 силы.
 flavor: >-
     A z-loop here, a cortical wave there...
 flavor_ru: >-

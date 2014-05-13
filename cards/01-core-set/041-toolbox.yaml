@@ -3,9 +3,9 @@ faction: Shaper
 type: Hardware
 uniqueness: true
 obvious: false
-progress: 0.0
+progress: 0.8
 title: The Toolbox
-title_ru: нет
+title_ru: Ящик с инструментами
 text: >-
     +2[Memory Unit] +2[Link]
 
@@ -15,10 +15,8 @@ text: >-
 
     Limit 1 <strong>console</strong> per player.
 text_ru: >-
-    +2[Memory Unit] +2[Link]
+    +2[Memory Unit] +2[Link] 2[Recurring Credits]
 
-    2[Recurring Credits]
-
-    Use the credits to pay for using <strong>icebreakers.</strong>
+    Используй эти кредиты для оплаты использования <strong>ледоколов.</strong>
 
     Ограничение: 1 <strong>console</strong> на игрока.

@@ -3,15 +3,14 @@ faction: Shaper
 type: Identity
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.9
 title: 'Kate "Mac" McCaffrey: Digital Tinker'
-title_ru: нет
+title_ru: 'Кейт "Мак" МакКэффри: Цифровой ремесленник'
 text: >-
     Lower the install cost of the first program or piece of hardware you
     install each turn by 1.
 text_ru: >-
-    Lower the install cost of the first program or piece of hardware you
-    install each turn by 1.
+    Раз в ход стоимость установки первой программы или железа снижается на 1.
 flavor: >-
     "Are you listening?"
 flavor_ru: >-
