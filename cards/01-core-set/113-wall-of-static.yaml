@@ -5,7 +5,7 @@ uniqueness: false
 obvious: true
 progress: 0.4
 title: Wall of Static
-title_ru: Стена из статики
+title_ru: Стена статики
 text: >-
     [Subroutine] End the run.
 text_ru: >-
