@@ -10,7 +10,7 @@ text: >-
     [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
     give the Runner 1 tag.
 text_ru: >-
-    [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
+    [Subroutine] <strong>Сканирование<sup>3</sup></strong>&ndash; If successful,
     give the Runner 1 tag.
 flavor: >-
     .//run/hunter-tr/return=true

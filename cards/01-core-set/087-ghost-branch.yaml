@@ -3,16 +3,16 @@ faction: NBN
 type: Asset
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.8
 title: Ghost Branch
-title_ru: нет
+title_ru: Призрачный отдел
 text: >-
     Ghost Branch can be advanced.
 
     When the Runner accesses Ghost Branch, you may give the Runner 1 tag
     for each advancement token on Ghost Branch.
 text_ru: >-
-    Ghost Branch can be advanced.
+    Призрачный отдел можно укрупнять.
 
-    When the Runner accesses Ghost Branch, you may give the Runner 1 tag
-    for each advancement token on Ghost Branch.
+    Когда хакер получает доступ к Призрачному отделу,
+    можешь дать ему по 1 метке за каждый маркер укрупнения на Призрачном отделе.

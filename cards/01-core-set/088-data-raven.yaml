@@ -3,9 +3,9 @@ faction: NBN
 type: ICE
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.8
 title: Data Raven
-title_ru: нет
+title_ru: Ворон данных
 text: >-
     When the Runner encounters Data Raven, he or she must either take 1
     tag or end the run.
@@ -15,10 +15,10 @@ text: >-
     [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
     place 1 power counter on Data Raven.
 text_ru: >-
-    When the Runner encounters Data Raven, he or she must either take 1
-    tag or end the run.
+    Когда хакер обрабатывает Ворона данных,
+    он должен получить 1 метку или прекратить взлом.
 
-    <strong>Hosted power counter:</strong> Give the Runner 1 tag.
+    <strong>Расположенный маркер:</strong> Хакер получает 1 метку.
 
-    [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
-    place 1 power counter on Data Raven.
+    [Subroutine] <strong>Сканирование<sup>3</sup></strong>&ndash;
+    Если успешно, помести 1 маркер на Ворона данных,

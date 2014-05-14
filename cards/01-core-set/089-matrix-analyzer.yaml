@@ -3,9 +3,9 @@ faction: NBN
 type: ICE
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Matrix Analyzer
-title_ru: нет
+title_ru: Анализатор матрицы
 text: >-
     When the Runner encounters Matrix Analyzer, you may pay 1[Credits] to
     place 1 advancement token on a card that can be advanced.
@@ -13,11 +13,12 @@ text: >-
     [Subroutine] <strong>Trace<sup>2</sup></strong>&ndash; If successful,
     give the Runner 1 tag.
 text_ru: >-
-    When the Runner encounters Matrix Analyzer, you may pay 1[Credits] to
-    place 1 advancement token on a card that can be advanced.
+    Когда хакер обрабатывает Анализатор матрицы,
+    ты можешь заплатить 1[Credits], чтобы поместить 1 маркер укрупнения на карту,
+    которая может быть укрупнена.
 
-    [Subroutine] <strong>Trace<sup>2</sup></strong>&ndash; If successful,
-    give the Runner 1 tag.
+    [Subroutine] <strong>Сканирование<sup>2</sup></strong>&ndash;
+    Если успешно, хакер получает 1 метку.
 flavor: >-
     Analyzing was great. Delegating commands turned out to be even better.
 flavor_ru: >-

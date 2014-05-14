@@ -3,19 +3,20 @@ faction: NBN
 type: Upgrade
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: SanSan City Grid
-title_ru: нет
+title_ru: Район СанСан
 text: >-
     The advancement requirement of agendas installed in this server is lowered
     by 1.
 
     Limit 1 <strong>region</strong> per server.
 text_ru: >-
-    The advancement requirement of agendas installed in this server is lowered
-    by 1.
+    Количество маркеров дынных,
+    требуемое, чтобы засчитать агенду на этом сервере,
+    снижается на 1.
 
-    Limit 1 <strong>region</strong> per server.
+    Ограничение: 1 <strong>region</strong> на сервер.
 flavor: >-
     "I hear the coast is nice this time of year."
 

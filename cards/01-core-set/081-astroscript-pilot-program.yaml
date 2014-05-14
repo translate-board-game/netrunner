@@ -3,16 +3,17 @@ faction: NBN
 type: Agenda
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.9
 title: AstroScript Pilot Program
-title_ru: нет
+title_ru: Пилотный выпуск АстроСкрипт
 text: >-
     Place 1 agenda counter on AstroScript Pilot Program when you score it.
 
     <strong>Hosted agenda counter:</strong> Place 1 advancement token on
     a card that can be advanced.
 text_ru: >-
-    Place 1 agenda counter on AstroScript Pilot Program when you score it.
+    Когда ты засчитаваешь Пилотный выпуск АстроСкрипт,
+    положи на него 1 марке данных.
 
-    <strong>Hosted agenda counter:</strong> Place 1 advancement token on
-    a card that can be advanced.
+    <strong>Расположенный маркер данных:</strong>
+    Положи 1 маркер укрупнения на карту, которую можно укрупнять.

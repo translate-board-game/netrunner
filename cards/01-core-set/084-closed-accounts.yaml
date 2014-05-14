@@ -3,14 +3,14 @@ faction: NBN
 type: Operation
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.9
 title: Closed Accounts
-title_ru: нет
+title_ru: Закрытые счета
 text: >-
     Play only if the Runner is tagged.
 
     The Runner loses all credits in his or her credit pool.
 text_ru: >-
-    Play only if the Runner is tagged.
+    Можно играть, только если хакер помечен.
 
-    The Runner loses all credits in his or her credit pool.
+    Хакер теряет все свои кредиты.

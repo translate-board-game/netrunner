@@ -3,9 +3,9 @@ faction: NBN
 type: Identity
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.9
 title: 'NBN: Making News'
-title_ru: нет
+title_ru: 'NBN: Создавая новости'
 text: >-
     2[Recurring Credits]
 
@@ -13,8 +13,8 @@ text: >-
 text_ru: >-
     2[Recurring Credits]
 
-    Use these credits during trace attempts.
+    Используй эти кредиты во время попыток сканирования.
 flavor: >-
     Someone is Always Watching.
 flavor_ru: >-
-    Someone is Always Watching.
+    Всегда кто-то смотрит.

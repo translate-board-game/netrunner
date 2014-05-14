@@ -2,14 +2,14 @@ side: Corp
 faction: NBN
 type: Operation
 uniqueness: false
-obvious: false
-progress: 0.0
+obvious: true
+progress: 0.5
 title: Anonymous Tip
-title_ru: нет
+title_ru: Анонимный донос
 text: >-
     Draw 3 cards.
 text_ru: >-
-    Draw 3 cards.
+    Возьми 3 карты.
 flavor: >-
     "Please stay connected. Priority transfer in progress. An operator will
     shortly verif-"
