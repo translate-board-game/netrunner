@@ -13,10 +13,10 @@ text: >-
     [Subroutine] <strong>Trace<sup>2</sup></strong>&ndash; If successful,
     end the run.
 text_ru: >-
-    [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
+    [Subroutine] <strong>Сканирование<sup>3</sup></strong>&ndash; If successful,
     the Corp gains 3[Credits].
 
-    [Subroutine] <strong>Trace<sup>2</sup></strong>&ndash; If successful,
+    [Subroutine] <strong>Сканирование<sup>2</sup></strong>&ndash; If successful,
     end the run.
 flavor: >-
     A symbol of commerce, but beware its bite.

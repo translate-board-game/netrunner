@@ -17,6 +17,6 @@ text_ru: >-
     Play only if the Runner made a successful run during his or her last
     turn.
 
-    <strong>Trace<sup>2</sup></strong>&ndash; If successful, trash 1 piece
+    <strong>Сканирование<sup>2</sup></strong>&ndash; If successful, trash 1 piece
     of hardware with an install cost equal to or less than the amount by
     which your trace strength exceeded the Runner's link strength.

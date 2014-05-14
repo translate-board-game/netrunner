@@ -13,10 +13,10 @@ text: >-
     [Subroutine] <strong>Trace<sup>4</sup></strong>&ndash; If successful,
     end the run.
 text_ru: >-
-    [Subroutine] <strong>Trace<sup>4</sup></strong>&ndash; If successful,
+    [Subroutine] <strong>Сканирование<sup>4</sup></strong>&ndash; If successful,
     the Runner cannot make another run this turn.
 
-    [Subroutine] <strong>Trace<sup>4</sup></strong>&ndash; If successful,
+    [Subroutine] <strong>Сканирование<sup>4</sup></strong>&ndash; If successful,
     end the run.
 flavor: >-
     Where one thing ends, another begins.
