@@ -3,17 +3,18 @@ faction: Weyland Consortium
 type: Operation
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Aggressive Negotiation
-title_ru: нет
+title_ru: Агрессивные переговоры
 text: >-
     Play only if you scored an agenda this turn.
 
     Search R&D for 1 card and add it to HQ. Shuffle R&D.
 text_ru: >-
-    Play only if you scored an agenda this turn.
+    Можно играть, только если ты засчитал данные в этом ходу.
 
-    Search R&D for 1 card and add it to HQ. Shuffle R&D.
+    Найди в колоде R&D 1 карту и добавь её себе в руку.
+    Перемешай колоду R&D.
 flavor: >-
     "I believe you'll find the terms are quite favorable."
 flavor_ru: >-

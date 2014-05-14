@@ -3,13 +3,13 @@ faction: Weyland Consortium
 type: Asset
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Security Subcontract
-title_ru: нет
+title_ru: Субподряд по безопасности
 text: >-
     [Click], <strong>trash a rezzed piece of ice</strong>: Gain 4[Credits].
 text_ru: >-
-    [Click], <strong>trash a rezzed piece of ice</strong>: Gain 4[Credits].
+    [Click], <strong>сбрось скомпилированный лёд</strong>: Получи 4[Credits].
 flavor: >-
     "Feed the Feds our scraps, and they'll come back begging for more."
     - Richard Polasco, VP of Cyber-Security

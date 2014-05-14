@@ -3,9 +3,9 @@ faction: Weyland Consortium
 type: ICE
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Archer
-title_ru: нет
+title_ru: Лучник
 text: >-
     As an additional cost to rez Archer, the Corp must forfeit an agenda.
 
@@ -17,9 +17,10 @@ text: >-
 
     [Subroutine] End the run.
 text_ru: >-
-    As an additional cost to rez Archer, the Corp must forfeit an agenda.
+    В добавок к цене компиляции Лучника,
+    вы должны пожертвовать агенду.
 
-    [Subroutine] The Corp gains 2[Credits].
+    [Subroutine] Корпорация получает 2[Credits].
 
     [Subroutine] Сбрось 1 программу.
 

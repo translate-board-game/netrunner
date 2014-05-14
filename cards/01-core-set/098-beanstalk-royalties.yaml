@@ -2,14 +2,14 @@ side: Corp
 faction: Weyland Consortium
 type: Operation
 uniqueness: false
-obvious: false
-progress: 0.0
+obvious: true
+progress: 0.5
 title: Beanstalk Royalties
-title_ru: нет
+title_ru: Роялти «Бобового стебля»
 text: >-
     Gain 3[Credits].
 text_ru: >-
-    Gain 3[Credits].
+    Получи 3[Credits].
 flavor: >-
     The New Angeles Space Elevator, better known as the Beanstalk, is the
     single greatest triumph of human engineering and ingenuity in history.

@@ -3,15 +3,15 @@ faction: Weyland Consortium
 type: Operation
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Shipment from Kaguya
-title_ru: нет
+title_ru: Груз из Кагуа
 text: >-
     Place 1 advancement token on each of up to 2 different installed cards
     that can be advanced.
 text_ru: >-
-    Place 1 advancement token on each of up to 2 different installed cards
-    that can be advanced.
+    Положи по 1 маркеру укрупнения на 1 или 2 разные установленные карты,
+    которые можно укрупнять.
 flavor: >-
     "And then there's these two crates. No eID."
 

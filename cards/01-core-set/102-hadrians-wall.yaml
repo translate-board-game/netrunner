@@ -3,9 +3,9 @@ faction: Weyland Consortium
 type: ICE
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Hadrian's Wall
-title_ru: нет
+title_ru: Вал Адриана
 text: >-
     Hadrian's Wall can be advanced and has +1 strength for each advancement
     token on it.
@@ -14,8 +14,8 @@ text: >-
 
     [Subroutine] End the run.
 text_ru: >-
-    Hadrian's Wall can be advanced and has +1 сила for each advancement
-    token on it.
+    Вал Адриана можно укрупнять.
+    Он получает +1 силы за каждый маркер укрупнения на нём.
 
     [Subroutine] Останови взлом.
 

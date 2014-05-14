@@ -3,17 +3,17 @@ faction: Weyland Consortium
 type: Operation
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Scorched Earth
-title_ru: нет
+title_ru: Выжженная земля
 text: >-
     Play only if the runner is tagged.
 
     Do 4 meat damage.
 text_ru: >-
-    Play only if the runner is tagged.
+    Можно играть, только если хакер помечен.
 
-    Do 4 meat damage.
+    Причини 4 meat damage.
 flavor: >-
     "I'd like to remind the ladies and gentlemen of the press that several
     of the buildings damaged in the blast were owned by Weyland Consortium

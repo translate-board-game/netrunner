@@ -3,14 +3,15 @@ faction: Weyland Consortium
 type: Identity
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 1.0
 title: 'Weyland Consortium: Building a Better World'
-title_ru: нет
+title_ru: 'Weyland Consortium: Строим лучший мир'
 text: >-
     Gain 1[Credits] whenever you play a <strong>transaction</strong> operation.
 text_ru: >-
-    Gain 1[Credits] whenever you play a <strong>transaction</strong> operation.
+    Каждый раз, когда ты играешь <strong>transaction</strong> операцию,
+    получи 1[Credits].
 flavor: >-
     Moving Upwards.
 flavor_ru: >-
-    Moving Upwards.
+    Движение вперёд.

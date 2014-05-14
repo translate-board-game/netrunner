@@ -3,17 +3,17 @@ faction: Weyland Consortium
 type: Upgrade
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Research Station
-title_ru: нет
+title_ru: Исследовательская станция
 text: >-
     Install only in the root of HQ.
 
     Your maximum hand size is +2.
 text_ru: >-
-    Install only in the root of HQ.
+    Устанавливается только на сервер HQ.
 
-    Your maximum hand size is +2.
+    Твой максимальный размер руки увеличивается на 2.
 flavor: >-
     "Jack Weyland built the Beanstalk and transformed the human race forever.
     I can't wait to see what we're going to do next."

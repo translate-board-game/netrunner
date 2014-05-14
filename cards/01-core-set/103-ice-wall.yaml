@@ -3,17 +3,17 @@ faction: Weyland Consortium
 type: ICE
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Ice Wall
-title_ru: нет
+title_ru: Стена льда
 text: >-
     Ice Wall can be advanced and has +1 strength for each advancement token
     on it.
 
     [Subroutine] End the run.
 text_ru: >-
-    Ice Wall can be advanced and has +1 сила for each advancement token
-    on it.
+    Стену льда можно укрупнять.
+    Она получает +1 силу за каждый маркер укрупнений на ней.
 
     [Subroutine] Останови взлом.
 flavor: >-
