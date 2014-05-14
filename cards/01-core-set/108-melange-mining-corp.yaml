@@ -2,14 +2,14 @@ side: Corp
 faction: Neutral
 type: Asset
 uniqueness: false
-obvious: false
-progress: 0.0
+obvious: true
+progress: 0.5
 title: Melange Mining Corp.
-title_ru: нет
+title_ru: Горнодобывающая корпорация
 text: >-
     [Click], [Click], [Click]: Gain 7[Credits].
 text_ru: >-
-    [Click], [Click], [Click]: Gain 7[Credits].
+    [Click], [Click], [Click]: Получи 7[Credits].
 flavor: >-
     "The mining bosses are worse than any downstalk crime lords. Tri-Maf,
     4K, Yak, I don't care what gangs you got down there. In Heinlein there's

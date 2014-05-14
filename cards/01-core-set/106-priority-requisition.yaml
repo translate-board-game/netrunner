@@ -3,15 +3,15 @@ faction: Neutral
 type: Agenda
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Priority Requisition
-title_ru: нет
+title_ru: Приоритетная заявка
 text: >-
     When you score Priority Requisition, you may rez a piece of ice ignoring
     all costs.
 text_ru: >-
-    When you score Priority Requisition, you may rez a piece of ice ignoring
-    all costs.
+    Когда ты щасчитываешь Приоритетную заявку,
+    можешь бесплатно скомпилировать лёд.
 flavor: >-
     "If it isn't in my terminal by six p.m., heads are going to roll!"
 flavor_ru: >-

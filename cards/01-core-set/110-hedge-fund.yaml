@@ -2,14 +2,14 @@ side: Corp
 faction: Neutral
 type: Operation
 uniqueness: false
-obvious: false
-progress: 0.0
+obvious: true
+progress: 0.5
 title: Hedge Fund
-title_ru: нет
+title_ru: Инвестиционный фонд
 text: >-
     Gain 9[Credits].
 text_ru: >-
-    Gain 9[Credits].
+    Получи 9[Credits].
 flavor: >-
     Hedge Fund. Noun. An ingenious device by which the rich get richer even
     while every other poor SOB is losing his shirt.

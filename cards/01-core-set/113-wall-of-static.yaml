@@ -2,10 +2,10 @@ side: Corp
 faction: Neutral
 type: ICE
 uniqueness: false
-obvious: false
-progress: 0.0
+obvious: true
+progress: 0.4
 title: Wall of Static
-title_ru: нет
+title_ru: Стена из статики
 text: >-
     [Subroutine] End the run.
 text_ru: >-

@@ -2,14 +2,14 @@ side: Corp
 faction: Neutral
 type: Asset
 uniqueness: false
-obvious: false
-progress: 0.0
+obvious: true
+progress: 0.5
 title: PAD Campaign
-title_ru: нет
+title_ru: Реклама планшета
 text: >-
     Gain 1[Credits] when your turn begins.
 text_ru: >-
-    Gain 1[Credits] when your turn begins.
+    Получи 1[Credits] в начале своего хода.
 flavor: >-
     It is like the one you just bought, only better.
 flavor_ru: >-

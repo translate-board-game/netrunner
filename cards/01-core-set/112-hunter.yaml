@@ -3,15 +3,15 @@ faction: Neutral
 type: ICE
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Hunter
-title_ru: нет
+title_ru: Охотник
 text: >-
     [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
     give the Runner 1 tag.
 text_ru: >-
-    [Subroutine] <strong>Сканирование<sup>3</sup></strong>&ndash; If successful,
-    give the Runner 1 tag.
+    [Subroutine] <strong>Сканирование<sup>3</sup></strong>&ndash;
+    Если успешно, хакер получает 1 тэг.
 flavor: >-
     .//run/hunter-tr/return=true
 

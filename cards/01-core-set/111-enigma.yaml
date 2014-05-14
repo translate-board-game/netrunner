@@ -3,15 +3,15 @@ faction: Neutral
 type: ICE
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Enigma
-title_ru: нет
+title_ru: Загадка
 text: >-
     [Subroutine] The Runner loses [Click], if able.
 
     [Subroutine] End the run.
 text_ru: >-
-    [Subroutine] The Runner loses [Click], if able.
+    [Subroutine] Хакер теряет [Click], если возможно.
 
     [Subroutine] Останови взлом.
 flavor: >-
