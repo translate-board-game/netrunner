@@ -2,16 +2,16 @@ side: Corp
 faction: Jinteki
 type: ICE
 uniqueness: false
-obvious: false
-progress: 0.0
+obvious: true
+progress: 0.4
 title: Wall of Thorns
-title_ru: нет
+title_ru: Терновая стена
 text: >-
     [Subroutine] Do 2 net damage.
 
     [Subroutine] End the run.
 text_ru: >-
-    [Subroutine] Do 2 net damage.
+    [Subroutine] Причини 2 net damage.
 
     [Subroutine] Останови взлом.
 flavor: >-

@@ -2,14 +2,14 @@ side: Corp
 faction: Jinteki
 type: ICE
 uniqueness: false
-obvious: false
-progress: 0.0
+obvious: true
+progress: 0.5
 title: Neural Katana
-title_ru: нет
+title_ru: Нейрокатана
 text: >-
     [Subroutine] Do 3 net damage.
 text_ru: >-
-    [Subroutine] Do 3 net damage.
+    [Subroutine] Причини 3 net damage.
 flavor: >-
     Forged by Ak.wa on 23.11.79-23. Filed 23.11.79-23.2 with #34k-lw3-21HH-4i.
 

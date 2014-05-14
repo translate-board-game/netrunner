@@ -3,14 +3,14 @@ faction: Jinteki
 type: Agenda
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.8
 title: Nisei MK II
-title_ru: нет
+title_ru: Нисей МК II
 text: >-
     Place 1 agenda counter on Nisei MK II when you score it.
 
     <strong>Hosted agenda counter:</strong> End the run.
 text_ru: >-
-    Place 1 agenda counter on Nisei MK II when you score it.
+    Когда ты засчитываешь Нисей МК II, положи на карту 1 маркер данных.
 
-    <strong>Hosted agenda counter:</strong> End the run.
+    <strong>Расположенный маркер данных:</strong> Останови взлом.

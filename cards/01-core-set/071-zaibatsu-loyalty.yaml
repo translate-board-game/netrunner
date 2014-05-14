@@ -3,14 +3,14 @@ faction: Jinteki
 type: Asset
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.8
 title: Zaibatsu Loyalty
-title_ru: нет
+title_ru: Лояльность к Дзайбацу
 text: >-
     If the Runner is about to expose a card, you may rez Zaibatsu Loyalty.
 
     1[Credits] or [Trash]: Prevent 1 card from being exposed.
 text_ru: >-
-    If the Runner is about to expose a card, you may rez Zaibatsu Loyalty.
+    Если хакер собирается разоблачить карту, ты можешь скомпилировать Лояльность к Дзайбацу.
 
-    1[Credits] or [Trash]: Prevent 1 card from being exposed.
+    1[Credits] или [Trash]: Предотврати разоблачение 1 карты.

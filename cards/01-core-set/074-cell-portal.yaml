@@ -3,16 +3,16 @@ faction: Jinteki
 type: ICE
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 1.0
 title: Cell Portal
-title_ru: нет
+title_ru: Клеточный портал
 text: >-
     [Subroutine] The Runner approaches the outermost piece of ice protecting
     the attacked server. Derez Cell Portal.
 text_ru: >-
-    [Subroutine] The Runner approaches the outermost piece of ice protecting
-    the attacked server. Derez Cell Portal.
+    [Subroutine] Хакер приступает к обработке самого дальнего льда атакуемого сервера.
+    Декомпилируй Клеточный портал.
 flavor: >-
     "Where does it go?"
 flavor_ru: >-
-    "Where does it go?"
+    «Куда он ведёт?»

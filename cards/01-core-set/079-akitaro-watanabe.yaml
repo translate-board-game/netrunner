@@ -3,13 +3,14 @@ faction: Jinteki
 type: Upgrade
 uniqueness: true
 obvious: false
-progress: 0.0
+progress: 0.5
 title: Akitaro Watanabe
-title_ru: нет
+title_ru: Акитаро Ватанабе
 text: >-
     The rez cost of ice protecting this server is lowered by 2.
 text_ru: >-
-    The rez cost of ice protecting this server is lowered by 2.
+    Стоимость компиляции льда, защищающего этот сервер,
+    уменьшается на 2.
 flavor: >-
     Just don't ask how he does it.
 flavor_ru: >-

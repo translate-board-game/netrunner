@@ -3,13 +3,13 @@ faction: Jinteki
 type: Operation
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.4
 title: Precognition
-title_ru: нет
+title_ru: Предвидение
 text: >-
     Look at the top 5 cards of R&D and arrange them in any order.
 text_ru: >-
-    Look at the top 5 cards of R&D and arrange them in any order.
+    Посмотри 5 верхних карт R&D и верни их в любом порядке.
 flavor: >-
     There was a new texture in her phantom cortex. It had always been there,
     she realized. It was everything and nothing.

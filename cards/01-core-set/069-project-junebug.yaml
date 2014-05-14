@@ -3,16 +3,17 @@ faction: Jinteki
 type: Asset
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.8
 title: Project Junebug
-title_ru: нет
+title_ru: Проект Майския жук
 text: >-
     Project Junebug can be advanced.
 
     If you pay 1[Credits] when the Runner accesses Project Junebug, do 2
     net damage for each advancement token on Project Junebug.
 text_ru: >-
-    Project Junebug can be advanced.
+    Проект Майский жук можно укрупнять.
 
-    If you pay 1[Credits] when the Runner accesses Project Junebug, do 2
-    net damage for each advancement token on Project Junebug.
+    Когда хакер получает доступ к Проекту Майский жук,
+    можешь заплатить 1[Credits],
+    чтобы причинить по 2 сетевых ущерба за каждый маркер укрупнения на Проекте Майский жук.

@@ -3,9 +3,9 @@ faction: Jinteki
 type: Asset
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.8
 title: Snare!
-title_ru: нет
+title_ru: Ловушка!
 text: >-
     If Snare! is accessed from R&D, the Runner must reveal it.
 
@@ -13,8 +13,9 @@ text: >-
     and give the Runner 1 tag. Ignore this effect if the Runner accesses
     Snare! from Archives.
 text_ru: >-
-    If Snare! is accessed from R&D, the Runner must reveal it.
+    Если хакер получил доступ к Ловушке с сервера R&D,
+    он должен показать её.
 
-    If you pay 4[Credits] when the Runner accesses Snare!, do 3 net damage
-    and give the Runner 1 tag. Ignore this effect if the Runner accesses
-    Snare! from Archives.
+    Если ты в этот момент заплатишь 4[Credits],
+    то причинишь 3 net damage и дашь 1 метку.
+    Игнорируй этот эффект при доступе хакера к Ловушке из архива.
