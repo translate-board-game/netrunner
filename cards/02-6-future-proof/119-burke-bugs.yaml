@@ -10,7 +10,7 @@ text: >-
     [Subroutine] <strong>Trace<sup>0</sup></strong>&ndash; If successful,
     the Runner trashes 1 program.
 text_ru: >-
-    [Subroutine] <strong>Сканирование<sup>0</sup></strong>&ndash; If successful,
+    [Subroutine] <strong>Сканирование<sup>0</sup></strong>&ndash; Если успешно,
     the Runner trashes 1 program.
 flavor: >-
     "If I had to describe the bugs in one word, it would be '****ing annoying.'"

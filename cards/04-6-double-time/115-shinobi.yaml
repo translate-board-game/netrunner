@@ -20,11 +20,11 @@ text: >-
 text_ru: >-
     When you rez Shinobi, take 1 bad publicity.
 
-    [Subroutine] <strong>Сканирование<sup>1</sup></strong>&ndash; If successful,
+    [Subroutine] <strong>Сканирование<sup>1</sup></strong>&ndash; Если успешно,
     do 1 net damage.
 
-    [Subroutine] <strong>Сканирование<sup>2</sup></strong>&ndash; If successful,
+    [Subroutine] <strong>Сканирование<sup>2</sup></strong>&ndash; Если успешно,
     do 2 net damage.
 
-    [Subroutine] <strong>Сканирование<sup>3</sup></strong>&ndash; If successful,
+    [Subroutine] <strong>Сканирование<sup>3</sup></strong>&ndash; Если успешно,
     do 3 net damage and end the run.
