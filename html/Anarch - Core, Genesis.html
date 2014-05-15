@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Anarch - Core, Genesis</title>
+
+    <meta charset="utf-8">
+
+    <style type="text/css">
+        /* Game icons */
+        @font-face{
+            font-family: 'netrunner';
+            src: url('fonts/netrunner.eot');
+            src: url('fonts/netrunner.woff') format('woff'),
+                url('fonts/netrunner.ttf') format('truetype'),
+                url('fonts/netrunner.svg') format('svg');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        .icon {
+            font-family: 'netrunner';
+            speak: none;
+            font-style: normal;
+            font-weight: normal;
+            font-variant: normal;
+            text-transform: none;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            font-size:120%;
+            line-height:83.33%;
+            margin:0px 1px;
+        }
+
+        .icon-credit:before {
+            content: "\e600";
+        }
+        .icon-link:before {
+            content: "\e601";
+        }
+        .icon-haas-bioroid:before {
+            content: "\e602";
+        }
+        .icon-shaper:before {
+            content: "\e603";
+        }
+        .icon-subroutine:before {
+            content: "\e604";
+        }
+        .icon-anarch:before {
+            content: "\e605";
+        }
+        .icon-trash:before {
+            content: "\e606";
+        }
+        .icon-weyland-consortium:before {
+            content: "\e607";
+        }
+        .icon-recurring-credit:before {
+            content: "\e608";
+        }
+        .icon-jinteki:before {
+            content: "\e609";
+        }
+        .icon-1mu:before {
+            content: "\e60a";
+        }
+        .icon-nbn:before {
+            content: "\e60b";
+        }
+        .icon-2mu:before {
+            content: "\e60c";
+        }
+        .icon-asset:before {
+            content: "\e60d";
+        }
+        .icon-3mu:before {
+            content: "\e60e";
+        }
+        .icon-rez:before {
+            content: "\e60f";
+        }
+        .icon-mu:before {
+            content: "\e610";
+        }
+        .icon-click:before {
+            content: "\e611";
+        }
+        .icon-criminal:before {
+            content: "\e612";
+        }
+
+        /* Title styles */
+        h1 {
+            font-weight: normal;
+            font-size: 20px;
+            margin: 0 0 5px 30px;
+        }
+
+        /* Card list styles */
+        p.card {
+            text-indent: -3em;
+            padding-left: 3em;
+            margin: 0;
+        }
+
+        table, tr, td {
+            margin:0;
+            padding:0;
+            border: none;
+            border-spacing: 0;
+        }
+        table td.card-title {
+            vertical-align: top;
+            white-space: nowrap;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>
+        Anarch - Core, Genesis
+    </h1>
+
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Cyberfeeder – Киберканал.&nbsp;
+                    </td>
+                    <td>
+                        1<span class="icon icon-recurring-credit"></span><br>Используй этот кредит для оплаты использования <strong>ледоломов</strong> или для установки <strong>virus</strong> программ.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Darwin.&nbsp;
+                    </td>
+                    <td>
+                        2<span class="icon icon-credit"></span>: Сломай ice подпрограмму.<br>X is the number of virus counters on Darwin.<br>When your turn begins, you may pay 1<span class="icon icon-credit"></span> to place 1 virus counter on Darwin.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Data Leak Reversal.&nbsp;
+                    </td>
+                    <td>
+                        Install only if you made a successful run on a central server this turn.<br>If you are tagged, Data Leak Reversal gains "<span class="icon icon-click"></span>: The Corp trashes the top card of R&D."
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Datasucker – Инфосос.&nbsp;
+                    </td>
+                    <td>
+                        Успешно взломав центральный сервер, положи на него 1 маркер вируса.<br><strong>Размещённый маркер вируса</strong>: Сила обрабатываемого скомпилированного льда уменьшается на 1 до конца обработки.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <p class="card">
+                Demolition Run – Разрушительный взлом. Попытайся взломать сервер HQ или R&D. Ты можешь бесплатно сбросить любые карты, к которым получил доступ (даже те, которые не могут быть сброшены обычным способом).
+            </p>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Disrupter.&nbsp;
+                    </td>
+                    <td>
+                        <span class="icon icon-trash"></span>: Prevent a trace. That trace initiates again with a base trace strength of 0.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Djinn – Джинн.&nbsp;
+                    </td>
+                    <td>
+                        На Джинне можно разместить не <strong>icebreaker</strong> программы, потребляющие в сумме не более 3<span class="icon icon-mu"></span><br>Объём памяти программ на Джинне не учитывается в общем объеме памяти.<br><span class="icon icon-click"></span>, 1<span class="icon icon-credit"></span>: Найди в колоде <strong>virus</strong> программу, покажи её и добавь в руку. Перемешай колоду.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Déjà Vu – Дежавю.&nbsp;
+                    </td>
+                    <td>
+                        Верни в руку из сброса 1 карту (до 2 карт, если это карты <strong>virus</strong>).
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Force of Nature.&nbsp;
+                    </td>
+                    <td>
+                        2<span class="icon icon-credit"></span>: Break up to 2 <strong>code gate</strong> subroutines.<br>1<span class="icon icon-credit"></span>: +1 сила.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Grimoire – Гримуар.&nbsp;
+                    </td>
+                    <td>
+                        +2<span class="icon icon-mu"></span><br>Когда ты устанавливаешь <strong>virus</strong> программу, помести на неё 1 маркер вируса.<br>Ограничение: 1 <strong>console</strong> на игрока.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Ice Carver – Ледорез.&nbsp;
+                    </td>
+                    <td>
+                        Сила всех обрабатываемых льдов уменьшается на 1.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Imp.&nbsp;
+                    </td>
+                    <td>
+                        Place 2 virus counters on Imp when it is installed.<br>Once per turn, you may remove 1 hosted virus counter to trash a card you access at no cost (even if it cannot normally be trashed).
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Joshua B..&nbsp;
+                    </td>
+                    <td>
+                        When your turn begins, you may gain <span class="icon icon-click"></span>. If you do, take 1 tag when this turn ends.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Liberated Account.&nbsp;
+                    </td>
+                    <td>
+                        Place 16<span class="icon icon-credit"></span> from the bank on Liberated Account when it is installed. When there are no credits left on Liberated Account, trash it.<br><span class="icon icon-click"></span>: Take 4<span class="icon icon-credit"></span> from Liberated Account.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Medium – Медиум.&nbsp;
+                    </td>
+                    <td>
+                        Успешно взломав сервер R&D, помести на Медиума 1 маркер вируса.<br>Каждый маркер вируса на Медиуме сверх первого позволяет получить доступ к 1 дополнительной карте сервера R&D.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Morning Star.&nbsp;
+                    </td>
+                    <td>
+                        1<span class="icon icon-credit"></span>: Break any number of <strong>barrier</strong> subroutines.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Nerve Agent.&nbsp;
+                    </td>
+                    <td>
+                        Whenever you make a successful run on HQ, place 1 virus counter on Nerve Agent.<br>Each virus counter after the first on Nerve Agent allows you to access 1 additional card from HQ whenever you access cards from HQ.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Parasite – Паразит.&nbsp;
+                    </td>
+                    <td>
+                        Паразита можно установить только на скомпилированный лёд.<br>Этот лёд уменьшает силу на 1 за каждый маркер вируса на Паразите и сбрасывается, если сила льда становится равна 0 или меньше.<br>В начале своего хода положи на Паразита 1 маркер вируса.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Retrieval Run.&nbsp;
+                    </td>
+                    <td>
+                        Make a run on Archives. Если успешно, instead of accessing cards you may install a program from your heap, ignoring all costs.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Scrubber.&nbsp;
+                    </td>
+                    <td>
+                        2<span class="icon icon-recurring-credit"></span><br>Use these credits to trash cards.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Spinal Modem.&nbsp;
+                    </td>
+                    <td>
+                        +1<span class="icon icon-mu"></span>, 2<span class="icon icon-recurring-credit"></span><br>Use these credits to pay for using <strong>icebreakers</strong>.<br>Whenever there is a successful trace during a run, suffer 1 brain damage.<br>Ограничение: 1 <strong>console</strong> на игрока.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <p class="card">
+                Stimhack – Аналептический взлом. Начни взлом и получи 9<span class="icon icon-credit"></span>, которые можно потратить только во время этого взлома. После завершения взлома получи 1 <strong>brain damage</strong> (не может быть предотвращён).
+            </p>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Surge.&nbsp;
+                    </td>
+                    <td>
+                        Play only if you placed at least 1 virus counter on a program this turn.<br>Place 2 virus counters on that program.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Vamp.&nbsp;
+                    </td>
+                    <td>
+                        Make a run on HQ. Если успешно, instead of accessing cards you may pay X<span class="icon icon-credit"></span> to force the Corp to lose up to X<span class="icon icon-credit"></span>, then take 1 tag.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Wyldside – Окраина.&nbsp;
+                    </td>
+                    <td>
+                        В начале своего хода возьми из колоды 2 карты и потеряй <span class="icon icon-click"></span>.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Wyrm – Змей.&nbsp;
+                    </td>
+                    <td>
+                        3<span class="icon icon-credit"></span>: Сломай подпрограмму льда с силой 0 или меньше.<br>1<span class="icon icon-credit"></span>: Сила льда уменьшается на 1.<br>1<span class="icon icon-credit"></span>: +1 сила.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Xanadu.&nbsp;
+                    </td>
+                    <td>
+                        The rez cost of all ice is increased by 1.
+                    </td>
+                </tr>
+            </table>
+        
+    
+</body>
+</html>

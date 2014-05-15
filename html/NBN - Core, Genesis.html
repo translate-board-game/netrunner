@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>NBN - Core, Genesis</title>
+
+    <meta charset="utf-8">
+
+    <style type="text/css">
+        /* Game icons */
+        @font-face{
+            font-family: 'netrunner';
+            src: url('fonts/netrunner.eot');
+            src: url('fonts/netrunner.woff') format('woff'),
+                url('fonts/netrunner.ttf') format('truetype'),
+                url('fonts/netrunner.svg') format('svg');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        .icon {
+            font-family: 'netrunner';
+            speak: none;
+            font-style: normal;
+            font-weight: normal;
+            font-variant: normal;
+            text-transform: none;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            font-size:120%;
+            line-height:83.33%;
+            margin:0px 1px;
+        }
+
+        .icon-credit:before {
+            content: "\e600";
+        }
+        .icon-link:before {
+            content: "\e601";
+        }
+        .icon-haas-bioroid:before {
+            content: "\e602";
+        }
+        .icon-shaper:before {
+            content: "\e603";
+        }
+        .icon-subroutine:before {
+            content: "\e604";
+        }
+        .icon-anarch:before {
+            content: "\e605";
+        }
+        .icon-trash:before {
+            content: "\e606";
+        }
+        .icon-weyland-consortium:before {
+            content: "\e607";
+        }
+        .icon-recurring-credit:before {
+            content: "\e608";
+        }
+        .icon-jinteki:before {
+            content: "\e609";
+        }
+        .icon-1mu:before {
+            content: "\e60a";
+        }
+        .icon-nbn:before {
+            content: "\e60b";
+        }
+        .icon-2mu:before {
+            content: "\e60c";
+        }
+        .icon-asset:before {
+            content: "\e60d";
+        }
+        .icon-3mu:before {
+            content: "\e60e";
+        }
+        .icon-rez:before {
+            content: "\e60f";
+        }
+        .icon-mu:before {
+            content: "\e610";
+        }
+        .icon-click:before {
+            content: "\e611";
+        }
+        .icon-criminal:before {
+            content: "\e612";
+        }
+
+        /* Title styles */
+        h1 {
+            font-weight: normal;
+            font-size: 20px;
+            margin: 0 0 5px 30px;
+        }
+
+        /* Card list styles */
+        p.card {
+            text-indent: -3em;
+            padding-left: 3em;
+            margin: 0;
+        }
+
+        table, tr, td {
+            margin:0;
+            padding:0;
+            border: none;
+            border-spacing: 0;
+        }
+        table td.card-title {
+            vertical-align: top;
+            white-space: nowrap;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>
+        NBN - Core, Genesis
+    </h1>
+
+    
+        
+        
+            <p class="card">
+                AstroScript Pilot Program – Пилотный выпуск АстроСкрипт. Когда ты засчитываешь Пилотный выпуск АстроСкрипт, положи на него 1 маркер агенды.<br><strong>Расположенный маркер агенды:</strong> Положи 1 маркер укрупнения на карту, которую можно укрупнять.
+            </p>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Bernice Mai.&nbsp;
+                    </td>
+                    <td>
+                        Whenever there is a successful run on this server, <strong>сканирование<sup>5</sup></strong> – if successful, give the runner 1 tag. If unsuccessful, trash Bernice Mai.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Big Brother.&nbsp;
+                    </td>
+                    <td>
+                        Play only if the Runner is tagged.<br>Give the Runner 2 tags.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <p class="card">
+                Breaking News – Экстренные новости. Когды ты засчитываешь Экстренные новости, хакер получает 2 тэга.<br>Когда ход, на котором ты засчитал Экстренные новости, заканчивается, хакер теряет 2 тэга.
+            </p>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        ChiLo City Grid.&nbsp;
+                    </td>
+                    <td>
+                        Whenever there is a successful trace during a run on this server, give the Runner 1 tag.<br>Limit 1 <strong>region</strong> per server.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <p class="card">
+                Closed Accounts – Закрытые счета. Можно играть, только если хакер помечен.<br>Хакер теряет все свои кредиты.
+            </p>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Data Hound.&nbsp;
+                    </td>
+                    <td>
+                        <span class="icon icon-subroutine"></span> <strong>Сканирование<sup>2</sup></strong> – Если успешно, look at a number of cards from the top of the Runner's stack equal to the amount by which your trace strength exceeded his or her link strength. Trash 1 of those cards, and arrange the rest in any order.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Data Raven – Ворон данных.&nbsp;
+                    </td>
+                    <td>
+                        Когда хакер обрабатывает Ворона данных, он должен получить 1 метку или прекратить взлом.<br><strong>Расположенный маркер:</strong> Хакер получает 1 тэг.<br><span class="icon icon-subroutine"></span> <strong>Сканирование<sup>3</sup></strong> – Если успешно, помести 1 маркер на Ворона данных.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Flare.&nbsp;
+                    </td>
+                    <td>
+                        <span class="icon icon-subroutine"></span><strong>Сканирование<sup>6</sup></strong> – Если успешно, trash 1 piece of hardware, do 2 meat damage (cannot be prevented), and end the run.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <p class="card">
+                Ghost Branch – Призрачный отдел. Призрачный отдел можно укрупнять.<br>Когда хакер получает доступ к Призрачному отделу, можешь дать ему по 1 тэгу за каждый маркер укрупнения на Призрачном отделе.
+            </p>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Marked Accounts.&nbsp;
+                    </td>
+                    <td>
+                        When your turn begins, take 1<span class="icon icon-credit"></span> from Marked Accounts, if able.<br><span class="icon icon-click"></span>: Place 3<span class="icon icon-credit"></span> from the bank on Marked Accounts.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <p class="card">
+                Matrix Analyzer – Анализатор матрицы. Когда хакер обрабатывает Анализатор матрицы, ты можешь заплатить 1<span class="icon icon-credit"></span>, чтобы поместить 1 маркер укрупнения на карту, которая может быть укрупнена.<br><span class="icon icon-subroutine"></span> <strong>Сканирование<sup>2</sup></strong> – Если успешно, хакер получает 1 тэг.
+            </p>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Midseason Replacements.&nbsp;
+                    </td>
+                    <td>
+                        Play only if the Runner stole an agenda during his or her last turn.<br><strong>Сканирование<sup>6</sup></strong> – Если успешно, give the Runner tags equal to the amount by which your trace strength exceeded his or her link strength.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Net Police.&nbsp;
+                    </td>
+                    <td>
+                        X<span class="icon icon-recurring-credit"></span><br>Use these credits during traces. X is the number of links the Runner has.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Pop-up Window.&nbsp;
+                    </td>
+                    <td>
+                        When the Runner encounters Pop-up Window, you gain 1<span class="icon icon-credit"></span>.<br><span class="icon icon-subroutine"></span> End the run unless the Runner pays 1<span class="icon icon-credit"></span>.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Project Beale.&nbsp;
+                    </td>
+                    <td>
+                        When you score Project Beale, place 1 agenda counter on it for every 2 advancement tokens on it over 3.<br>Project Beale is worth 1 additional agenda point for each agenda counter on it.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <p class="card">
+                Psychographics – Психографика. X меньше или равно количеству тэгов у хакера.<br>Помести X маркеров укрупнения на карту, которую можно укрупнять.
+            </p>
+        
+    
+        
+        
+            <p class="card">
+                Red Herrings – Отвлекающий маневр. Каждый раз, когда хакер получает доступ к агенде на этом сервере, он должен заплатить 5<span class="icon icon-credit"></span> как дополнительную цену, чтобы украсть её. Даже если во время этого взлома, хакер сбрасывает Отвлекающий маневр.
+            </p>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Restructured Datapool.&nbsp;
+                    </td>
+                    <td>
+                        <span class="icon icon-click"></span>: <strong>Сканирование<sup>2</sup></strong> – Если успешно, give the Runner 1 tag.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        SEA Source – Источник SEA.&nbsp;
+                    </td>
+                    <td>
+                        Можно играть, только если в свой последний ход хакер совершил успешный взлом сервера.<br><strong>Сканирование<sup>3</sup></strong> – Если успешно, хакер получает 1 тэг.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <p class="card">
+                SanSan City Grid – Район СанСан. Количество маркеров укрупнения для засчитывания агенды на этом сервере, снижается на 1.<br>Ограничение: 1 <strong>region</strong> на сервер.
+            </p>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        TMI.&nbsp;
+                    </td>
+                    <td>
+                        When you rez TMI, <strong>сканирование<sup>2</sup></strong> – if unsuccessful, derez TMI.<br><span class="icon icon-subroutine"></span> Останови взлом.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Tollbooth – Застава.&nbsp;
+                    </td>
+                    <td>
+                        Когда хакер обрабытывает Заставу, он должен заплатить 3<span class="icon icon-credit"></span>, если возможно. Если хакер не может заплатить 3<span class="icon icon-credit"></span>, останови взлом.<br><span class="icon icon-subroutine"></span> Останови взлом.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Uroboros.&nbsp;
+                    </td>
+                    <td>
+                        <span class="icon icon-subroutine"></span> <strong>Сканирование<sup>4</sup></strong> – Если успешно, the Runner cannot make another run this turn.<br><span class="icon icon-subroutine"></span> <strong>Сканирование<sup>4</sup></strong> – Если успешно, end the run.
+                    </td>
+                </tr>
+            </table>
+        
+    
+</body>
+</html>

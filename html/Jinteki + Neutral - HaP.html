@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jinteki + Neutral - HaP</title>
+
+    <meta charset="utf-8">
+
+    <style type="text/css">
+        /* Game icons */
+        @font-face{
+            font-family: 'netrunner';
+            src: url('fonts/netrunner.eot');
+            src: url('fonts/netrunner.woff') format('woff'),
+                url('fonts/netrunner.ttf') format('truetype'),
+                url('fonts/netrunner.svg') format('svg');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        .icon {
+            font-family: 'netrunner';
+            speak: none;
+            font-style: normal;
+            font-weight: normal;
+            font-variant: normal;
+            text-transform: none;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            font-size:120%;
+            line-height:83.33%;
+            margin:0px 1px;
+        }
+
+        .icon-credit:before {
+            content: "\e600";
+        }
+        .icon-link:before {
+            content: "\e601";
+        }
+        .icon-haas-bioroid:before {
+            content: "\e602";
+        }
+        .icon-shaper:before {
+            content: "\e603";
+        }
+        .icon-subroutine:before {
+            content: "\e604";
+        }
+        .icon-anarch:before {
+            content: "\e605";
+        }
+        .icon-trash:before {
+            content: "\e606";
+        }
+        .icon-weyland-consortium:before {
+            content: "\e607";
+        }
+        .icon-recurring-credit:before {
+            content: "\e608";
+        }
+        .icon-jinteki:before {
+            content: "\e609";
+        }
+        .icon-1mu:before {
+            content: "\e60a";
+        }
+        .icon-nbn:before {
+            content: "\e60b";
+        }
+        .icon-2mu:before {
+            content: "\e60c";
+        }
+        .icon-asset:before {
+            content: "\e60d";
+        }
+        .icon-3mu:before {
+            content: "\e60e";
+        }
+        .icon-rez:before {
+            content: "\e60f";
+        }
+        .icon-mu:before {
+            content: "\e610";
+        }
+        .icon-click:before {
+            content: "\e611";
+        }
+        .icon-criminal:before {
+            content: "\e612";
+        }
+
+        /* Title styles */
+        h1 {
+            font-weight: normal;
+            font-size: 20px;
+            margin: 0 0 5px 30px;
+        }
+
+        /* Card list styles */
+        p.card {
+            text-indent: -3em;
+            padding-left: 3em;
+            margin: 0;
+        }
+
+        table, tr, td {
+            margin:0;
+            padding:0;
+            border: none;
+            border-spacing: 0;
+        }
+        table td.card-title {
+            vertical-align: top;
+            white-space: nowrap;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>
+        Jinteki + Neutral - HaP
+    </h1>
+
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Cerebral Cast.&nbsp;
+                    </td>
+                    <td>
+                        Play only if the Runner made a successful run during his or her last turn.<br>You and the Runner secretly spend 0<span class="icon icon-credit"></span>, 1<span class="icon icon-credit"></span>, or 2<span class="icon icon-credit"></span>. Reveal spent credits. If you and the Runner spent a different number of credits, he or she chooses to suffer 1 brain damage or take 1 tag.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Chairman Hiro.&nbsp;
+                    </td>
+                    <td>
+                        The Runner's maximum hand size is reduced by 2.<br>If Chairman Hiro is trashed while being accessed, add him to the Runner's score area as an agenda worth 2 agenda points.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Diversified Portfolio.&nbsp;
+                    </td>
+                    <td>
+                        Gain 1<span class="icon icon-credit"></span> for each remote server with a card installed in it.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Fast Track.&nbsp;
+                    </td>
+                    <td>
+                        Search R&D for an agenda, reveal it, and add it to HQ. Shuffle R&D.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Guard.&nbsp;
+                    </td>
+                    <td>
+                        Guard cannot be bypassed.<br><span class="icon icon-subroutine"></span> Останови взлом.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        House of Knives.&nbsp;
+                    </td>
+                    <td>
+                        Place 3 agenda counters on House of Knives when you score it.<br><strong>Hosted agenda counter</strong>: Do 1 net damage. Use this ability only during a run and only once per run.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Inazuma.&nbsp;
+                    </td>
+                    <td>
+                        <span class="icon icon-subroutine"></span> The Runner cannot break any subroutines on the next piece of ice he or she encounters during this run.<br><span class="icon icon-subroutine"></span> The Runner cannot jack out until after encountering the next piece of ice during this run.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Komainu.&nbsp;
+                    </td>
+                    <td>
+                        When the Runner encounters Komainu, it gains "<span class="icon icon-subroutine"></span> Do 1 net damage." for each card in the Runner's grip for the remainder of this run.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Medical Breakthrough.&nbsp;
+                    </td>
+                    <td>
+                        Lower the advancement requirement of each Medical Breakthrough by 1. This ability is active even while Medical Breakthrough is in the Runner's score area.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <p class="card">
+                Medical Research Fundraiser. Gain 8<span class="icon icon-credit"></span>. The Runner gains 3<span class="icon icon-credit"></span>.
+            </p>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Mental Health Clinic.&nbsp;
+                    </td>
+                    <td>
+                        Gain 1<span class="icon icon-credit"></span> when your turn begins.<br>The Runner's maximum hand size is increased by 1.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Mushin No Shin.&nbsp;
+                    </td>
+                    <td>
+                        As an additional cost to play this operation, spend <span class="icon icon-click"></span>.<br>Install an asset, agenda, or upgrade from HQ in a new remote server. Place 3 advancement tokens on that card. You cannot score or rez that card until your next turn begins.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        NeoTokyo City Grid.&nbsp;
+                    </td>
+                    <td>
+                        The first time an advancement token is a placed on a card in this server each turn, gain 1<span class="icon icon-credit"></span>.<br>Limit 1 <strong>region</strong> per server.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Philotic Entanglement.&nbsp;
+                    </td>
+                    <td>
+                        When you score Philotic Entanglement, do 1 net damage for each agenda in the Runner's score area.<br>Limit 1 Philotic Entanglement per deck.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Plan B.&nbsp;
+                    </td>
+                    <td>
+                        Plan B can be advanced.<br>If the Runner accesses Plan B, you may reveal and score an agenda from HQ with an advancement requirement equal to or less than the number of advancement tokens on Plan B.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Psychic Field.&nbsp;
+                    </td>
+                    <td>
+                        If the Runner exposes or accesses Psychic Field while installed, you and the Runner secretly spend 0<span class="icon icon-credit"></span>, 1<span class="icon icon-credit"></span>, or 2<span class="icon icon-credit"></span>. Reveal spent credits. If you and the Runner spent a different number of credits, do 1 net damage for each card in the Runner's grip.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Pup.&nbsp;
+                    </td>
+                    <td>
+                        <span class="icon icon-subroutine"></span> Do 1 net damage unless the Runner pays 1<span class="icon icon-credit"></span>.<br><span class="icon icon-subroutine"></span> Do 1 net damage unless the Runner pays 1<span class="icon icon-credit"></span>.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Rainbow.&nbsp;
+                    </td>
+                    <td>
+                        <span class="icon icon-subroutine"></span> Останови взлом.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Shi.Kyū.&nbsp;
+                    </td>
+                    <td>
+                        When the Runner accesses Shi.Kyū, you may pay X<span class="icon icon-credit"></span>. The Runner must take either X net damage or add Shi.Kyū to his or her score area as an agenda worth &minus;1 agenda point. Ignore this ability if the Runner accesses Shi.Kyū for R&D.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Shiro.&nbsp;
+                    </td>
+                    <td>
+                        <span class="icon icon-subroutine"></span> Look at the top 3 cards of R&D and arrange them in any order.<br><span class="icon icon-subroutine"></span> The Runner accesses the top card of R&D unless the Corp pays 1<span class="icon icon-credit"></span>.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Susanoo-No-Mikoto.&nbsp;
+                    </td>
+                    <td>
+                        <span class="icon icon-subroutine"></span> If not already running on Archives, the Runner is now running on Archives instead of passing Susanoo-No-Mikoto. The Runner cannot jack out until after he or she encounters a piece of ice.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Tenma Line.&nbsp;
+                    </td>
+                    <td>
+                        <span class="icon icon-click"></span>: Swap 2 pieces of installed ice.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        The Future Perfect.&nbsp;
+                    </td>
+                    <td>
+                        When the Runner accesses The Future Perfect, you and the Runner secretly spend 0<span class="icon icon-credit"></span>, 1<span class="icon icon-credit"></span>, or 2<span class="icon icon-credit"></span>. Reveal spent credits. If you and the Runner spent a different number of credits, prevent The Future Perfect from being stolen. Ignore this ability if the Runner accesses The Future Perfect while it is installed.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Tori Hanzō.&nbsp;
+                    </td>
+                    <td>
+                        The first time you would do any amount of net damage during each run on this server, instead you may pay 2<span class="icon icon-credit"></span> to do 1 brain damage.
+                    </td>
+                </tr>
+            </table>
+        
+    
+</body>
+</html>

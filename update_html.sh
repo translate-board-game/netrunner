@@ -35,6 +35,13 @@ python3 make_html.py 01,02,03 no-obvious
 # python3 make_html.py 01,02,03,04,05 no-obvious
 
 
+# Remove unwanted files
+rm "html/Anarch - Core.html"
+rm "html/Criminal - Core.html"
+rm "html/Jinteki - Core.html"
+rm "html/NBN - Core.html"
+rm "html/Weyland Consortium - Core.html"
+
 # Remove useless files
 rm "html/Neutral Runner - Core.html"
 rm "html/Neutral Runner + obvious - Core.html"

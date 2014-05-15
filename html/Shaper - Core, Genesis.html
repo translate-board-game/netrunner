@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shaper - Core, Genesis</title>
+
+    <meta charset="utf-8">
+
+    <style type="text/css">
+        /* Game icons */
+        @font-face{
+            font-family: 'netrunner';
+            src: url('fonts/netrunner.eot');
+            src: url('fonts/netrunner.woff') format('woff'),
+                url('fonts/netrunner.ttf') format('truetype'),
+                url('fonts/netrunner.svg') format('svg');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        .icon {
+            font-family: 'netrunner';
+            speak: none;
+            font-style: normal;
+            font-weight: normal;
+            font-variant: normal;
+            text-transform: none;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            font-size:120%;
+            line-height:83.33%;
+            margin:0px 1px;
+        }
+
+        .icon-credit:before {
+            content: "\e600";
+        }
+        .icon-link:before {
+            content: "\e601";
+        }
+        .icon-haas-bioroid:before {
+            content: "\e602";
+        }
+        .icon-shaper:before {
+            content: "\e603";
+        }
+        .icon-subroutine:before {
+            content: "\e604";
+        }
+        .icon-anarch:before {
+            content: "\e605";
+        }
+        .icon-trash:before {
+            content: "\e606";
+        }
+        .icon-weyland-consortium:before {
+            content: "\e607";
+        }
+        .icon-recurring-credit:before {
+            content: "\e608";
+        }
+        .icon-jinteki:before {
+            content: "\e609";
+        }
+        .icon-1mu:before {
+            content: "\e60a";
+        }
+        .icon-nbn:before {
+            content: "\e60b";
+        }
+        .icon-2mu:before {
+            content: "\e60c";
+        }
+        .icon-asset:before {
+            content: "\e60d";
+        }
+        .icon-3mu:before {
+            content: "\e60e";
+        }
+        .icon-rez:before {
+            content: "\e60f";
+        }
+        .icon-mu:before {
+            content: "\e610";
+        }
+        .icon-click:before {
+            content: "\e611";
+        }
+        .icon-criminal:before {
+            content: "\e612";
+        }
+
+        /* Title styles */
+        h1 {
+            font-weight: normal;
+            font-size: 20px;
+            margin: 0 0 5px 30px;
+        }
+
+        /* Card list styles */
+        p.card {
+            text-indent: -3em;
+            padding-left: 3em;
+            margin: 0;
+        }
+
+        table, tr, td {
+            margin:0;
+            padding:0;
+            border: none;
+            border-spacing: 0;
+        }
+        table td.card-title {
+            vertical-align: top;
+            white-space: nowrap;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>
+        Shaper - Core, Genesis
+    </h1>
+
+    
+        
+        
+            <p class="card">
+                Aesop's Pawnshop – Ломбард Эзопа. В начале своего хода можешь отправить в сброс одну из других своих установленных карт и получить 3<span class="icon icon-credit"></span>.
+            </p>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        All-nighter.&nbsp;
+                    </td>
+                    <td>
+                        <span class="icon icon-click"></span>, <span class="icon icon-trash"></span>: Gain <span class="icon icon-click"></span> <span class="icon icon-click"></span>.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Battering Ram – Таран.&nbsp;
+                    </td>
+                    <td>
+                        2<span class="icon icon-credit"></span>: Сломай до 2 <strong>barrier</strong> подпрограмм.<br>1<span class="icon icon-credit"></span>: +1 сила до конца этого взлома.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Creeper.&nbsp;
+                    </td>
+                    <td>
+                        If you have at least 2<span class="icon icon-link"></span>, the memory cost of Creeper is 0, even if it is not installed.<br>2<span class="icon icon-credit"></span>: Сломай <strong>sentry</strong> подпрограмму.<br>1<span class="icon icon-credit"></span>: +1 сила.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Deep Thought.&nbsp;
+                    </td>
+                    <td>
+                        Whenever you make a successful run on R&D, place 1 virus counter on Deep Thought.<br>If there are at least 3 virus counters on Deep Thought, it gains "When your turn begins, you may look at the top card of R&D."
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Deus X.&nbsp;
+                    </td>
+                    <td>
+                        <span class="icon icon-trash"></span>: Break any number of <strong>AP</strong> subroutines.<br><span class="icon icon-trash"></span>: Prevent any amount of net damage.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Dinosaurus.&nbsp;
+                    </td>
+                    <td>
+                        Dinosaurus can host a single non-<strong>AI icebreaker</strong>. The memory cost of the hosted <strong>icebreaker</strong> does not count against your memory limit.<br>Hosted <strong>icebreaker</strong> has +2 strength.<br>Ограничение: 1 <strong>console</strong> на игрока.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <p class="card">
+                Gordian Blade – Гордиев клинок. 1<span class="icon icon-credit"></span>: Сломай <strong>code gate</strong> подпрограмму.<br>1<span class="icon icon-credit"></span>: +1 сила до конца этого взлома.
+            </p>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Indexing.&nbsp;
+                    </td>
+                    <td>
+                        Make a run on R&D. If successful, instead of accessing cards you may look at the top 5 cards of R&D and arrange them in any order.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Modded – Модифицированный.&nbsp;
+                    </td>
+                    <td>
+                        Установи программу или железо со скидкой 3.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Net Shield – Сетевой щит.&nbsp;
+                    </td>
+                    <td>
+                        1<span class="icon icon-credit"></span>: Предотврати первый сетевой ущерб в этом ходу.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Notoriety.&nbsp;
+                    </td>
+                    <td>
+                        Play only if you made a successful run on R&D, HQ, and Archives this turn.<br>Add Notoriety to your score area as an agenda worth 1 agenda point.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Personal Workshop.&nbsp;
+                    </td>
+                    <td>
+                        <span class="icon icon-click"></span>: Host a program or piece of hardware from your grip on Personal Workshop and place power counters on it equal to its install cost.<br>1<span class="icon icon-credit"></span>: Remove 1 power counter from a hosted card.<br>When your turn begins, remove 1 power counter from a hosted card.<br>When there are no power counters left on a hosted card, install it, ignoring all costs.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Pipeline – Инфопровод.&nbsp;
+                    </td>
+                    <td>
+                        1<span class="icon icon-credit"></span>: Сломай <strong>sentry</strong> подпрограмму.<br>2<span class="icon icon-credit"></span>: +1 сила до конца этого взлома.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Quality Time.&nbsp;
+                    </td>
+                    <td>
+                        Draw 5 cards.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        R&D Interface.&nbsp;
+                    </td>
+                    <td>
+                        Whenever you access cards from R&D, access 1 additional card from R&D.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <p class="card">
+                Rabbit Hole – Кроличья нора. +1<span class="icon icon-link"></span><br>Когда Кроличья нора установлена, можешь найти в колоде другую копию этой карты и установить её, заплатив стоимость её установки.<br>Перемешай колоду.
+            </p>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Replicator.&nbsp;
+                    </td>
+                    <td>
+                        Whenever you install a piece of hardware (including Replicator), you may search your stack for another copy of that hardware, reveal it, and add it your grip. Shuffle your stack.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <p class="card">
+                Sacrificial Construct – Расходники. <span class="icon icon-trash"></span>: Предотврати сброс установленной программы или железа.
+            </p>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Snowball.&nbsp;
+                    </td>
+                    <td>
+                        1<span class="icon icon-credit"></span>: Сломай <strong>barrier</strong> подпрограмму.<br>1<span class="icon icon-credit"></span>: +1 сила.<br>Whenever you use Snowball to Сломай a подпрограмму. it has +1 сила for the remainder of the run.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Test Run.&nbsp;
+                    </td>
+                    <td>
+                        Search your stack or heap for a program. Install that program, ignoring all costs. Shuffle your stack if you searched it. When this turn ends, add the program to the top of your stack if it is still installed.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        The Helpful AI.&nbsp;
+                    </td>
+                    <td>
+                        +1<span class="icon icon-link"></span><br><span class="icon icon-trash"></span>: Choose an <strong>icebreaker</strong>. That <strong>icebreaker</strong> has +2 strength until the end of the turn.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <p class="card">
+                The Maker's Eye – Глаз Творца. Попытайся взломать сервер разработки. В случае успеха получи доступ к 2 дополнительным картам сервера разработки.
+            </p>
+        
+    
+        
+        
+            <p class="card">
+                The Personal Touch – Индивидуальный подход. Индивидуальный подход устанавливается только на <strong>icebreaker.</strong><br>Этот <strong>icebreaker</strong> получает +1 силы.
+            </p>
+        
+    
+        
+        
+            <p class="card">
+                The Toolbox – Ящик с инструментами. +2<span class="icon icon-mu"></span> +2<span class="icon icon-link"></span> 2<span class="icon icon-recurring-credit"></span><br>Используй эти кредиты для оплаты использования <strong>ледоколов.</strong><br>Ограничение: 1 <strong>console</strong> на игрока.
+            </p>
+        
+    
+        
+        
+            <p class="card">
+                Tinkering – Резьба по льду. Выберите установленный лёд. Этот лёд получает свойства <strong>sentry</strong>, <strong>code gate</strong> и <strong>barrier</strong> до конца хода.
+            </p>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        ZU.13 Key Master.&nbsp;
+                    </td>
+                    <td>
+                        If you have at least 2<span class="icon icon-link"></span>, the memory cost of ZU.13 Key Master is 0, even if it is not installed.<br>1<span class="icon icon-credit"></span>: Break <strong>code gate</strong> subroutine.<br>1<span class="icon icon-credit"></span>: +1 сила.
+                    </td>
+                </tr>
+            </table>
+        
+    
+</body>
+</html>

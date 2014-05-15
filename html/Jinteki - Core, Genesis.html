@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jinteki - Core, Genesis</title>
+
+    <meta charset="utf-8">
+
+    <style type="text/css">
+        /* Game icons */
+        @font-face{
+            font-family: 'netrunner';
+            src: url('fonts/netrunner.eot');
+            src: url('fonts/netrunner.woff') format('woff'),
+                url('fonts/netrunner.ttf') format('truetype'),
+                url('fonts/netrunner.svg') format('svg');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        .icon {
+            font-family: 'netrunner';
+            speak: none;
+            font-style: normal;
+            font-weight: normal;
+            font-variant: normal;
+            text-transform: none;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            font-size:120%;
+            line-height:83.33%;
+            margin:0px 1px;
+        }
+
+        .icon-credit:before {
+            content: "\e600";
+        }
+        .icon-link:before {
+            content: "\e601";
+        }
+        .icon-haas-bioroid:before {
+            content: "\e602";
+        }
+        .icon-shaper:before {
+            content: "\e603";
+        }
+        .icon-subroutine:before {
+            content: "\e604";
+        }
+        .icon-anarch:before {
+            content: "\e605";
+        }
+        .icon-trash:before {
+            content: "\e606";
+        }
+        .icon-weyland-consortium:before {
+            content: "\e607";
+        }
+        .icon-recurring-credit:before {
+            content: "\e608";
+        }
+        .icon-jinteki:before {
+            content: "\e609";
+        }
+        .icon-1mu:before {
+            content: "\e60a";
+        }
+        .icon-nbn:before {
+            content: "\e60b";
+        }
+        .icon-2mu:before {
+            content: "\e60c";
+        }
+        .icon-asset:before {
+            content: "\e60d";
+        }
+        .icon-3mu:before {
+            content: "\e60e";
+        }
+        .icon-rez:before {
+            content: "\e60f";
+        }
+        .icon-mu:before {
+            content: "\e610";
+        }
+        .icon-click:before {
+            content: "\e611";
+        }
+        .icon-criminal:before {
+            content: "\e612";
+        }
+
+        /* Title styles */
+        h1 {
+            font-weight: normal;
+            font-size: 20px;
+            margin: 0 0 5px 30px;
+        }
+
+        /* Card list styles */
+        p.card {
+            text-indent: -3em;
+            padding-left: 3em;
+            margin: 0;
+        }
+
+        table, tr, td {
+            margin:0;
+            padding:0;
+            border: none;
+            border-spacing: 0;
+        }
+        table td.card-title {
+            vertical-align: top;
+            white-space: nowrap;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>
+        Jinteki - Core, Genesis
+    </h1>
+
+    
+        
+        
+            <p class="card">
+                Akitaro Watanabe – Акитаро Ватанабе. Стоимость компиляции льда, защищающего этот сервер, уменьшается на 2.
+            </p>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Braintrust.&nbsp;
+                    </td>
+                    <td>
+                        When you score Braintrust, place 1 agenda counter on it for every 2 advancement tokens on it over 3.<br>The rez cost of all ice is lowered by 1 for each agenda counter on Braintrust.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Bullfrog.&nbsp;
+                    </td>
+                    <td>
+                        <span class="icon icon-subroutine"></span> You and the Runner secretly spend 0<span class="icon icon-credit"></span>, 1<span class="icon icon-credit"></span> or 2<span class="icon icon-credit"></span>. Reveal spent credits. If you and the Runner spent a different number of credits, move Bullfrog so that it is the outermost piece of ice protecting another server (the Runner continues the run from this new position and is now running on this new server).
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <p class="card">
+                Cell Portal – Клеточный портал. <span class="icon icon-subroutine"></span> Хакер приступает к обработке самого дальнего льда атакуемого сервера. Декомпилируй Клеточный портал.
+            </p>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Chum – Наживка.&nbsp;
+                    </td>
+                    <td>
+                        <span class="icon icon-subroutine"></span> Следующий лёд, который хакер будет обрабатывать во время этого взлома, получает +2 силы. Причини 3 сетевых ущерба, если хакер не сломает все подпрограммы следующего льда.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <p class="card">
+                Data Mine – Информационная мина. <span class="icon icon-subroutine"></span> Причина хакеру 1 net damage. Сбрось Информационную мину.
+            </p>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Dedicated Server.&nbsp;
+                    </td>
+                    <td>
+                        2<span class="icon icon-recurring-credit"></span><br>Use these credits to rez ice.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Edge of World.&nbsp;
+                    </td>
+                    <td>
+                        If Edge of World is installed and you pay 3<span class="icon icon-credit"></span> when the Runner accesses it, do 1 brain damage for each piece of ice protecting this server.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Fetal AI.&nbsp;
+                    </td>
+                    <td>
+                        If Fetal AI is accessed from R&D, the Runner must reveal it.<br>When the Runner accesses Fetal AI, do 2 net damage. Ignore this ability if the Runner accesses Fetal AI from Archives.<br>As an additional cost to steal Fetal AI, the Runner must pay 2<span class="icon icon-credit"></span>.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Hokusai Grid.&nbsp;
+                    </td>
+                    <td>
+                        Whenever there is a successful run on this server, do 1 net damage.Limit 1 <strong>region</strong> per server.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Midori.&nbsp;
+                    </td>
+                    <td>
+                        Once per run, when the Runner approaches a piece of ice protecting this server, you may swap that ice with a piece of ice from HQ. The new ice is installed unrezzed.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <p class="card">
+                Neural EMP – Нейронный ЭМИ. Можно играть, только если в свой последний ход хакер совершал взлом.<br>Причини хакеру 1 сетевой ущерб.
+            </p>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Nisei MK II – Нисей МК II.&nbsp;
+                    </td>
+                    <td>
+                        Когда ты засчитываешь Нисей МК II, положи на карту 1 маркер агенды.<br><strong>Расположенный маркер агенды:</strong> Останови взлом.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <p class="card">
+                Precognition – Предвидение. Посмотри 5 верхних карт R&D и верни их в любом порядке.
+            </p>
+        
+    
+        
+        
+            <p class="card">
+                Project Junebug – Проект Майский жук. Проект Майский жук можно укрупнять.<br>Когда хакер получает доступ к Проекту Майский жук, можешь заплатить 1<span class="icon icon-credit"></span>, чтобы причинить по 2 сетевых ущерба за каждый маркер укрупнения на Проекте Майский жук.
+            </p>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Ronin.&nbsp;
+                    </td>
+                    <td>
+                        Ronin can be advanced.<br>If there are at least 4 advancement tokens on Ronin, it gains "<span class="icon icon-click"></span>, <span class="icon icon-trash"></span>: Do 3 net damage."
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Sensei.&nbsp;
+                    </td>
+                    <td>
+                        <span class="icon icon-subroutine"></span> For the remainder of this run, each piece of ice encountered except Sensei gains "<span class="icon icon-subroutine"></span> End the run" after all its other subroutines.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Snare! – Ловушка!.&nbsp;
+                    </td>
+                    <td>
+                        Если хакер получил доступ к Ловушке с сервера R&D, он должен показать её.<br>Если ты в этот момент заплатишь 4<span class="icon icon-credit"></span>, хакер получает 3 net damage и 1 тэг. Игнорируй этот эффект при доступе хакера к Ловушке из архива.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Snowflake.&nbsp;
+                    </td>
+                    <td>
+                        <span class="icon icon-subroutine"></span> You and the Runner secretly spend 0<span class="icon icon-credit"></span>, 1<span class="icon icon-credit"></span>, or 2<span class="icon icon-credit"></span>. Reveal spent credits. End the run if you and the Runner spent a different number of credits.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Sunset.&nbsp;
+                    </td>
+                    <td>
+                        Choose a server. Arrange the ice protecting that server in any order.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Trick of Light.&nbsp;
+                    </td>
+                    <td>
+                        Move up to 2 advancement tokens from a card to another installed card that can be advanced.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <table>
+                <tr>
+                    <td class="card-title">
+                        Whirlpool.&nbsp;
+                    </td>
+                    <td>
+                        <span class="icon icon-subroutine"></span> The Runner cannot jack out for the remainder of this run. Trash Whirlpool.
+                    </td>
+                </tr>
+            </table>
+        
+    
+        
+        
+            <p class="card">
+                Zaibatsu Loyalty – Лояльность к Дзайбацу. Если хакер собирается разоблачить карту, ты можешь скомпилировать Лояльность к Дзайбацу.<br>1<span class="icon icon-credit"></span> или <span class="icon icon-trash"></span>: Предотврати разоблачение 1 карты.
+            </p>
+        
+    
+</body>
+</html>
