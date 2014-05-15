@@ -7,11 +7,11 @@ progress: 0.0
 title: Bernice Mai
 title_ru: нет
 text: >-
-    Whenever there is a successful run on this server, <strong>trace<sup>5</sup></strong>&ndash;
+    Whenever there is a successful run on this server, <strong>trace<sup>5</sup></strong> –
     if successful, give the runner 1 tag. If unsuccessful, trash Bernice
     Mai.
 text_ru: >-
-    Whenever there is a successful run on this server, <strong>сканирование<sup>5</sup></strong>&ndash;
+    Whenever there is a successful run on this server, <strong>сканирование<sup>5</sup></strong> –
     if successful, give the runner 1 tag. If unsuccessful, trash Bernice
     Mai.
 flavor: >-

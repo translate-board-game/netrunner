@@ -7,11 +7,11 @@ progress: 0.0
 title: Punitive Counterstrike
 title_ru: нет
 text: >-
-    <strong>Trace<sup>5</sup></strong>&ndash; If successful, do meat damage
+    <strong>Trace<sup>5</sup></strong> – If successful, do meat damage
     to the Runner equal to the number of agenda points on agendas he or
     she stole during his or her last turn.
 text_ru: >-
-    <strong>Сканирование<sup>5</sup></strong>&ndash; Если успешно, do meat damage
+    <strong>Сканирование<sup>5</sup></strong> – Если успешно, do meat damage
     to the Runner equal to the number of agenda points on agendas he or
     she stole during his or her last turn.
 flavor: >-

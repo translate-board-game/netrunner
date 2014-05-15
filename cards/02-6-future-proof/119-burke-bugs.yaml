@@ -7,10 +7,10 @@ progress: 0.0
 title: Burke Bugs
 title_ru: нет
 text: >-
-    [Subroutine] <strong>Trace<sup>0</sup></strong>&ndash; If successful,
+    [Subroutine] <strong>Trace<sup>0</sup></strong> – If successful,
     the Runner trashes 1 program.
 text_ru: >-
-    [Subroutine] <strong>Сканирование<sup>0</sup></strong>&ndash; Если успешно,
+    [Subroutine] <strong>Сканирование<sup>0</sup></strong> – Если успешно,
     the Runner trashes 1 program.
 flavor: >-
     "If I had to describe the bugs in one word, it would be '****ing annoying.'"

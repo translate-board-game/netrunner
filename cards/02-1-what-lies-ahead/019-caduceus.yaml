@@ -7,16 +7,16 @@ progress: 0.0
 title: Caduceus
 title_ru: нет
 text: >-
-    [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
+    [Subroutine] <strong>Trace<sup>3</sup></strong> – If successful,
     the Corp gains 3[Credits].
 
-    [Subroutine] <strong>Trace<sup>2</sup></strong>&ndash; If successful,
+    [Subroutine] <strong>Trace<sup>2</sup></strong> – If successful,
     end the run.
 text_ru: >-
-    [Subroutine] <strong>Сканирование<sup>3</sup></strong>&ndash; Если успешно,
+    [Subroutine] <strong>Сканирование<sup>3</sup></strong> – Если успешно,
     the Corp gains 3[Credits].
 
-    [Subroutine] <strong>Сканирование<sup>2</sup></strong>&ndash; Если успешно,
+    [Subroutine] <strong>Сканирование<sup>2</sup></strong> – Если успешно,
     end the run.
 flavor: >-
     A symbol of commerce, but beware its bite.

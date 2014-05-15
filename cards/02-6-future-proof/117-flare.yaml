@@ -7,11 +7,11 @@ progress: 0.0
 title: Flare
 title_ru: нет
 text: >-
-    [Subroutine]<strong>Trace<sup>6</sup></strong>&ndash; If successful,
+    [Subroutine]<strong>Trace<sup>6</sup></strong> – If successful,
     trash 1 piece of hardware, do 2 meat damage (cannot be prevented), and
     end the run.
 text_ru: >-
-    [Subroutine]<strong>Сканирование<sup>6</sup></strong>&ndash; Если успешно,
+    [Subroutine]<strong>Сканирование<sup>6</sup></strong> – Если успешно,
     trash 1 piece of hardware, do 2 meat damage (cannot be prevented), and
     end the run.
 flavor: >-

@@ -10,12 +10,12 @@ text: >-
     Play only if the Runner made a successful run during his or her last
     turn.
 
-    <strong>Trace<sup>3</sup></strong>&ndash; If successful, give the Runner
+    <strong>Trace<sup>3</sup></strong> – If successful, give the Runner
     1 tag.
 text_ru: >-
     Можно играть, только если в свой последний ход хакер совершил успешный взлом сервера.
 
-    <strong>Сканирование<sup>3</sup></strong>&ndash;
+    <strong>Сканирование<sup>3</sup></strong> –
     Если успешно, хакер получает 1 тэг.
 flavor: >-
     "The SEA tipped us off to some suspicious data spikes up by the Castle."

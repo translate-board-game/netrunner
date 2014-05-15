@@ -14,7 +14,7 @@ text: >-
 
     [Subroutine] Trash 1 program.
 
-    [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
+    [Subroutine] <strong>Trace<sup>3</sup></strong> – If successful,
     give the Runner 1 tag and do 1 brain damage.
 text_ru: >-
     The Runner can spend [Click][Click] to break up to 2 subroutines on
@@ -24,7 +24,7 @@ text_ru: >-
 
     [Subroutine] Сбрось 1 программу.
 
-    [Subroutine] <strong>Сканирование<sup>3</sup></strong>&ndash; Если успешно,
+    [Subroutine] <strong>Сканирование<sup>3</sup></strong> – Если успешно,
     give the Runner 1 tag and do 1 brain damage.
 flavor: >-
     The game has changed.

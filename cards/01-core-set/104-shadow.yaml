@@ -12,7 +12,7 @@ text: >-
 
     [Subroutine] The Corp gains 2[Credits].
 
-    [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
+    [Subroutine] <strong>Trace<sup>3</sup></strong> – If successful,
     give the Runner 1 tag.
 text_ru: >-
     Тень можно укрупнять.
@@ -20,7 +20,7 @@ text_ru: >-
 
     [Subroutine] Корпорация получает 2[Credits].
 
-    [Subroutine] <strong>Сканирование<sup>3</sup></strong>&ndash;
+    [Subroutine] <strong>Сканирование<sup>3</sup></strong> –
     Если успешно, хакер получает 1 тэг.
 flavor: >-
     Who knows what evil lurks in the memory diamonds of men? Weyland knows.

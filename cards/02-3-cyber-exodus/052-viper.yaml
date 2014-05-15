@@ -7,16 +7,16 @@ progress: 0.0
 title: Viper
 title_ru: нет
 text: >-
-    <strong>[Subroutine] Trace<sup>3</sup></strong>&ndash; If successful,
+    <strong>[Subroutine] Trace<sup>3</sup></strong> – If successful,
     the Runner loses [Click], if able.
 
-    <strong>[Subroutine] Trace<sup>3</sup></strong>&ndash; If successful,
+    <strong>[Subroutine] Trace<sup>3</sup></strong> – If successful,
     end the run.
 text_ru: >-
-    <strong>[Subroutine] Trace<sup>3</sup></strong>&ndash; Если успешно,
+    <strong>[Subroutine] Trace<sup>3</sup></strong> – Если успешно,
     the Runner loses [Click], if able.
 
-    <strong>[Subroutine] Trace<sup>3</sup></strong>&ndash; Если успешно,
+    <strong>[Subroutine] Trace<sup>3</sup></strong> – Если успешно,
     end the run.
 flavor: >-
     Dont Tread On Me

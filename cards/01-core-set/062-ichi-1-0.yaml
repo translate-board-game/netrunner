@@ -13,7 +13,7 @@ text: >-
 
     [Subroutine] Trash 1 program.
 
-    [Subroutine] <strong>Trace<sup>1</sup></strong>&ndash; If successful,
+    [Subroutine] <strong>Trace<sup>1</sup></strong> – If successful,
     give the Runner 1 tag and do 1 brain damage.
 text_ru: >-
     Хакер может потратить [Click], чтобы сломать любую подпрограмму на  Ichi 1.0.
@@ -22,7 +22,7 @@ text_ru: >-
 
     [Subroutine] Сбрось 1 программу.
 
-    [Subroutine] <strong>Сканирование<sup>1</sup></strong>&ndash;
+    [Subroutine] <strong>Сканирование<sup>1</sup></strong> –
     Если успешно, хакер получает 1 тэг и 1 brain damage.
 flavor: >-
     My reputation would precede me, if any could speak of it.

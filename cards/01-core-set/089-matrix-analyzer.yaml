@@ -10,14 +10,14 @@ text: >-
     When the Runner encounters Matrix Analyzer, you may pay 1[Credits] to
     place 1 advancement token on a card that can be advanced.
 
-    [Subroutine] <strong>Trace<sup>2</sup></strong>&ndash; If successful,
+    [Subroutine] <strong>Trace<sup>2</sup></strong> – If successful,
     give the Runner 1 tag.
 text_ru: >-
     Когда хакер обрабатывает Анализатор матрицы,
     ты можешь заплатить 1[Credits], чтобы поместить 1 маркер укрупнения на карту,
     которая может быть укрупнена.
 
-    [Subroutine] <strong>Сканирование<sup>2</sup></strong>&ndash;
+    [Subroutine] <strong>Сканирование<sup>2</sup></strong> –
     Если успешно, хакер получает 1 тэг.
 flavor: >-
     Analyzing was great. Delegating commands turned out to be even better.

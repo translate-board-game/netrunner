@@ -7,16 +7,16 @@ progress: 0.0
 title: Uroboros
 title_ru: нет
 text: >-
-    [Subroutine] <strong>Trace<sup>4</sup></strong>&ndash; If successful,
+    [Subroutine] <strong>Trace<sup>4</sup></strong> – If successful,
     the Runner cannot make another run this turn.
 
-    [Subroutine] <strong>Trace<sup>4</sup></strong>&ndash; If successful,
+    [Subroutine] <strong>Trace<sup>4</sup></strong> – If successful,
     end the run.
 text_ru: >-
-    [Subroutine] <strong>Сканирование<sup>4</sup></strong>&ndash; Если успешно,
+    [Subroutine] <strong>Сканирование<sup>4</sup></strong> – Если успешно,
     the Runner cannot make another run this turn.
 
-    [Subroutine] <strong>Сканирование<sup>4</sup></strong>&ndash; Если успешно,
+    [Subroutine] <strong>Сканирование<sup>4</sup></strong> – Если успешно,
     end the run.
 flavor: >-
     Where one thing ends, another begins.

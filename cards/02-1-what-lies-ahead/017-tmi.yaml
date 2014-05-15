@@ -7,12 +7,12 @@ progress: 0.0
 title: TMI
 title_ru: нет
 text: >-
-    When you rez TMI, <strong>trace<sup>2</sup></strong>&ndash; if unsuccessful,
+    When you rez TMI, <strong>trace<sup>2</sup></strong> – if unsuccessful,
     derez TMI.
 
     [Subroutine] End the run.
 text_ru: >-
-    When you rez TMI, <strong>сканирование<sup>2</sup></strong>&ndash; if unsuccessful,
+    When you rez TMI, <strong>сканирование<sup>2</sup></strong> – if unsuccessful,
     derez TMI.
 
     [Subroutine] Останови взлом.

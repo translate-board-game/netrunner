@@ -12,7 +12,7 @@ text: >-
 
     <strong>Hosted power counter:</strong> Give the Runner 1 tag.
 
-    [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
+    [Subroutine] <strong>Trace<sup>3</sup></strong> – If successful,
     place 1 power counter on Data Raven.
 text_ru: >-
     Когда хакер обрабатывает Ворона данных,
@@ -20,5 +20,5 @@ text_ru: >-
 
     <strong>Расположенный маркер:</strong> Хакер получает 1 тэг.
 
-    [Subroutine] <strong>Сканирование<sup>3</sup></strong>&ndash;
+    [Subroutine] <strong>Сканирование<sup>3</sup></strong> –
     Если успешно, помести 1 маркер на Ворона данных,

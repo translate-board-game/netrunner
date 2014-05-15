@@ -7,10 +7,10 @@ progress: 0.5
 title: Hunter
 title_ru: Охотник
 text: >-
-    [Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; If successful,
+    [Subroutine] <strong>Trace<sup>3</sup></strong> – If successful,
     give the Runner 1 tag.
 text_ru: >-
-    [Subroutine] <strong>Сканирование<sup>3</sup></strong>&ndash;
+    [Subroutine] <strong>Сканирование<sup>3</sup></strong> –
     Если успешно, хакер получает 1 тэг.
 flavor: >-
     .//run/hunter-tr/return=true
