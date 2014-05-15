@@ -69,3 +69,10 @@
 Это значит, что поле записано особенным образом.
 Перевод строки будет заменён на пробел. А пустая строка будет заменена на перевод строки.  
 Так же используются коды игровых значков (`[Recurring Credits]`) и html теги (`<strong>`).
+
+####[Сообщить о чём угодно, Задать вопрос](https://github.com/translate-board-game/netrunner/issues?state=open)
+
+
+####[Скачать релизы](https://github.com/translate-board-game/netrunner/releases)
+
+
