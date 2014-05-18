@@ -3,7 +3,7 @@ faction: NBN
 type: ICE
 uniqueness: false
 obvious: false
-progress: 0.0
+progress: 0.5
 title: TMI
 title_ru: нет
 text: >-
@@ -12,8 +12,8 @@ text: >-
 
     [Subroutine] End the run.
 text_ru: >-
-    When you rez TMI, <strong>сканирование<sup>2</sup></strong> – if unsuccessful,
-    derez TMI.
+    После компиляции произведи strong>сканирование<sup>2</sup></strong> – 
+    в случае провала декомпилируй TMI.
 
     [Subroutine] Останови взлом.
 flavor: >-
